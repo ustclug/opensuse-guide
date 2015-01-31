@@ -282,30 +282,19 @@ https://zh.opensuse.org/SDB:Bumblebee
 
 <div class="os2">15.2 ATI(AMD)</div>
 
-Coming soon... <br /><br />
-
-<!--
 
 点击下面按钮，一键安装 ATI(AMD) 专有显卡驱动，适用于Radeon HD 5000系列和之后的显卡。（老版本显卡的驱动 ATI(AMD) 没提供，只能使用系统默认的开源驱动，而且openSUSE 13.2自带的开源驱动性能比旧的AMD官方驱动性能好。）
 <br /><br />
 对于HD5000系列及之后的A卡：（通用）
 <br /><br />
-<center><a href="http://geeko.ioda.net/mirror/amd-fglrx/raw-src/amd-ati-fglrx.ymp"><img src="images/oneclick/ati-fglrx.png" alt="ymp" class="pic" />
-<font size="6">32位系统</font>
+<center><a href="http://opensuse-community.org/amd.ymp">
+    <img src="images/oneclick/ati-fglrx.png" alt="ymp" class="pic" />
+    <font size="6">32位系统</font>
 </a></center><br />
 
-<center><a href="http://geeko.ioda.net/mirror/amd-fglrx/raw-src/amd-ati-fglrx64.ymp"><img src="images/oneclick/ati-fglrx64.png" alt="ymp" class="pic" />
-<font size="6">64位系统</font>
-</a></center><br />
-
-HD2000系列到HD4000系列的A卡：<b>（仅限openSUSE 12.2和之前的版本）</b>
-<br /><br />
-<center><a href="http://geeko.ioda.net/mirror/amd-fglrx-legacy/raw-src/amd-ati-fglrx-legacy.ymp"><img src="images/oneclick/ati-fglrx.png" alt="ymp" class="pic" />
-<font size="6">32位系统</font>
-</a></center><br />
-
-<center><a href="http://geeko.ioda.net/mirror/amd-fglrx-legacy/raw-src/amd-ati-fglrx64-legacy.ymp"><img src="images/oneclick/ati-fglrx64.png" alt="ymp" class="pic" />
-<font size="6">64位系统</font>
+<center><a href="http://opensuse-community.org/amd64.ymp">
+    <img src="images/oneclick/ati-fglrx64.png" alt="ymp" class="pic" />
+    <font size="6">64位系统</font>
 </a></center><br />
 
 之后重启您的电脑。<br /><br />
@@ -313,7 +302,6 @@ HD2000系列到HD4000系列的A卡：<b>（仅限openSUSE 12.2和之前的版本
 <div class="cl">uname -a</div><br />
 上面命令输出中如果看到x86_64 ，您的就是64位系统；如果您看到 i386/i586/i686 ，那么您的是32位系统。<br /><br />
 
--->
 
 openSUSE官方的ATI(AMD)显卡详细安装指南：<br />
 <a href="http://en.opensuse.org/SDB:ATI_drivers" target="_blank">
