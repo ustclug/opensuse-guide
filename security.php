@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -180,7 +180,7 @@ openSUSE 和其他的 GNU/Linux 都是相当安全的，不过面对的是深不
 当您要用图形界面处理需要管理员权限的系统文件（修改/home/目录之外的东西基本都要）时，您可以启动超级用户
 模式Dolphin文件管理器。
 
-<div class="sti">Applications（应用程序） => System（系统）=> File Manager（文件管理器） => File Manager - Super User Mode（文件管理器-超级用户模式）</div><br />
+<div class="sti">开始菜单 => 系统 => File Manager - Super User Mode（文件管理器-超级用户模式）</div><br />
 
 
 <center><a href="images/screenshots/super-dolph.png" rel="thumbnail"><img src="images/screenshots/super-dolphb.png" alt="super user dolphin" class="pic" /></a></center><br />
@@ -212,11 +212,11 @@ openSUSE 和其他的 GNU/Linux 都是相当安全的，不过面对的是深不
 关于终端使用的更多信息，在下个章节中将有详细介绍。<br /><br />
 
 <div class="os2">7.2 安全更新</div>
-openSUSE 的每个版本都会提供为期18个月的安全更新。当有新的安全更新时，
-任务栏托盘中的 Apper 将会提示您。<br /><br />
+openSUSE Leap 大版本计划是 3-4 年更新，所以补丁支持期很长。当有新的安全更新时，
+任务栏托盘中的护盾形状图标将会提示您。<br /><br />
 
 
-<center><a href="images/screenshots/apper.png" rel="thumbnail"><img src="images/screenshots/apperb.png" alt="apper" class="pic" /></a></center><br />
+<center><a href="images/screenshots/pk-updater.png" rel="thumbnail"><img src="images/screenshots/pk-updaterb.png" alt="pk-updater" class="pic" /></a></center><br />
 
 
 <div class="os3">7.2.1 在终端中安装更新</div>

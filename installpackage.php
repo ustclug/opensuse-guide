@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -164,7 +164,7 @@ function googleTranslateElementInit() {
 
 <div class="os2">10.1 使用软件包管理器</div>
 打开 YaST 中的“软件管理”：<br />
-<div class="sti">Kickoff menu（开始菜单） => Computer tab（计算机） => Install/Remove Software（软件安装/卸载）</div><br />
+<div class="sti">开始菜单 => 系统 => Yast，在 Yast 里点击 "软件管理"</div><br />
 
 
 <center><video src="video/installpackage114.ogv" controls>  

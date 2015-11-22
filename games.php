@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -171,7 +171,7 @@ function googleTranslateElementInit() {
   <a href="repositories.php">软件源</a> 章节所述。<br /><br />
 
 或者使用命令行添加游戏源：
-<div class="clroot">zypper addrepo -f http://download.opensuse.org/repositories/games/openSUSE_13.2/ games</div><br />
+<div class="clroot">zypper addrepo -f http://download.opensuse.org/repositories/games/openSUSE_Leap_42.1/ games</div><br />
 
 <div class="os3">B.1.2 Steam 游戏平台和商店</div>
 Steam游戏平台已经发布Linux版本，并已经在Linux启用如
@@ -251,14 +251,6 @@ Wine是命令行的应用程序，其语法是：
 第二个选择是CrossOver Games，是基于Wine的跨平台游戏工具，请看：
 <br />
 <a href="http://www.codeweavers.com/products/cxgames/" target="_blank">http://www.codeweavers.com/products/cxgames/</a><br /><br />
-
-
-<div class="os3">B.2.4 Cedega（运行Windows游戏的工具）</div>
-
-另一个可以让您运行微软Windows游戏的选择是Cedega。
-他们有一些微软Windows游戏，被其官方认证可以这样来运行。请看：
-<br />
-<a href="http://www.cedega.com" target="_blank">http://www.cedega.com/</a><br /><br />
 
 
 <div class="os2">B.3 模拟器（Emulators，运行经典小游戏）</div>

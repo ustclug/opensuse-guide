@@ -414,6 +414,11 @@ Qt是KDE桌面的基石，开发Qt程序可以用简单的文本编辑器，也�
 需要注意磁盘空间，最后一个文档包体积较大，当然所带的英文资料也够丰富。（在Yast软件管理中搜索 qt5 可以找到 qt5 的开发库和工具。）
 <br /><br />
 
+<!--
+zypper in  -t  pattern devel_qt4
+zypper in  qt-creator  libqt4-sql-mysql libqt4-sql-postgresql libqt4-sql-unixODBC
+-->
+
 <center><a href="picdev/qtcreator.png" rel="thumbnail"><img src="picdev/qtcreators.png" alt="qtcreator" class="pic" /></a></center><br /><br />
 
 KDevelop是比较全面的集成开发环境，KDevelop支持多种不同语言，其中包括C、C++、Perl、Python、PHP、Java、Fortran、Ruby、Ada、Pascal、SQL和Bash脚本。支持各种图形库编程，支持的构建系统包括GNU（automake）、cmake、qmake和自定义项目的make（如果您想使用自己的Makefile，KDevelop不会破坏它们的）以及不需要Makefile的脚本项目。安装命令：<br />

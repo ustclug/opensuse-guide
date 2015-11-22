@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -177,11 +177,6 @@ function googleTranslateElementInit() {
 <br />
 <a href="http://en.opensuse.org/Application_equivalents" target="_blank">http://en.opensuse.org/Application_equivalents</a><br /><br />
 
-<b>说明：ADSL（PPPoE）拨号上网建议看此贴：</b><br />
-<a href="http://hi.baidu.com/winland0704/blog/item/999cd62e9956da82023bf656.html" target="_blank">
-关于openSUSE的ADSL即pppoe拨号上网【修正】
-</a>
-<br /><br />
 openSUSE 默认使用Fcitx中文输入法，候选字翻页使用减号 - 和加号 + 按键。
 <br /><br />
 
@@ -206,7 +201,7 @@ LibreOffice 是一个完整的 Office 办公套装，包括文字处理、表格
 
 <center><a href="images/screenshots/lowriter.png" rel="thumbnail"><img src="images/screenshots/lowriterb.png" alt="libreoffice" class="pic" /></a></center><br />
 
-其他可选的：KOffice, Abiword和永中Office<br /><br />
+其他可选的：KOffice, Abiword, Gnumeric 和永中Office<br /><br />
 <b>
 本站力荐国产的WPS办公套件：<br />
 <a href="http://linux.wps.cn/" target="_blank">
@@ -241,18 +236,16 @@ osd-lyrics
 </a>
 <br /><br />
 
-<div class="os2">6.4 使用Kaffeine看视频</div>
-Kaffeine 可以播放电影和DVD等视频。后面章节中会介绍如何安装解码器。
-Kaffeine播放电影不好使，容易崩，<b>推荐SMPlayer</b>。安装解码器时
-可以一起安装MPlayer、SMPlayer和VLC Player。<br /><br />
+<div class="os2">6.4 使用Dragon Player看视频</div>
+Dragon Player 可以播放电影和DVD等视频。后面章节中会介绍如何安装解码器。
+安装解码器时可以一起安装 MPlayer、SMPlayer和VLC Player。<br /><br />
 
-
-<center><a href="images/screenshots/kaffeine.png" rel="thumbnail"><img src="images/screenshots/kaffeineb.png" alt="kaffeine" class="pic" /></a></center><br />
+<center><a href="images/screenshots/dragon.png" rel="thumbnail"><img src="images/screenshots/dragonb.png" alt="Dragon" class="pic" /></a></center><br />
 
 其他可选的：MPlayer，SMPlayer, 
 <a href="http://www.videolan.org/vlc/download-suse.html"  target="_blank">
 VLC</a>
-, UMPlayer, RealPlayer<br /><br />
+, UMPlayer, mpv<br /><br />
 
 
 <div class="os2">6.5 使用GIMP编辑图片</div>
@@ -260,6 +253,19 @@ GIMP (GNU Image Manipulation Program，GNU图像处理程序) 是一个非常强
 
 
 <center><a href="images/screenshots/gimp.png" rel="thumbnail"><img src="images/screenshots/gimpb.png" alt="gimp" class="pic" /></a></center><br />
+
+<div class="tip">
+<table>
+<tbody>
+<tr>
+<td><img src="images/pics/tip.png" alt="tip" /></td>
+<td>
+GIMP 可以作为单一窗口工作，简单点击菜单"窗口" (Windows) ，选中选项 "单窗口模式" (Single-Window Mode)。
+</td>
+</tr>
+</tbody>
+</table>
+</div><br />
 
 其他可选的：Gwenview (只有基本的编辑功能 - 调整大小、 修剪、减轻红眼等)<br /><br />
 

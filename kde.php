@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -178,19 +178,20 @@ KDE 的桌面与您所熟悉的其他桌面如 Windows 桌面还是有点儿相�
 <center><a href="images/screenshots/desktop.png" rel="thumbnail"><img src="images/screenshots/desktopb.png" alt="desktop" class="pic" /></a></center><br />
 
 
-<div class="os3">5.1.1 “开始菜单”(Kickoff)</div>
-单击屏幕左下角的小蜥蜴图标打开 Kickoff 菜单（可以暂时理解为“开始”菜单），菜单的底部有5个标签页，顶部则是一个搜索框。在 Favorites（收藏夹） 标签里可以用右键添加或者删除一些常用的软件“快捷方式”。<br /><br />
-
-Kickoff 的快捷方式是 Alt+F1 ，当然也可以设置成 Win 的徽标键。
-然后可以使用方向键、Enter和Esc键来导航去向。
+<div class="os3">5.1.1 开始菜单</div>
+单击屏幕左下角的 K 字母图标可以显示开始菜单（快捷键是 Alt+F1 ），
+在开始菜单底部是搜索框，可以搜索应用程序名称，
+开始菜单左边有竖排的一列小图标是您喜好的应用程序（侧边栏），可以右击开始菜单里面的应用程序条目，
+添加应用到侧边栏或删除侧边栏里的应用。
 <br /><br />
 
 
-<center><a href="images/screenshots/kickoff.png" rel="thumbnail"><img src="images/screenshots/kickoffb.png" alt="kickoff" class="pic" /></a></center><br />
+
+<center><a href="images/screenshots/launchmenu.png" rel="thumbnail"><img src="images/screenshots/launchmenub.png" alt="launchmenu" class="pic" /></a></center><br />
 
 
 您可以自由的编辑菜单，添加和删除应用程序的“快捷方式”： 
-<div class="sti">右键单击菜单图表 =&gt; 菜单编辑器</div><br />
+<div class="sti">右键单击菜单图标 =&gt; 菜单编辑器</div><br />
 
 如果需要将一个快捷方式添加到桌面或者其他面板中，可以这样做（需要小部件在解锁状态）： 
 <div class="sti">在菜单中找到程序 => 右击该条目 => 单击 "添加到面板" 或者 "添加到桌面"</div><br />
@@ -235,6 +236,7 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 （需要桌面效果支持，请看本章后面桌面效果的段落）。
 <br /><br />
 
+<!--
 <div class="os3">5.1.4 活动桌面</div>
 靠近虚拟桌面栅格的左边是带三个小圈的立方体，单机它会打开活动桌面管理器。
 活动桌面是不同的可定制桌面，可以配置为带有不同小部件、不同壁纸和自动启动的特定应用程序的定制的任务/活动。
@@ -249,20 +251,12 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 
 <center><a href="images/screenshots/activities.png" rel="thumbnail"><img src="images/screenshots/activitiesb.png" alt="widgets" class="pic" /></a></center><br />
 
-
-<!--
-<div class="os2">5.2 我的电脑</div>
-桌面上有一个“我的电脑”的图标，与 Windows 上的“我的电脑”有些许的类似。区别是这里您可以直接看到系统的一些信息，但不要将这里当作寻找并打开文件的入口。建议用打开开始菜单里的主文件夹的方式
-（或桌面左下角快捷启动里的主文件夹按钮）访问文件和执行程序或脚本。
-<br /><br />
-
-
-<center><a href="images/screenshots/sysinfo.png" rel="thumbnail"><img src="images/screenshots/sysinfob.png" alt="sysinfo" class="pic" /></a></center><br />
 -->
 
 <div class="os2">5.2 文件管理器</div>
 
-默认的文件管理器是 Dolphin，可以通过单击底部面板上的小“文件柜” 图标打开。就是5.1.3节图片左数第三个、文件夹模样的图标，它很直观。
+默认的文件管理器是 Dolphin，
+您可以在开始菜单左边的侧边栏（默认从上面数第四个图标）或者开始菜单下面的“系统”分类菜单里面找到它，它的图标很直观，就是文件夹的图样。
 如果您插入优盘或者其他移动储存设备的话，会自动出现在 Dolphin 的左侧面板上。
 <br /><br />
 
@@ -270,13 +264,13 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 <center><a href="images/screenshots/dolphin.png" rel="thumbnail"><img src="images/screenshots/dolphinb.png" alt="dolphin" class="pic" /></a></center><br />
 
 
-<div class="os2">5.3 个性设置 / 配置桌面 (又名"systemsettings"，系统设置)
+<div class="os2">5.3 KDE 系统设置(个性化桌面设置)
 </div>
 
-KDE 的全局设置都在菜单上的 “Personal Settings / Configure Desktop” 里。
+KDE 桌面环境的全局设置都搜集在一起了。
 这里您可以设置鼠标动作、默认应用程序以及文件关联、网络设置、显示器设置、
 桌面背景、主题外观、桌面3D特效、电源设置（待机时间、屏幕亮度等）
-等等，几乎KDE桌面所有的东西都在这设置。
+等等，几乎KDE桌面所有的东西都在这设置。您也可以在开始菜单左边的侧边栏找到 KDE 系统设置的图标，默认是从上面数第三个图标。
 <br /><br /> 
 
 

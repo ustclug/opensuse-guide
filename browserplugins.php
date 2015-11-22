@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -158,7 +158,7 @@ function googleTranslateElementInit() {
 
 <div class="os1">14. 浏览器插件</div>
 
-很多网站要求安装各种浏览器插件以使其达到预期的效果。这里是一些您可能想要安装的插件。这些插件安装方法对64位(x86_64)和32位(i586等)的 Linux 、对 GNOME 和 KDE 桌面都通用。 命令行安装需要root管理员权限，输入su，按提示输入密码，然后以管理员身份安装软件。其他安装方式也要按提示输入密码。
+很多网站要求安装各种浏览器插件以使其达到预期的效果。这里是一些您可能想要安装的插件。这些插件安装方法对 GNOME 和 KDE 桌面都通用。 命令行安装需要root管理员权限，输入su，按提示输入密码，然后以管理员身份安装软件。其他安装方式也要按提示输入密码。
 <br /><br /> 
 
 <div class="tip">
@@ -175,13 +175,14 @@ function googleTranslateElementInit() {
 
 <div class="os2">14.1 Adobe Flash</div>
 Flash被应用到大量网站的嵌入视频、动画、游戏，有时甚至是网页导航中。
+<br />
+您需要手动添加 Adobe Flash Plugin 软件源，然后
+安装 <b>flash-plugin</b> 包。
 <br /><br />
 
-软件包管理器首次运行时就会自动安装 <b>flash-player</b> 包，或者您可以手动安装它（需要 <i>Main Repository (NON-OSS)</i>，即主软件源(非开源软件)）。
-<br /><br />
-
-在终端命令行安装Flash：
-<div class="clroot">zypper install flash-player</div><br />
+在终端命令行安装 Flash 需要两句命令：
+<div class="clroot">zypper addrepo -f http://linuxdownload.adobe.com/linux/x86_64/ adobe-flash-plugin</div><br />
+<div class="clroot">zypper install flash-plugin</div><br />
 
 
 <div class="os2">14.2 Java</div>

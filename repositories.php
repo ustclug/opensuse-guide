@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -165,7 +165,7 @@ function googleTranslateElementInit() {
 
 <div class="os2">11.1 管理软件源</div>
 通过 YaST 可以添加、删除和管理软件源。<br />
-<div class="sti">Kickoff menu（开始菜单） => Computer tab（计算机） => YaST => Software（软件） => Software Repositories（软件安装源）</div><br />
+<div class="sti">开始菜单 => 系统 => YaST ，在 Yast 里点击 "软件源"</div><br />
 
 
 <center><a href="images/screenshots/yast-repos.png" rel="thumbnail"><img src="images/screenshots/yast-reposb.png" alt="repos" class="pic" /></a></center><br />
@@ -194,7 +194,7 @@ function googleTranslateElementInit() {
 
 
 最简单且最安全的添加软件软件源的方法是让 YaST 自动寻找并添加社区软件源。它会列出一些常用的并且安全的软件源供您选择：
-<div class="sti">Kickoff menu（开始菜单） => Computer tab（计算机） => YaST => Software（软件） => Software Repositories（软件安装源） => Click on "Add"（单击“添加”） => Select "Community Repositories" and click "Next"（选择“社区软件源”并点击“下一步”）</div><br />
+<div class="sti">YaST => Software（软件） => Software Repositories（软件源） => Click on "Add"（单击“添加”） => Select "Community Repositories" and click "Next"（选择“社区软件源”并点击“下一步”）</div><br />
 
 <center><video src="video/repos114.ogv" controls>  
 
@@ -244,16 +244,18 @@ function googleTranslateElementInit() {
 对于国内用户而言，用官方的软件源还是相当慢的，国内有些厂商或者组织提供了免费的源镜像，速度不错，建议使用：<br />
 
 <ul>
-	<li><a href="http://mirrors.163.com/openSUSE/" target="_blank">网易163（双线）</a>（<a href="http://mirrors.163.com/.help/opensuse.html" target="_blank">使用帮助</a>）</li>
+	<li><a href="http://mirrors.163.com/openSUSE/" target="_blank">网易163</a>（<a href="http://mirrors.163.com/.help/opensuse.html" target="_blank">使用帮助</a>）</li>
 
-	<li><a href="http://mirrors.sohu.com/opensuse/" target="_blank">搜狐sohu</a>（<a href="http://mirrors.sohu.com/help/opensuse.html" target="_blank">使用帮助</a>）</li>	
+	<li><a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/" target="_blank">清华TUNA</a>（使用帮助同上）</li>	
 		
 	<li><a href="http://ftp.twaren.net/Linux/OpenSuSE/" target="_blank">
 	台湾openSUSE源
 	</a>（使用帮助同上）
 	</li>
 	
-	<li><a href="http://mirrors.ustc.edu.cn/opensuse/" target="_blank">中国科学技术大学</a>（使用帮助同上）</li>
+	<li><a href="http://mirrors.ustc.edu.cn/opensuse/" target="_blank">中国科学技术大学</a>
+	（<a href="https://lug.ustc.edu.cn/wiki/mirrors/help/opensuse" target="_blank">使用帮助</a>）
+	</li>
 	
 	<li><a href="http://mirrors.hust.edu.cn/opensuse/" target="_blank">华中科技大学</a>（使用帮助同上）</li>
 	
@@ -263,6 +265,13 @@ function googleTranslateElementInit() {
 
 本中文站推荐如下几个软件源，国人常用的软件都在这里面，输入法、网络电视、音乐播放器、桌面歌词、下载工具等等：
 <ul>
+
+    <li>
+        <b><a href="http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_Leap_42.1/" target="_blank">
+        http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_Leap_42.1/
+        </a></b>
+    </li>
+
 <!--
     <li>
         <a href="http://download.opensuse.org/repositories/home:/MargueriteSu/openSUSE_13.2/" target="_blank">
@@ -271,8 +280,8 @@ function googleTranslateElementInit() {
     </li>
 -->
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_13.2/" target="_blank">
-        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_13.2/
+        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_42.1/" target="_blank">
+        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_42.1/
         </a>
     </li>
 <!--
@@ -283,20 +292,16 @@ function googleTranslateElementInit() {
     </li>
 -->
 
-    <li>
-        <a href="http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_13.2/" target="_blank">
-        http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_13.2/
-        </a>
-    </li>
+
     
     <li>
-        <a href="http://mirrors.hust.edu.cn/packman/suse/openSUSE_13.2/" target="_blank">
-        http://mirrors.hust.edu.cn/packman/suse/openSUSE_13.2/
+        <a href="http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_42.1/" target="_blank">
+        http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_42.1/
         </a>（华中科技大学Packman源）
     </li>
     <li>
-        <a href="http://download.videolan.org/pub/vlc/SuSE/13.2/" target="_blank">
-        http://download.videolan.org/pub/vlc/SuSE/13.2/
+        <a href="http://download.videolan.org/pub/vlc/SuSE/" target="_blank">
+        http://download.videolan.org/pub/vlc/SuSE/
         </a>（Videolan 官方源）
     </li>
 </ul>
@@ -317,7 +322,7 @@ function googleTranslateElementInit() {
     </a> <br />
     
     openSUSE Build Service（OBS）软件源的使用见：<br />
-    <a href="http://hi.baidu.com/winland0704/blog/item/f621f4076d909d6f3912bb8f.html" target="_blank">
+    <a href="http://www.linuxidc.com/Linux/2011-12/48450.htm" target="_blank">
     openSUSE Build Service更名为Open Build Service
     </a><br /><br />
     这个搜索引擎也包含了 Packman 源:<br /><a href="http://webpinstant.com" target="_blank">http://webpinstant.com</a><br /><br />记住添加非官方源一定要小心！    
@@ -339,13 +344,13 @@ function googleTranslateElementInit() {
 <br /><br />
 
 使用命令 <i>zypper addrepo -f [URL] [Alias]</i> （Alias是自己给这个源随便定义的英文名）添加软件源并开启自动刷新，如：
-<div class="clroot">zypper addrepo -f http://ftp.gwdg.de/pub/linux/packman/suse/openSUSE_13.2/  packman</div><br />
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_42.1/  packman</div><br />
 
 使用命令 <i>zypper modifyrepo -d [URL或者Alias]</i> 禁用一个软件源，如：
 <div class="clroot">zypper modifyrepo -d Packman</div><br />
 
 使用命令 <i>zypper removerepo [URL或者Alias]</i> 删除一个软件源： 
-<div class="clroot">zypper removerepo http://ftp.gwdg.de/pub/linux/packman/suse/openSUSE_13.2/ </div><br />
+<div class="clroot">zypper removerepo http://packman.inode.at/suse/openSUSE_Leap_42.1/ </div><br />
 
 列出配置的软件源，显示详情（优先级、网址等等）：
 <div class="cl">zypper repos -d</div><br />

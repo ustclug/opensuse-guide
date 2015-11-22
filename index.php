@@ -9,7 +9,7 @@
 
 <head>
 
-<title>1. 简介 - openSUSE 13.2 / SUSE Linux 新手指南</title>
+<title>1. 简介 - openSUSE Leap 42.1 / SUSE Linux 新手指南</title>
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -157,42 +157,36 @@ function googleTranslateElementInit() {
 
 
 <div class="os1">1. 简介</div>
-这篇文档的初衷，是希望为刚刚接触openSUSE并打算将其用作家庭或者办公桌面系统的新手提供一份简洁易懂的指南，我们希望这份指南包含所有新手可能会遇到的问题并提供合适的解决方案。 <br /><br /> 
+这篇文档的初衷，是希望为刚刚接触 openSUSE Leap 并打算将其用作家庭或者办公桌面系统的新手提供一份简洁易懂的指南，我们希望这份指南包含所有新手可能会遇到的问题并提供合适的解决方案。 <br /><br /> 
 
 相信这篇指南会帮助您更容易的通往openSUSE之路，同时我们为感兴趣的读者提供了一份附录，以便您能够更多的了解openSUSE和GNU/Linux。
 <br /><br />
 
 请注意这份指南并非由
 <a href="http://www.opensuse.org" target="_blank">
-openSUSE项目</a>
+openSUSE 项目</a>
 或
 <a href="http://www.suse.com" target="_blank">
 SUSE LINUX Products GmbH（SUSE LINUX 产品有限责任公司）</a>
-或 Attachmate Group
+或 Micro Focus International
 官方提供。正如标题中所言，这只是一份非官方指南。<br /><br />
 
 希望它能对您有所帮助！<br /><br />
 
-<div class="os2">1.1 关于 openSUSE</div>
-openSUSE是一个基于GNU/Linux的计算机操作系统。相对于微软的Windows系统而言，它是开源并且免费的。openSUSE适用于家庭或者小型办公应用中的很多计算机设备，比如笔记本、台式电脑、上网本、服务器以及多媒体中心。<br /><br />
+<div class="os2">1.1 关于 openSUSE Leap</div>
+openSUSE Leap 是一个基于GNU/Linux的计算机操作系统。相对于微软的Windows系统而言，它是开源并且免费的。openSUSE Leap 适用于家庭或者小型办公应用中的很多计算机设备，比如笔记本、台式电脑、上网本、服务器以及多媒体中心。<br /><br />
 
 
-openSUSE是最主要的GNU/Linux发行版之一，并且也是历史最为悠久的发行版之一。新版本的openSUSE每8个月发行一次，并拥有多语言支持。openSUSE为每个版本都提供为期18个月的安全更新。
-<br /><br />
+openSUSE Leap 是最主要的GNU/Linux发行版之一，并且也是历史最为悠久的发行版之一。
+openSUSE Leap 使用源自 SUSE Linux Enterprise 的内核系统，但带有最新的硬件支持、桌面环境和图形程序。
+每年发布一个主补丁包，并且每隔 3-4 年发布新的主发行版并更新内核系统。
+（注：从上个版本 openSUSE 13.2 到 openSUSE Leap 42.1 是大的跨越，版本号和发布方式都有很大变化，但对用户使用没啥区别。）<br /><br />
 
 对富有经验和喜欢冒险的 GNU/Linux 用户，如果想要他们的操作系统冒点风险并体验刀尖上的艺术，
 可以试用滚动发行的 openSUSE 版本，称为
  <a href="https://en.opensuse.org/Portal:Tumbleweed" target="_blank">openSUSE Tumbleweed</a>。<br /><br />
 
-openSUSE是由社区志愿者和SUSE公司雇员一起公开、透明地开发的，
-并且它形成了企业级产品
-<a href="http://www.suse.com/products/desktop/" target="_blank">
-SUSE Linux Enterprise Desktop </a>
-和 
-<a href="http://www.suse.com/products/server/" target="_blank">
-SUSE Linux Enterprise Server </a>
-的基础。然而openSUSE对个人来说是完全免费的，
-包括使用和在线更新。<br /><br />
+openSUSE Leap 是由社区志愿者和 SUSE 公司雇员一起公开、透明地开发的，openSUSE 这些系统对个人来说是完全免费的，包括使用和在线更新。<br /><br />
 
 
 <div class="os2">1.2 本指南其他语言版本（衍生版）</div>

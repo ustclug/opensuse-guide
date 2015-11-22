@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -157,7 +157,7 @@ function googleTranslateElementInit() {
 
 
 <div class="os1">15. 显卡驱动</div>
-请注意：如果系统默认的开源驱动软件满足您的使用需求，就没必要安装下面的闭源显卡驱动软件。这些驱动软件安装方法对64位(x86_64)和32位(i586等)的 Linux 、对 GNOME 和 KDE 桌面都通用。 命令行安装需要root管理员权限，输入su，按提示输入密码，然后以管理员身份安装软件。其他安装方式也要按提示输入密码。 
+请注意：如果系统默认的开源驱动软件满足您的使用需求，就没必要安装下面的闭源显卡驱动软件。这些驱动软件安装方法对 GNOME 和 KDE 桌面都通用。 命令行安装需要root管理员权限，输入su，按提示输入密码，然后以管理员身份安装软件。其他安装方式也要按提示输入密码。 
 <br /><br />
 
 <div class="obs">
@@ -184,24 +184,19 @@ function googleTranslateElementInit() {
 <br /><br />
 
 <font color="red"> <b>
-请注意：所有采用 Nvidia Optimus 技术的显卡都不要按下面方式装官方驱动，因为 Nvidia 官方的 Linux 驱动目前不支持 Optimus 技术，虽然有计划支持，但需要时间。Optimus技术非官方支持见15.1.4节。</b>
+请注意：所有采用 Nvidia Optimus 技术的显卡都不要按下面方式装官方驱动，因为 Nvidia 官方的 Linux 驱动目前不支持 Optimus 技术，虽然有计划支持，但需要时间。Optimus技术非官方支持见15.1.3节。</b>
 </font>
 <br /><br />
-<div class="os3">15.1.1 近期 Nvidia 显卡的驱动</div>
-这个驱动适合2008年以及之后的N卡，包括GeForce 8, GeForce 100-, 200-, 300-, 400-, 500-, 600-, and 700-系列。<br /><br />
+<div class="os3">15.1.1 一键安装 Nvidia 显卡驱动</div>
+<br />
+ Geforce 400 系列以及之后的新显卡：
+<center><a href="http://opensuse-community.org/nvidia.ymp"><img src="images/oneclick/nvidia_gf400.png" alt="ymp" class="pic" /></a></center><br />
 
-<center><a href="http://opensuse-community.org/nvidia.ymp"><img src="images/oneclick/nvidia-gf8.png" alt="ymp" class="pic" /></a></center><br />
+Geforce 8 系列以及之后的显卡，大约2008年之后，包括 GeForce 8, GeForce 100-, 200- and 300-系列：<br /><br />
+<center><a href="http://opensuse-community.org/nvidia_gf8.ymp"><img src="images/oneclick/nvidia-gf8.png" alt="ymp" class="pic" /></a></center><br />
 
-<div class="os3">15.1.2 较早 Nvidia 显卡的驱动</div>
-这几个驱动支持2007年以及之前的N卡，包括 GeForce 6 和 7 。<br /><br />
-
+Geforce 6 和 7 系列、以及更老的显卡，大约2007年和之前的系列：<br /><br />
 <center><a href="http://opensuse-community.org/nvidia-gf6_gf7.ymp"><img src="images/oneclick/nvidia-gf6.png" alt="ymp" class="pic" /></a></center><br />
-
-<!--
-<center><a href="http://opensuse-community.org/nvidia-fx5xxx.ymp"><img src="images/oneclick/nvidia-fx5.png" alt="ymp" class="pic" /></a></center><br />
-
-<center><a href="http://opensuse-community.org/nvidia-legacy.ymp"><img src="images/oneclick/nvidia-gf4.png" alt="ymp" class="pic" /></a></center><br />
--->
 
 之后重启您的电脑。<br /><br />
 
@@ -210,47 +205,22 @@ openSUSE官方的Nvidia显卡详细安装指南：<br />
 http://en.opensuse.org/SDB:NVIDIA_drivers
 </a>
 <br /><br />
-<!--
-<b>特别说明：Nvidia 显卡驱动不分显卡的高低贵贱，只看生产时间。</b>
-上面四个版本分别对应显卡生产时间为：<br />
-<b>GF8之后的显卡：大概2008年至今的N卡，大部分都是用这个。</b>
-<br />
-GF6 和GF7系列显卡：大概2004-2007年的N卡。<br />
-FX5XXX 系列显卡：大概2003-2004年的N卡。<br />
-GF4 和更老的显卡：大概2003年之前的N卡。<br /><br />
--->
-<div class="os3">15.1.3 终端命令行安装 Nvidia 驱动</div>
 
-如果您喜欢的话，您可以在终端里安装 Nvidia 驱动。
+<div class="os3">15.1.2 终端命令行安装 Nvidia 驱动</div>
+
+如果您喜欢的话，您可以在终端里安装 Nvidia 驱动。<u>通过这种方式，您就无需知道自己是什么系列的 NVIDIA 显卡，
+该安装命令会自动识别显卡型号并挑选合适的驱动。</u>
 <br /><br />
 
 首先添加如下软件源：
-<div class="clroot">zypper addrepo -f ftp://download.nvidia.com/opensuse/13.2/ nvidia</div><br />
+<div class="clroot">zypper addrepo -f http://download.nvidia.com/opensuse/leap/42.1 nvidia</div><br />
 
+然后执行如下智能安装命令：
+<div class="clroot">zypper install-new-recommends</div><br />
 
-请根据您的显卡型号选择以下之一的驱动包安装：
-<br /><br />
+安装完之后重启。<br /><br />
 
-对 <b>GF8 之后的显卡</b>
-<div class="clroot">zypper install x11-video-nvidiaG03</div>
-
-对 <b>GF6 和GF7 系列的显卡</b>
-<div class="clroot">zypper install x11-video-nvidiaG02</div>
-
-
-<!--
-对 <b>FX5XXX 系列显卡</b>
-<div class="clroot">zypper install x11-video-nvidiaG01</div>
-
-对 <b>GF4 和更老的显卡</b>
-
-<div class="clroot">zypper install x11-video-nvidia</div><br />
-
--->
-
-最后重启。<br /><br />
-
-<div class="os3">15.1.4 Optimus 与 Bumblebee</div>
+<div class="os3">15.1.3 Optimus 与 Bumblebee</div>
 NVIDIA Optimus 是NVIDIA 公司2010年发布的独立显卡和集成显卡热切换技术，通常用于笔记本电脑，在游戏时双显卡同时工作，而平时图形计算负担轻时只使用Intel集成显卡，达到省电的效果。<br />
 在Optimus技术发布之初，Nvidia宣布Optimus技术不支持Linux平台。2012年Nvidia公司被Linus竖中指后，洗心革面，随后改口称将Optimus技术将会支持Linux平台，但是目前还未发布相应驱动包。<br />
 在当初Nvidia称Optimus技术不支持Linux平台之后，2011年开源项目“Bumblebee”启动，在Linux支持Optimus技术。当然，这是非官方的，也是不受Nvidia官方支持的。<br />
@@ -283,25 +253,16 @@ https://zh.opensuse.org/SDB:Bumblebee
 <div class="os2">15.2 ATI(AMD)</div>
 
 
-点击下面按钮，一键安装 ATI(AMD) 专有显卡驱动，适用于Radeon HD 5000系列和之后的显卡。（老版本显卡的驱动 ATI(AMD) 没提供，只能使用系统默认的开源驱动，而且openSUSE 13.2自带的开源驱动性能比旧的AMD官方驱动性能好。）
+点击下面按钮，一键安装 ATI(AMD) 专有显卡驱动，适用于Radeon HD 5000系列和之后的显卡。（老版本显卡的驱动 ATI/AMD 没提供，只能使用系统默认的开源驱动，而且 openSUSE 自带的开源驱动性能比旧的AMD官方驱动性能好。）
 <br /><br />
-对于HD5000系列及之后的A卡：（通用）
+对于HD5000系列及之后的A卡：
 <br /><br />
-<center><a href="http://opensuse-community.org/amd.ymp">
-    <img src="images/oneclick/ati-fglrx.png" alt="ymp" class="pic" />
-    <font size="6">32位系统</font>
-</a></center><br />
 
-<center><a href="http://opensuse-community.org/amd64.ymp">
-    <img src="images/oneclick/ati-fglrx64.png" alt="ymp" class="pic" />
-    <font size="6">64位系统</font>
+<center><a href="http://geeko.ioda.net/mirror/amd-fglrx/ymp/amd-ati-fglrx64.ymp">
+    <img src="images/oneclick/ati.png" alt="ymp" class="pic" />
 </a></center><br />
 
 之后重启您的电脑。<br /><br />
-要查出您系统是32位还是64位，运行命令：
-<div class="cl">uname -a</div><br />
-上面命令输出中如果看到x86_64 ，您的就是64位系统；如果您看到 i386/i586/i686 ，那么您的是32位系统。<br /><br />
-
 
 openSUSE官方的ATI(AMD)显卡详细安装指南：<br />
 <a href="http://en.opensuse.org/SDB:ATI_drivers" target="_blank">

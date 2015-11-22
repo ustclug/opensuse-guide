@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -173,7 +173,7 @@ http://en.opensuse.org/HCL:Network_(Wireless)
 
 <div class="os2">16.1 查出无线网卡芯片型号</div>
 
-如果您的无线网卡不被支持，不能自动正常工作，通过安装所需驱动，您很可能让它简单正常地工作。安装驱动软件需要root管理员权限，在命令行下输入su，按提示输入密码，然后以管理员身份来安装驱动。安装好驱动重启后，使用命令： <i>sudo ifconfig -a</i>  可以查看所有网络接口，无线网卡名现在是不确定的，不是以前的wlan0，而是每块网卡有个独立的名字，开启网卡接口命令：<i>sudo ifconfig 网卡名 up</i> 。这些安装方式和命令对64位(x86_64)和32位(i586等)的 Linux 、对 GNOME 和 KDE 桌面都通用。
+如果您的无线网卡不被支持，不能自动正常工作，通过安装所需驱动，您很可能让它简单正常地工作。安装驱动软件需要root管理员权限，在命令行下输入su，按提示输入密码，然后以管理员身份来安装驱动。安装好驱动重启后，使用命令： <i>sudo ifconfig -a</i>  可以查看所有网络接口，无线网卡名一般是 wlan0，开启网卡接口命令：<i>sudo ifconfig 网卡名 up</i> 。
 <br /><br />
 
 第一步，运行下面命令查出您无线网卡的芯片型号。芯片型号是关键，而该设备的制造商和模型外壳基本上是无关紧要的。
@@ -237,7 +237,7 @@ OpenSUSE 无线网卡安装
 <br /><br />
 
 华为数据卡(3G上网卡)驱动及其安装参考：<br/>
-<a href="http://hi.baidu.com/winland0704/item/d6c7c43abd2114de6d15e9ae" target="_blank">华为ET302/ET302s在Linux下连网——原生简单的方法
+<a href="http://wenzhang.baidu.com/page/view?key=c5890dc0b8fd2b69-1427034931" target="_blank">华为ET302/ET302s在Linux下连网——原生简单的方法
 </a>
 <br /><br />
 
@@ -246,14 +246,15 @@ OpenSUSE 无线网卡安装
 <div class="os2">16.7 连接无线局域网（WiFi连接和WiFi共享）</div>
 配置好驱动以后，就可以使用网络管理器连接到无线网。
 连接无线网和配置Ad Hoc网的逐步图文教程可以参考：<br />
-<a href="http://hi.baidu.com/winland0704/blog/item/2ce39a263dc130e4d6cae2f8.html" target="_blank">
-OpenSUSE Linux连接无线局域网
+<a href="http://wenzhang.baidu.com/page/view?key=cf1a6d550778ba6f-1426982496" target="_blank">
+openSUSE Linux连接无线局域网
 </a>
 <br />
 <a href="http://forum.suse.org.cn/viewtopic.php?f=5&t=408" target="_blank">
 openSUSE新建配置AdHoc无线局域网
 </a>
-
+<br />
+建议用 Firefox 浏览器打开网页链接，有些网页链接 Chrome 不支持。
 <br /><br />
 
 

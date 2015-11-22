@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -159,7 +159,7 @@ function googleTranslateElementInit() {
 
 <div class="os1">13. 多媒体编解码器</div>
 
-本章介绍三种不同的多媒体格式播放包的安装方法，支持格式如MP3, DVD等，支持Kaffeine视频播放器和Amarok音频播放器。您可以使用一键安装、手动安装或使用命令行安装，随您喜好使用哪种。这些安装方式对64位(x86_64)和32位(i586等)的 Linux 、对 GNOME 和 KDE 桌面都通用。命令行安装需要root管理员权限，输入su，按提示输入密码，然后以管理员身份安装软件。其他安装方式也要按提示输入密码。
+本章介绍三种不同的多媒体格式播放包的安装方法，支持格式如MP3, DVD等，支持 Dragon 视频播放器和 Amarok 音频播放器。您可以使用一键安装、手动安装或使用命令行安装，随您喜好使用哪种。这些安装方式对 GNOME 和 KDE 桌面都通用。命令行安装需要root管理员权限，输入su，按提示输入密码，然后以管理员身份安装软件。其他安装方式也要按提示输入密码。
 <br /><br />
 
 由于法律原因（美国软件专利和数字千年版权法案，DMCA），如果未安装下文提及的编解码器，那么默认只支持自由的、开放的、非专利保护格式，如 Ogg Theora，Ogg Vorbis 和 Flac格式。如果按下文来安装各种编解码器，那么就可以支持几乎所有的主流多媒体格式，与Windows系统的暴风影音相当。
@@ -194,7 +194,7 @@ function googleTranslateElementInit() {
 
 <ul>
 <li><b>Packman 软件源</b>
-（华中科技大学：<a href="http://mirrors.hust.edu.cn/packman/suse/openSUSE_13.2/" target="_blank">http://mirrors.hust.edu.cn/packman/suse/openSUSE_13.2/</a> ）</li>
+（华中科技大学：<a href="http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_42.1/" target="_blank">http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_42.1/</a> ）</li>
 <li><b>libdvdcss 软件源</b>（如果您不播放DVD可以跳过这条）</li>
 </ul>
 
@@ -213,7 +213,6 @@ function googleTranslateElementInit() {
 <br />
 
 <ul>
-<li><b>libxine2-codecs</b>（多媒体播放引擎，支持MPEG-4等）</li>
 <li><b>k3b-codecs</b>（K3b的MP3支持）</li>
 <li><b>ffmpeg</b>（有名的音视频编解码器，支持众多格式）</li>
 <li><b>lame</b>（MP3格式支持）</li>
@@ -228,8 +227,8 @@ function googleTranslateElementInit() {
 Packman源上还有经典的音频视频播放器，如 Audacious、MPlayer、SMPlayer等，还有XVID、VLC、w32codec等很多很好的编解码器，可以一起安装。还有些游戏等，资源很丰富，建议多看看。
 <br />
 另外推荐Videolan官方源：<br />
-<a href="http://download.videolan.org/pub/vlc/SuSE/13.2/" target="_blank">
-    http://download.videolan.org/pub/vlc/SuSE/13.2/
+<a href="http://download.videolan.org/pub/vlc/SuSE/" target="_blank">
+    http://download.videolan.org/pub/vlc/SuSE/
 </a>
 
 <br/><br/>
@@ -241,12 +240,12 @@ Packman源上还有经典的音频视频播放器，如 Audacious、MPlayer、SM
 
 
 添加必需的软件源：（如果您不播放DVD，可跳过第二个DVD软件源）
-<div class="clroot">zypper addrepo -f http://ftp.gwdg.de/pub/linux/packman/suse/openSUSE_13.2/  packman</div>
-<div class="clroot">zypper addrepo -f http://opensuse-guide.org/repo/13.2/ dvd</div>
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_42.1/ packman</div>
+<div class="clroot">zypper addrepo -f http://opensuse-guide.org/repo/openSUSE_Leap_42.1/ dvd</div>
 <br />
 
 然后安装必需的软件包：（如果您不播放DVD，可跳过libdvdcss2的包）
-<div class="clroot">zypper install libxine2-codecs k3b-codecs ffmpeg lame gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-plugins-ugly-orig-addon gstreamer-plugins-libav libdvdcss2</div>
+<div class="clroot">zypper install k3b-codecs ffmpeg lame gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-plugins-ugly-orig-addon gstreamer-plugins-libav libdvdcss2</div>
 <br />
 
 您可能会被询问是否允许切换软件源来下载一些包——允许它。<br />

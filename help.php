@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -184,9 +184,9 @@ function googleTranslateElementInit() {
 
 <div class="os2">A.2 论坛</div> 
 
-您可以从这些论坛寻求帮助：
+您可以从这些论坛寻求帮助（建议用 Firefox 浏览器打开网页链接）：
 <br />
-<a href="http://forum.suse.org.cn/" target="_blank"><b>http://forum.suse.org.cn(全新的中文社区)</b></a>
+<a href="http://forum.suse.org.cn/" target="_blank"><b>https://forum.suse.org.cn/(全新的中文社区)</b></a>
 <br />
 <a href="http://forums.opensuse.org" target="_blank">http://forums.opensuse.org</a> 
  (<a href="http://forums.opensuse.org/ae-ae-chinese/" target="_blank">中文版块</a>)
@@ -195,6 +195,8 @@ function googleTranslateElementInit() {
 <br />
 <a href="http://forum.kde.org/" target="_blank">http://forum.kde.org/</a><br /><br />
 
+LibreOffice 办公套件使用交流论坛：<br />
+<a href="http://libreofficeforum.org/" target="_blank">http://libreofficeforum.org/</a><br /><br />
 
 openSUSE官方中文站：<br />
 <a href="http://zh.opensuse.org/" target="_blank">

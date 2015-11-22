@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -157,10 +157,7 @@ function googleTranslateElementInit() {
 
 <div class="os1"><a name="yast" class="os1">9. 管理员设置 (YaST)</a></div>
 YaST (Yet another Setup Tool，SUSE特制的强大设置工具) 是系统管理配置的核心工具。打开Yast：<br />
-<div class="sti">Kickoff menu（开始菜单） =&gt; Computer tab（计算机） =&gt; YaST</div><br /> 
-
-
-
+<div class="sti">开始菜单 =&gt; 系统 =&gt; YaST</div><br /> 
 
 
 <center><a href="images/screenshots/yast-controlcenter.png" rel="thumbnail"><img src="images/screenshots/yast-controlcenterb.png" alt="yast" class="pic" /></a></center><br />
@@ -229,11 +226,13 @@ YaST (Yet another Setup Tool，SUSE特制的强大设置工具) 是系统管理�
 
 通过方向键移动，Enter 键选择，Alt+[高亮字母] 为快捷键 (比如 Alt+Q 退出)。<br /><br />
 
+
+<!--
 <div class="os2">9.2 WebYaST</div>
 甚至还有个WebYaST界面，使您能够通过网页浏览器远程管理您安装的openSUSE系统。
 您可以在这获悉关于WebYaST更多的知识：<br />
 <a href="http://en.opensuse.org/Portal:WebYaST" target="_blank">http://en.opensuse.org/Portal:WebYaST</a><br /><br />
-
+-->
 
 
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">

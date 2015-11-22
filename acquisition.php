@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -146,9 +146,9 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 13.2 coming soon:</div><br />
+<div align="center" class="indholdoverskrift">openSUSE 42.1 coming soon:</div><br />
 
-<center><a href="http://en.opensuse.org/Portal:13.2"><img src="http://counter.opensuse.org/13.2/small" border="0" alt="countdown" /></a></center><br />
+<center><a href="http://en.opensuse.org/Portal:42.1"><img src="http://counter.opensuse.org/42.1/small" border="0" alt="countdown" /></a></center><br />
 -->
 
 </div>
@@ -160,19 +160,20 @@ function googleTranslateElementInit() {
 有很多方法可以获取 openSUSE。<br /><br />
 
 <div class="os2">3.1 下载</div>
-可以从 openSUSE 的网站上免费的下载 DVD 或者 Live CD 的 iso 镜像文件，然后将其刻录到光盘上。<br />
+可以从 openSUSE 的网站上免费的下载 DVD iso 镜像文件，然后将其刻录到光盘上。<br />
 <a href="http://software.opensuse.org/" target="_blank">http://software.opensuse.org/</a><br /><br />
 
 DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 因为它被测试得很完善而且包含基础安装所需的所有软件包，并包含各种语言的本地化包。您也可以不刻录成 DVD 光盘，ISO 文件可以写入到 U 盘中来安装系统（见下一章）。
-<br /><br /> 
 
+<br /><br /> 
+<!--
 也可以用 Live DVD/USB 来体验。通过 Live DVD 您可以在安装之前直接在电脑上体验 openSUSE（只在光盘和内存运行，无需安装）。
 然后 Live DVD/USB 被测试得并不彻底，并且不包含基础安装和本地化所必需的软件包，
 因此这些包需要以后安装，
 在Yast软件管理初次运行时会自动补充安装这些包。
 <br /><br />
-
+-->
 
 目前最推荐的下载 openSUSE DVD 文件的方式是通过百度网盘的离线下载功能。
 注册并登陆百度账号，进入百度网盘页面：
@@ -180,11 +181,8 @@ DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 <a href="http://pan.baidu.com/">
 http://pan.baidu.com/ </a> <br />
 
-点击 "离线下载" ，选择 "新建链接任务" ，如果要下载32位系统，复制如下链接下载：<br />
-http://download.opensuse.org/distribution/13.2/iso/openSUSE-13.2-DVD-i586.iso
-<br />
-如果要下载64位系统，复制如下链接下载：<br />
-http://download.opensuse.org/distribution/13.2/iso/openSUSE-13.2-DVD-x86_64.iso
+点击 "离线下载" ，选择 "新建链接任务" ，下载64位系统，复制如下链接下载：<br />
+http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso
 <br />
 </b>
 因为这些 ISO 文件百度云盘早已下好了，所以可以秒下到自己的百度网盘里面，再从自己百度网盘里面下载需要的ISO到本地电脑就可以了。
@@ -192,19 +190,20 @@ http://download.opensuse.org/distribution/13.2/iso/openSUSE-13.2-DVD-x86_64.iso
 <br /><br />
 
 
-在国内也可以通过网易、搜狐和中国科学技术大学的镜像下载：<br />
-<a href="http://mirrors.163.com/openSUSE/distribution/13.2/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/13.2/iso/
+在国内也可以通过网易、清华和中国科学技术大学的镜像下载：<br />
+<a href="http://mirrors.163.com/openSUSE/distribution/leap/42.1/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/42.1/iso/
 </a><br />
-<a href="http://mirrors.sohu.com/opensuse/distribution/13.2/iso/" target="_blank">http://mirrors.sohu.com/opensuse/distribution/13.2/iso/
+
+<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/42.1/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/42.1/iso/
 </a><br />
-<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/13.2/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/13.2/iso/
+
+<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.1/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.1/iso/
 </a><br />
 
 安装到硬盘或虚拟机的话，下载<br />
-<b>openSUSE-13.2-DVD-i586.iso(32位)</b>或<br />
-<b>openSUSE-13.2-DVD-x86_64.iso(64位)</b>。<br />
-其他所有的ISO文件基本可以无视，别下载错了哦！
-
+<b>openSUSE-Leap-42.1-DVD-x86_64.iso  </b>。<br />
+其他所有的ISO文件基本可以无视，别下载错了哦！<br />
+注：因为从 openSUSE Leap 42.1 开始使用企业版内核，所以目前全部是 64 位的系统。
 <br /><br />
 
 <div class="os2">3.2 购买便宜的非官方安装介质</div>
@@ -220,7 +219,7 @@ http://download.opensuse.org/distribution/13.2/iso/openSUSE-13.2-DVD-x86_64.iso
 <a href="http://www.linuxiso.co.uk/product_info.php?products_id=207" target="_blank">Linuxiso.co.uk</a><br />
 <a href="http://www.taobao.com/" target="_blank">
 淘宝网
-</a>（搜索：openSUSE 13.2 。对国内用户而言还是这个靠谱些）<br />
+</a>（搜索：openSUSE 42.1 。对国内用户而言还是这个靠谱些）<br />
 <br />
 
 <div class="os2">3.3 购买盒装软件</div>
@@ -233,7 +232,8 @@ http://download.opensuse.org/distribution/13.2/iso/openSUSE-13.2-DVD-x86_64.iso
 <div class="os2">3.4 源代码</div>
 从这可以找到openSUSE中的所有开源软件的源代码，均以 RPM 文件的形式提供：
 <br />
-<a href="http://download.opensuse.org/source/distribution/13.2/repo/oss/suse/src/" target="_blank">http://download.opensuse.org/pub/opensuse/source/distribution/13.2/repo/oss/suse/src/</a>
+<a href="http://download.opensuse.org/source/distribution/leap/42.1/repo/oss/suse/src/" target="_blank">
+http://download.opensuse.org/source/distribution/leap/42.1/repo/oss/suse/src/</a>
 
 
 <br /><br />

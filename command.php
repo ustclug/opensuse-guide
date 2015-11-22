@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -300,21 +300,21 @@ Tab 键是非常有用的。在通常情况下 按Tab 键会自动补全命令�
 
 <div class="os3">8.2.6 系统任务</div>
 关机<br />
-<div class="clroot">halt -p</div><br />
+<div class="clroot">systemctl shutdown</div><br />
 
 重启<br />
-<div class="clroot">reboot</div><br />
+<div class="clroot">systemctl reboot</div><br />
 
 开始、停止、重启系统服务或者查看系统服务的状态(start|stop|restart|status)，
 示例：<br />
-<div class="clroot">systemctl restart network.service</div>
-<div class="clroot">systemctl stop SuSEfirewall2_init.service</div>
-<div class="clroot">systemctl start apache2.service</div>
-<div class="clroot">systemctl status smb.service</div><br />
+<div class="clroot">systemctl restart network</div>
+<div class="clroot">systemctl stop SuSEfirewall2_init</div>
+<div class="clroot">systemctl start apache2</div>
+<div class="clroot">systemctl status smb</div><br />
 
 设置开机启动时某项服务为开启或禁用，示例：
-<div class="clroot">systemctl enable sshd.service</div>
-<div class="clroot">systemctl disable cups.service</div><br /><br />
+<div class="clroot">systemctl enable sshd</div>
+<div class="clroot">systemctl disable cups</div><br /><br />
 
 
 <div class="os3">8.2.7 系统内核</div>

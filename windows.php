@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -201,7 +201,7 @@ LibreOffice也能很好地阅读和写入Microsoft Office格式（*.doc, *.xls,*
 <center><a href="images/screenshots/smb-dolph.png" rel="thumbnail"><img src="images/screenshots/smb-dolphb.png" alt="smb-dolphin" class="pic" /></a></center><br />
 
 如果您不知道 ip 地址，可以先在 Dolphin 地址栏中输入 <i>smb:/</i> 来浏览整个本地网络，但是先要配置好防火墙。<br />
-<div class="sti">Kickoff 开始菜单 =&gt; 计算机 =&gt; YaST =&gt; 安全和用户  =&gt; 防火墙 =&gt; 允许的服务 =&gt; 从“要允许的服务”组合框里选择 "Samba Client" 和 "Netbios Server" 并添加它们。</div><br />
+<div class="sti">YaST =&gt; 安全和用户  =&gt; 防火墙 =&gt; 允许的服务 =&gt; 从“要允许的服务”组合框里选择 "Samba Client" 和 "Netbios Server" 并添加它们到允许的服务列表。</div><br />
 
 <center><a href="images/screenshots/firewall-samba.png" rel="thumbnail"><img src="images/screenshots/firewall-sambab.png" alt="firewall-samba" class="pic" /></a></center><br />
 
@@ -215,7 +215,7 @@ LibreOffice也能很好地阅读和写入Microsoft Office格式（*.doc, *.xls,*
 如果需要向局域网的 MS Windows 用户、Mac OSX 用户或者其他 GNU/Linux 用户共享 <i>您的</i> 文件的话，则需要配置 Samba服务器（确保 yast2-samba-server 和 samba 软件包已经安装）： <br /><br />
 <b>1) </b><br />
 打开 Yast 的 Samba服务器模块。<br />
-<div class="sti">Kickoff menu（开始菜单） =&gt; Computer tab（计算机） =&gt; YaST =&gt; Network Services（网络服务）  =&gt; Samba Server（Samba服务器）</div><br />
+<div class="sti">YaST =&gt; Network Services（网络服务）  =&gt; Samba Server（Samba服务器）</div><br />
 
 
 <center><a href="images/screenshots/samba-server.png" rel="thumbnail"><img src="images/screenshots/samba-serverb.png" alt="samba" class="pic" /></a></center><br />
@@ -232,11 +232,8 @@ LibreOffice也能很好地阅读和写入Microsoft Office格式（*.doc, *.xls,*
 <br /><br />
 
 <b>4) </b><br />
-现在打开 Dolphin 文件管理器，右击您想共享的文件夹，点击
- <i>Properties（属性） =&gt; Share（共享）</i>，如下图一样设置，搞定。<br /><br />
-
-
-<center><a href="images/screenshots/samba-sharing.png" rel="thumbnail"><img src="images/screenshots/samba-sharingb.png" alt="samba" class="pic" /></a></center><br />
+点击 "添加" 按钮，指定您希望共享的文件夹即可。
+<br /><br />
 
 
 <div class="os2">12.3 运行 MS Windows 程序</div>

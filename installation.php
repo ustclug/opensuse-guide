@@ -47,7 +47,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="indholdtekst">最后更新：2015年11月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -165,13 +165,10 @@ function googleTranslateElementInit() {
 
 <div class="os3">4.1.1 系统最低配置</div>
 <ul>
-    <li><b>CPU：</b> Intel: Pentium III 500MHz 和之后的
-    （现在台式机和笔记本的酷睿、赛扬、奔腾、Atom 等等都支持，建议奔腾4    2.4GHz和更好的，以及Intel 64位处理器）;     
-    AMD: Duron, Athlon, Athlon XP, Athlon MP, Athlon 64 and Sempron
-    （现在台式机和笔记本的羿龙、速龙、闪龙等等都支持，建议AMD 64位处理器）。
+    <li><b>CPU：</b> AMD 64 位或 Intel 64 位处理器。
     </li>
     <li><b>内存：</b> 1GB物理内存(建议2GB)</li>
-    <li><b>硬盘空间：</b> 普通安装需要 5.0 GB 空间。(最好 10 GB 以上)</li>
+    <li><b>硬盘空间：</b> 普通安装需要 10 GB 空间。(最好 20 GB 以上)</li>
     <li><b>声卡与显卡：</b> 没有特殊要求，绝大多数都支持</li>
     </ul>
 
@@ -215,15 +212,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
  Live* 系统并没有经过完善测试，而且基础软件和语言包不齐全，
 但使用 Live* 系统盘安装是类似的，就不重复了。
 <br />
-
-这有两个openSUSE 11.2的视频安装教学可以参考，13.2安装几乎完全一样。<br />
-<a href="http://os.51cto.com/art/200912/173334.htm"  target="_blank">
-http://os.51cto.com/art/200912/173334.htm
-</a><br />
-<a href="http://video.sina.com.cn/v/b/34235110-1762693994.html"  target="_blank">
-http://video.sina.com.cn/v/b/34235110-1762693994.html
-</a>
-<br /><br />
+<br />
 
 
 <div class="os3">欢迎界面</div>
