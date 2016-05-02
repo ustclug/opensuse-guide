@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2015年11月22日</div>
+<div class="indholdtekst">最后更新：2016年5月2日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -337,9 +337,15 @@ openSUSE为Novell企业版的GNU/Linux产品提供了基础——
 <br /><br />
 
 在2010年，Novell 被 Attachmate 收购。该交易是在2011年4月完成的，Attachmate 最先的一个动作就是将 SUSE 拆成一个独立于 Novell 的业务部门，并将 SUSE 
-总部迁回到德国纽伦堡。
+总部迁回到德国纽伦堡。2014年 Micro Focus 并购了 Attachmate，不过这件事对 SUSE 和 openSUSE 项目都没影响。
 <br /><br />
 
+在2014年，开发版分支 openSUSE Factory 已经发展到足够稳定，变成了可日常使用的滚动升级发行版，即 openSUSE Tumbleweed。
+openSUSE Tumbleweed 是基于 SUSE Linux 企业服务器和桌面版（SLES 和 SLED），然后 openSUSE 正式发行版也跟进这些变化，
+于2015年演化成为 openSUSE Leap 发行版。openSUSE Leap 发行版是采用 SUSE Linux 企业版的内核系统，
+发行方式也变为长期支持，每年更新服务补丁包，而发行版的大版本则是每隔3到4年更新一次。
+
+<br /><br />
 
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
 <tbody>

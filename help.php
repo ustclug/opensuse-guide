@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2015年11月22日</div>
+<div class="indholdtekst">最后更新：2016年5月2日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -204,8 +204,8 @@ http://zh.opensuse.org/
 </a><br />
 
 国内其他站点：<br />
-<a href="http://www.linuxsir.org/bbs/" target="_blank">
-http://www.linuxsir.org/bbs/ （LinuxSir）
+<a href="https://linux.cn/" target="_blank">
+https://linux.cn/ （Linux.中国 开源社区）
 </a><br>
 <a href="http://www.linuxdiyf.com/bbs/" target="_blank">
 http://www.linuxdiyf.com/bbs/ （红联社区）
@@ -243,8 +243,7 @@ https://connect.opensuse.org/pg/groups/13328/opensuse-/
 <a href="http://webchat.freenode.net" target="_blank">
 http://webchat.freenode.net
 </a> #opensuse-cn<br />
-*以下方式（不推荐但为了方便您的使用也顺便列出）：<br />
-新浪微博群：<a href="http://q.t.sina.com.cn/225216" target="_blank">http://q.t.sina.com.cn/225216 </a> <br />
+
 在国内，还可以使用QQ或YY搜索openSUSE的群和频道。去QQ群或YY频道寻求帮助。
 <br /><br />
 

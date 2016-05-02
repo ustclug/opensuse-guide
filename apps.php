@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2015年11月22日</div>
+<div class="indholdtekst">最后更新：2016年5月2日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -192,7 +192,7 @@ Mozilla Firefox 是 openSUSE 下的默认网络浏览器。它是最主流的浏
 <a href="http://www.google.com/chrome?platform=linux" target="_blank">
 Chome
 </a>
-, Konqueror<br /><br />
+, Chromium, Konqueror<br /><br />
 
 <div class="os2">6.2 使用LibreOffice进行日常办公</div>
 LibreOffice 是一个完整的 Office 办公套装，包括文字处理、表格处理、幻灯片、画图以及其他套件，并与微软的 Office 良好兼容。

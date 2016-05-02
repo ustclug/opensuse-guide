@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2015年11月22日</div>
+<div class="indholdtekst">最后更新：2016年5月2日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -223,10 +223,7 @@ function googleTranslateElementInit() {
 </ul>
 
 此外本站推荐如下社区的软件源，以及时获得更稳定的软件更新，
-对绝大多数用户是很好用的。关于软件源，建议您看看经典帖：
-<a href="http://www.linuxsir.org/bbs/thread321545.html" target="_blank">
-<b>【openSUSE】软件源和软件搜索</b>
-</a>。
+对绝大多数用户是很好用的。
 <br />
 
 
@@ -360,6 +357,13 @@ function googleTranslateElementInit() {
 
 或者查看单独命令选项的帮助信息： 
 <div class="cl">zypper addrepo --help</div><br />
+
+更多关于 zypper 命令使用说明请参考：<br />
+<a href="https://en.opensuse.org/SDB%3aZypper_usage" target="_blank">
+https://en.opensuse.org/SDB%3aZypper_usage
+</a>
+<br />
+<br />
 
 
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">

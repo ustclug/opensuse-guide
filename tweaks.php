@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2015年11月22日</div>
+<div class="indholdtekst">最后更新：2016年5月2日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -173,9 +173,10 @@ openSUSE:13.2常见问题
 
 </b>
 
-<br /><br /> 
-
-Coming soon...
+<br />
+如果使用系统时遇到问题，一般先用搜索引擎查找是否有相关的解决方案，或者向中文论坛求助：
+<br /> 
+<a href="http://forum.suse.org.cn/" target="_blank"><b>https://forum.suse.org.cn/</b></a>
 <br /><br />
 
 <div class="os3">1、为什么Fcitx中文输入法候选字不能翻页？</div>

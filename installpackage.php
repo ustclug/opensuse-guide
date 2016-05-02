@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2015年11月22日</div>
+<div class="indholdtekst">最后更新：2016年5月2日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -263,7 +263,12 @@ function googleTranslateElementInit() {
 
 或者查看zypper命令内嵌的帮助：
 <div class="cl">zypper install --help</div><br />
-
+更多关于 zypper 命令使用说明请参考：<br />
+<a href="https://en.opensuse.org/SDB%3aZypper_usage" target="_blank">
+https://en.opensuse.org/SDB%3aZypper_usage
+</a>
+<br />
+<br />
 
 <div class="os3">10.3.1 在终端中使用一键安装</div>
 在终端中使用命令 <i>OCICLI [URL]</i> 进行一键安装，比如：
@@ -292,6 +297,28 @@ function googleTranslateElementInit() {
 <div class="cl">rpm -qi --changelog MozillaFirefox</div><br />
 
 
+<div class="os2">10.4 软件样式集的安装</div>
+对于比较复杂的和大型的软件集的安装，Yast 和 zypper 都提供了软件样式集(patterns 或叫元包 metapackages)来安装整套的软件，
+软件样式集会自动安装复杂软件的各种依赖和分散的组件，相当于是一键安装复杂的软件集。
+<br />
+<br />
+在 Yast 软件管理器，我们点击上面的 "RPM组" 标签页
+（如果看不到 "RPM组" 标签页，请点击左上角 "视图" 按钮，在弹出菜单选择 "RPM组"），
+然后在左边软件包分组点击 "Metapackages" ，右边列表里面就可以看到各种软件合集了：
+<br />
+<center><img src="images/oneclick/patterns.png" width="640" /></center>
+比如 patterns-openSUSE-devel_C_C++ 就是 C 和 C++ 开发必备的库和工具合集;
+patterns-openSUSE-devel_qt5 就是 Qt5 开发库和开发工具合集;
+patterns-openSUSE-lamp_server 就是搭建 LAMP 网站服务器的软件合集;
+当然还有其他很多的软件合集，可以根据自己喜好选择软件合集，然后点击右下角的 "接受" 按钮进行安装。
+<br />
+<br />
+如果希望通过命令行工具 zypper 进行安装，以  patterns-openSUSE-devel_C_C++ 软件集为例，安装命令为：
+<div class="clroot">zypper install -t pattern devel_C_C++ </div>
+上面命令中  install -t pattern  就是安装软件集的意思， devel_C_C++ 是软件集的简短名字，
+该命令不需要输入前缀 "patterns-openSUSE-" ，zypper 会自动寻找匹配简短名的软件集进行安装。 
+<br />
+<br />
 
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
 	<tbody>

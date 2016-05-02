@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2015年11月22日</div>
+<div class="indholdtekst">最后更新：2016年5月2日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -184,6 +184,9 @@ Flash被应用到大量网站的嵌入视频、动画、游戏，有时甚至是
 <div class="clroot">zypper addrepo -f http://linuxdownload.adobe.com/linux/x86_64/ adobe-flash-plugin</div><br />
 <div class="clroot">zypper install flash-plugin</div><br />
 
+安装时你会看到一个关于丢失 GPG-key 的警告，选择忽略 i ，继续安装。
+<br />
+<br />
 
 <div class="os2">14.2 Java</div>
 Java的网页程序用于游戏、一些国家的网上银行和其他各种用途。

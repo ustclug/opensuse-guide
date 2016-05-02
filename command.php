@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2015年11月22日</div>
+<div class="indholdtekst">最后更新：2016年5月2日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -382,8 +382,8 @@ hwinfo命令几乎可以查看所有硬件的信息，示例：
 如果您想学更多的关于使用终端命令行的知识，互联网上有很多可用资源，
 这有一些链接：（或者用谷歌百度搜索“Linux 命令”）
 <br />
+<a href="http://linuxcommand.org/" target="_blank">http://linuxcommand.org/</a><br />
 <a href="http://www.oreillynet.com/linux/cmd/" target="_blank">http://www.oreillynet.com/linux/cmd/</a><br />
-<a href="http://www.tuxfiles.org/linuxhelp/cli.html" target="_blank">http://www.tuxfiles.org/linuxhelp/cli.html</a><br />
 <a href="http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html" target="_blank">http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html</a><br /><br />
 
 
