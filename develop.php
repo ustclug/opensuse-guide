@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="content-text">最后更新：2016年11月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -63,7 +63,7 @@
 		<input type="hidden" name="bcd" value="&#247;" />
 		<input type="text" name="query" size="16" />
 		<input type="submit" value="search" />
-		&nbsp;<a href="http://www.freefind.com" class="indholdtekst">by FreeFind</a>
+		&nbsp;<a href="http://www.freefind.com" class="content-text">by FreeFind</a>
 		</form>
 </td>
 </tr>
@@ -90,9 +90,9 @@ function googleTranslateElementInit() {
 
 <table width="99%">
 <tr>
-<td width="67%" align="center"><img src="images/pics/titel.png" alt="titel" />
+<td width="67%" align="center"><img src="images/pics/title.png" alt="title" />
 </td>
-<td width="33%" align="center"><img src="images/pics/desktop-titel.png" alt="?" class="pic" /></td> 
+<td width="33%" align="center"><img src="images/pics/desktop-title.png" alt="?" class="pic" /></td> 
 </tr>
 </table>
 
@@ -102,40 +102,40 @@ function googleTranslateElementInit() {
  
 <div id="topLeft">
 
-<div class="indholdoverskriftb">开始</div>
-    <a href="index.php" class="indholdtekst">1. 简介</a><br />
-    <a href="switching.php" class="indholdtekst">2. 改用 GNU/Linux</a><br />
-    <a href="acquisition.php" class="indholdtekst">3. 获取 openSUSE</a><br />
-    <a href="installation.php" class="indholdtekst">4. 安装</a><br />
+<div class="content-title">开始</div>
+    <a href="index.php" class="content-text">1. 简介</a><br />
+    <a href="switching.php" class="content-text">2. 改用 GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. 获取 openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. 安装</a><br />
 
-<div class="indholdoverskrift">日常应用</div>
-    <a href="kde.php" class="indholdtekst">5. KDE 桌面环境</a><br />
-    <a href="apps.php" class="indholdtekst">6. 常用软件</a><br />
-    <a href="security.php" class="indholdtekst">7. 安全设置</a><br />
-    <a href="command.php" class="indholdtekst">8. 终端命令行</a><br />
-    <a href="yast.php" class="indholdtekst">9. 管理员设置 (YaST)</a><br />
-    <a href="installpackage.php" class="indholdtekst">10. 软件安装</a><br />
-    <a href="repositories.php" class="indholdtekst">11. 软件源</a><br />
-    <a href="windows.php" class="indholdtekst">12. 与Windows世界兼容</a><br />
+<div class="content-title">日常应用</div>
+    <a href="kde.php" class="content-text">5. KDE 桌面环境</a><br />
+    <a href="apps.php" class="content-text">6. 常用软件</a><br />
+    <a href="security.php" class="content-text">7. 安全设置</a><br />
+    <a href="command.php" class="content-text">8. 终端命令行</a><br />
+    <a href="yast.php" class="content-text">9. 管理员设置 (YaST)</a><br />
+    <a href="installpackage.php" class="content-text">10. 软件安装</a><br />
+    <a href="repositories.php" class="content-text">11. 软件源</a><br />
+    <a href="windows.php" class="content-text">12. 与Windows世界兼容</a><br />
 
-<div class="indholdoverskrift">设置</div>
-    <a href="codecs.php" class="indholdtekst">13. 多媒体编解码器</a><br />  
-    <a href="browserplugins.php" class="indholdtekst">14. 浏览器插件</a><br />
-    <a href="3d.php" class="indholdtekst">15. 显卡驱动</a><br />
-    <a href="wlan.php" class="indholdtekst">16. 无线网</a><br />
-    <a href="develop.php" class="indholdtekst">17. 开发环境</a><br />
-    <a href="obs.php" class="indholdtekst">18. 软件打包服务OBS</a><br />
-    <a href="srvlamp.php" class="indholdtekst">19. LAMP和LNMP</a><br />
-    <a href="srvother.php" class="indholdtekst">20. 其他常见服务软件</a><br />
+<div class="content-title">设置</div>
+    <a href="codecs.php" class="content-text">13. 多媒体编解码器</a><br />  
+    <a href="browserplugins.php" class="content-text">14. 浏览器插件</a><br />
+    <a href="3d.php" class="content-text">15. 显卡驱动</a><br />
+    <a href="wlan.php" class="content-text">16. 无线网</a><br />
+    <a href="develop.php" class="content-text">17. 开发环境</a><br />
+    <a href="obs.php" class="content-text">18. 软件打包服务OBS</a><br />
+    <a href="srvlamp.php" class="content-text">19. LAMP和LNMP</a><br />
+    <a href="srvother.php" class="content-text">20. 其他常见服务软件</a><br />
 
-<div class="indholdoverskrift">附录</div>
-    <a href="help.php" class="indholdtekst">A: 帮助和文档</a><br />
-    <a href="games.php" class="indholdtekst">B: 游戏</a><br />
-    <a href="under.php" class="indholdtekst">C. 深入了解</a><br />
-    <a href="tweaks.php" class="indholdtekst">D. 提示和解决方法</a><br />
-    <a href="history.php" class="indholdtekst">E. 历史和背景</a><br />
-    <a href="contribute.php" class="indholdtekst">F: 重在参与</a><br />
-    <a href="license.php" class="indholdtekst">GNU自由文档许可证</a>
+<div class="content-title">附录</div>
+    <a href="help.php" class="content-text">A: 帮助和文档</a><br />
+    <a href="games.php" class="content-text">B: 游戏</a><br />
+    <a href="under.php" class="content-text">C. 深入了解</a><br />
+    <a href="tweaks.php" class="content-text">D. 提示和解决方法</a><br />
+    <a href="history.php" class="content-text">E. 历史和背景</a><br />
+    <a href="contribute.php" class="content-text">F: 重在参与</a><br />
+    <a href="license.php" class="content-text">GNU自由文档许可证</a>
 
 <!--
  <hr align="center" width="99%" />
@@ -146,7 +146,7 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 13.2 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 13.2 coming soon:</div><br />
 
 <center><a href="http://en.opensuse.org/Portal:13.2"><img src="http://counter.opensuse.org/13.2/small" border="0" alt="countdown" /></a></center><br />
 -->
@@ -156,7 +156,7 @@ function googleTranslateElementInit() {
  
 
 
-<div class="os1">17. 开发环境</div>
+<div class="heading1">17. 开发环境</div>
 本章介绍Linux下常用的开发环境，以及在openSUSE下安装和配置这些软件。由于这些软件中的每一个都有非常多的学问，这里只是简单介绍一下，开个门，让大家知道有这些东西的存在。实际学习编程语言和集成开发环境的用法需要参考各自相应的文档和教程书籍。
 <br />
 <ul>
@@ -174,7 +174,7 @@ function googleTranslateElementInit() {
 <center><a href="images/screenshots/pnm.png" rel="thumbnail"><img src="images/screenshots/pnmb.png" alt="Plasmoid NetworkManagement" class="pic" /></a></center><br />
 -->
 
-<div class="os2">17.1 代码阅读和编辑器</div>
+<div class="heading2">17.1 代码阅读和编辑器</div>
 Vim是vi的进化版，与 Emacs都是老牌的代码编辑器。这两个编辑器已经纵横了几十年了。vim本身是命令行下的编辑器，有个图形界面的包：gvim。这两个在openSUSE的发行DVD里面都有。
 openSUSE默认安装了vim，但没装gvim，可以用Yast的软件管理搜索软件包的名字安装，或者执行安装命令：<br />
 <div class="clroot">zypper  in  gvim</div><br />
@@ -190,9 +190,9 @@ Kwrite是KDE桌面默认的文本和代码编辑器，KWrite还有个高级版Ka
 <br /><br />
 
 
-<div class="os2">17.2 C/C++和其他编程工具</div>
+<div class="heading2">17.2 C/C++和其他编程工具</div>
 
-<div class="os3">17.2.1 Linux软件包简介</div>
+<div class="heading3">17.2.1 Linux软件包简介</div>
 国内学校计算机编程的课程很多都是从C语言开始的。openSUSE默认没装gcc和g++等编译器。所以很多初次接触openSUSE的会觉得比较坑。这个容易，可以自己安装这些编译器和必要的devel包。这里先简单介绍一下，Linux软件包的名字通常有四种，以audacious播放器为例：<br />
 <ul>
 <li>audacious</li>
@@ -205,7 +205,7 @@ Kwrite是KDE桌面默认的文本和代码编辑器，KWrite还有个高级版Ka
 <br /><br />
 
 
-<div class="os3">17.2.2 C/C++编译器和开发库</div>
+<div class="heading3">17.2.2 C/C++编译器和开发库</div>
 下面进入正题，安装gcc和g++等工具。可以在Yast的软件管理里面，搜索包的名字来安装，也可以用root命令行执行命令：<br />
 <div class="clroot">zypper  in  gcc  gcc-c++ </div><br />
 GNU编译器里还有其他编程语言的，如gcc-ada，gcc-fortran ，gcc-java ，gcc-objc等等，可以根据自己需要安装。<br />
@@ -227,7 +227,7 @@ g++  hello.cpp  -o  hcpp.out
 ./hcpp.out
 </div><br />
 
-<div class="os3">17.2.3 其他常用编程工具和库</div>
+<div class="heading3">17.2.3 其他常用编程工具和库</div>
 除了编译器，还有其他编程或编译源码常用的工具。这里简单介绍一些：<br /><br />
 <table class="tabel">
 <tbody>
@@ -362,7 +362,7 @@ g++  hello.cpp  -o  hcpp.out
 <br /><br />
 
 
-<div class="os2">17.3 Java和 Eclipse集成开发环境</div>
+<div class="heading2">17.3 Java和 Eclipse集成开发环境</div>
 Java毫无疑问也是非常流行的编程语言。Oracle官方有适合各种操作系统的JDK 7.0/8.0的下载（如果是要装Android开发环境，那么本节的内容可以完全跳过，后面17.8节有更简单的方法）。<br />
 openSUSE自带的是开源社区维护的OpenJDK 8，默认装了OpenJDK 8，但是开发包、文档、例子没装，如果要搞Java开发，建议都装上：<br />
 <div class="clroot">zypper  in  java-1_8_0-openjdk-devel  java-1_8_0-openjdk-demo  java-1_8_0-openjdk-javadoc</div><br />
@@ -398,13 +398,13 @@ Babel Language Packs in Chinese(Traditional) ，一直点Next和Accept，
 等下载安装完就搞定了。<br /><br />
 
 
-<div class="os2">17.4 Perl和Python</div>
+<div class="heading2">17.4 Perl和Python</div>
 Linux下著名的3P脚本语言就是Perl、Python、Php。Php放到19章搭建LAMP和LNMP网站介绍。openSUSE默认就安装了Perl和Python。当然，Perl和Python还有非常多的模块，数不胜数，不可能全都装上，这个可以自己看需要什么模块就装什么。<br /><br />
 
 <center><a href="picdev/python.png" rel="thumbnail"><img src="picdev/pythons.png" alt="python" class="pic" /></a></center><br /><br />
 
 
-<div class="os2">17.5 Qt和QtCreator、KDevelop</div>
+<div class="heading2">17.5 Qt和QtCreator、KDevelop</div>
 Linux下常用的C/C++语言的图形库就数Qt、Gtk+和wxWidgets了。这些都是可以跨平台的，Windows下也可以有。常用的集成开发环境，除了上面的Eclipse，还有KDevelop、QtCreator、Anjuta、Code::Blocks，Gtk+有个可视化编辑的工具glade 。<br /><br />
 
 本节介绍Qt和QtCreator、KDevelop。Qt最初是奇趣公司开发的跨平台图形库。后来整个公司被Nokia买了，Nokia本打算利用Qt开发新的智能手机操作系统Meego，Meego不幸夭折了。Qt也被Nokia出卖给芬兰IT服务公司Digia。虽然遭遇各种变故，Qt的活力不减当年。<br /><br />
@@ -432,7 +432,7 @@ http://www.kdevelop.org/ </a>
 <center><a href="picdev/kdevelop.png" rel="thumbnail"><img src="picdev/kdevelops.png" alt="kdevelop" class="pic" /></a></center><br /><br />
 
 
-<div class="os2">17.6 Gtk+和Anjuta</div>
+<div class="heading2">17.6 Gtk+和Anjuta</div>
 Gtk+当然也是非常著名的图形库，是GNOME、Xface、LXDE等桌面环境的基石。openSUSE发行光盘里面有Gtk+ 版本2和版本3的开发包，还有许多其他Gtk+系列的库。Gtk+有一个可视化编辑工具Glade，当然更推荐GNOME桌面集成开发环境Anjuta，Anjuta还有一些插件可以自己装。Gtk+和Anjuta安装命令：<br />
 <div class="clroot">zypper  in   gtk3-devel  gtk-doc  anjuta  anjuta-lang  intltool  gtkmm3-devel  gtkmm3-doc  gtkmm3-tutorial  gtkmm3-tutorial-lang</div><br />
 安装Anjuta的时候，软件管理器会装一堆依赖包（好像少了个intltool，一定要补上），其中有subversion，就是SVN版本控制系统。<br />
@@ -442,7 +442,7 @@ Gtk+当然也是非常著名的图形库，是GNOME、Xface、LXDE等桌面环�
 <center><a href="picdev/anjuta2.png" rel="thumbnail"><img src="picdev/anjuta2s.png" alt="anjuta" class="pic" /></a></center><br /><br />
 
 
-<div class="os2">17.7 wxWidgets和 Code::Blocks/CodeLite</div>
+<div class="heading2">17.7 wxWidgets和 Code::Blocks/CodeLite</div>
 wxWidgets是模仿Windows MFC编程风格的跨平台图形库。
 它执行效率比较高，在Windows下像MFC，Linux下就像Gtk+。
 网页编辑工具Amaya、FTP软件FileZilla 、
@@ -486,7 +486,7 @@ http://www.codelite.org/</a>  <br />
 <br /><br />
 
 
-<div class="os2">17.8 Android开发环境</div>
+<div class="heading2">17.8 Android开发环境</div>
 Android是著名的开源智能手机操作系统，Android SDK是其开发环境，如果要为Android开发软件包，可以在官网下载全套的ADT (Android Developer Tools)：<br />
 <a href="http://developer.android.com/sdk/index.html"  target="_blank">
 http://developer.android.com/sdk/index.html </a>  <br />
@@ -507,7 +507,7 @@ http://www.cnblogs.com/pharen/archive/2011/09/13/2174592.html</a><br />
 
 <br /><br />
 
-<div class="os2">17.9 版本控制软件</div>
+<div class="heading2">17.9 版本控制软件</div>
 版本控制软件是开发软件、维护软件源码、软件代码更新、下载和发布的综合管理平台。比如openSUSE的源代码就完全通过git来开发、管理、下载、发布的（如
 <a href="http://gitorious.org/opensuse" target="_blank">
 http://gitorious.org/opensuse 
@@ -520,14 +520,14 @@ http://www.ibm.com/developerworks/cn/linux/l-vercon/index.html
 </a>
 <br /><br />
 
-<div class="os3">17.9.1 CVS</div>
+<div class="heading3">17.9.1 CVS</div>
 CVS是一个老牌的版本控制系统，根据维基百科介绍，很多开源或者自由软件项目都使用CVS作为其程序员之间的中心点，以便能够综合各程序员的改进和更改。这些项目包括：Gnome、KDE、GIMP、Wine等。CVS的使用获GNU通用公共许可证授权。<br /><br />
 CVS安装命令：<br />
 <div class="clroot">zypper  in  cvs  cvs-doc  cervisia</div><br />
 查看CVS内置帮助说明的命令：
 <div class="cl">cvs  --help</div> <br />
 
-<div class="os3">17.9.2 SVN</div>
+<div class="heading3">17.9.2 SVN</div>
 根据维基百科介绍，Subversion，简称SVN，是一个开放源代码的版本控制系统，相对于的RCS、CVS，采用了分支管理系统，它的设计目标就是取代CVS。互联网上越来越多的控制服务从CVS转移到Subversion。2009年11月，Subversion被Apache Incubator专案所接收。2010年1月，正式成为Apache软件基金会的一个顶级专案。<br /><br />
 
 SVN安装命令：<br />
@@ -535,7 +535,7 @@ SVN安装命令：<br />
 还有其他 Subversion相关的包，比如cvs2svn是将CVS源转换成SVN的源， kdesvn是SVN的图形客户端，subversion-server和subversion-tools是搭建SVN服务器的Apache软件模块和管理工具。查看SVN内置帮助说明的命令：<br />
 <div class="cl">svn  help</div><br />
 
-<div class="os3">17.9.3 Git</div>
+<div class="heading3">17.9.3 Git</div>
 Git是Linux内核开发老大Linus Torvalds创立的，是为了更好地管理Linux内核。
 当然现在不止是内核，发行版如Fedora、openSUSE、Arch Linux，
 图形库如Qt、Gtk+，还有很多基础软件源码也都是Git管理、下载和发布的。<br /><br />
@@ -551,7 +551,7 @@ Git安装命令：<br />
 <center><a href="picdev/qtcreator02.png" rel="thumbnail"><img src="picdev/qtcreator02s.png" alt="qtcreatorgit" class="pic" /></a></center>
 <br />
 
-<div class="os3">17.9.4 Mercurial</div>
+<div class="heading3">17.9.4 Mercurial</div>
 根据维基百科介绍，Mercurial 是一个跨平台的分布式版本控制软件。
 Mercurial主要由Python语言实现，不过也包含一个用C实现的二进制比较工具。
 Mercurial主要由一个命令行程序组成，但现在也有了图形用户界面。
@@ -563,7 +563,7 @@ Mercurial安装命令：<br />
 查看Mercurial内置帮助说明的命令：<br />
 <div class="cl">hg  help</div><br />
 
-<div class="os3">17.9.5 Bazaar</div>
+<div class="heading3">17.9.5 Bazaar</div>
 根据百度百科，Bazaar是一个分布式的版本控制系统，采用 GPL 许可协议，可运行于 Windows、GNU/Linux、UNIX 以及 Mac OS 系统之上。Bazaar 由 Canonical 公司（Ubuntu母公司）赞助。  使用Bazaar的项目或组织包括 MySQL、 Mailman、Launchpad、
 Linux Foundation等等，Ubuntu和Debian的很多东西当然也用Bazaar管理。
 <br /><br />
@@ -601,7 +601,7 @@ Bazaar安装命令：<br />
 <!-- sponsor slut -->
 <!-- <div class="lille" align="center">Send feedback to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;admin&#64;opensuse-guide&#46;org">admin [at] opensuse-guide.org</a></div> -->
 
-<div class="lille" align="center">
+<div class="small" align="center">
 本文档翻译自 <a href="http://opensuse-guide.org/" target="_blank">http://opensuse-guide.org/</a> 不当之处，还望指正<br />
 使用e-mail发送您的英文评论给 admin [at] opensuse-guide.org <br />
 或发送意见和建议给中文译者：Libitum (hello[at]libitum.org);

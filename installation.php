@@ -47,7 +47,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2016年5月2日</div>
+<div class="content-text">最后更新：2016年11月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -64,7 +64,7 @@
 		<input type="hidden" name="bcd" value="&#247;" />
 		<input type="text" name="query" size="16" />
 		<input type="submit" value="search" />
-		&nbsp;<a href="http://www.freefind.com" class="indholdtekst">by FreeFind</a>
+		&nbsp;<a href="http://www.freefind.com" class="content-text">by FreeFind</a>
 		</form>
 </td>
 </tr>
@@ -91,9 +91,9 @@ function googleTranslateElementInit() {
 
 <table width="99%">
 <tr>
-<td width="67%" align="center"><img src="images/pics/titel.png" alt="titel" />
+<td width="67%" align="center"><img src="images/pics/title.png" alt="title" />
 </td>
-<td width="33%" align="center"><img src="images/pics/desktop-titel.png" alt="?" class="pic" /></td> 
+<td width="33%" align="center"><img src="images/pics/desktop-title.png" alt="?" class="pic" /></td> 
 </tr>
 </table>
 
@@ -103,40 +103,40 @@ function googleTranslateElementInit() {
  
 <div id="topLeft">
 
-<div class="indholdoverskriftb">开始</div>
-    <a href="index.php" class="indholdtekst">1. 简介</a><br />
-    <a href="switching.php" class="indholdtekst">2. 改用 GNU/Linux</a><br />
-    <a href="acquisition.php" class="indholdtekst">3. 获取 openSUSE</a><br />
-    <a href="installation.php" class="indholdtekst">4. 安装</a><br />
+<div class="content-title">开始</div>
+    <a href="index.php" class="content-text">1. 简介</a><br />
+    <a href="switching.php" class="content-text">2. 改用 GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. 获取 openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. 安装</a><br />
 
-<div class="indholdoverskrift">日常应用</div>
-    <a href="kde.php" class="indholdtekst">5. KDE 桌面环境</a><br />
-    <a href="apps.php" class="indholdtekst">6. 常用软件</a><br />
-    <a href="security.php" class="indholdtekst">7. 安全设置</a><br />
-    <a href="command.php" class="indholdtekst">8. 终端命令行</a><br />
-    <a href="yast.php" class="indholdtekst">9. 管理员设置 (YaST)</a><br />
-    <a href="installpackage.php" class="indholdtekst">10. 软件安装</a><br />
-    <a href="repositories.php" class="indholdtekst">11. 软件源</a><br />
-    <a href="windows.php" class="indholdtekst">12. 与Windows世界兼容</a><br />
+<div class="content-title">日常应用</div>
+    <a href="kde.php" class="content-text">5. KDE 桌面环境</a><br />
+    <a href="apps.php" class="content-text">6. 常用软件</a><br />
+    <a href="security.php" class="content-text">7. 安全设置</a><br />
+    <a href="command.php" class="content-text">8. 终端命令行</a><br />
+    <a href="yast.php" class="content-text">9. 管理员设置 (YaST)</a><br />
+    <a href="installpackage.php" class="content-text">10. 软件安装</a><br />
+    <a href="repositories.php" class="content-text">11. 软件源</a><br />
+    <a href="windows.php" class="content-text">12. 与Windows世界兼容</a><br />
 
-<div class="indholdoverskrift">设置</div>
-    <a href="codecs.php" class="indholdtekst">13. 多媒体编解码器</a><br />  
-    <a href="browserplugins.php" class="indholdtekst">14. 浏览器插件</a><br />
-    <a href="3d.php" class="indholdtekst">15. 显卡驱动</a><br />
-    <a href="wlan.php" class="indholdtekst">16. 无线网</a><br />
-    <a href="develop.php" class="indholdtekst">17. 开发环境</a><br />
-    <a href="obs.php" class="indholdtekst">18. 软件打包服务OBS</a><br />
-    <a href="srvlamp.php" class="indholdtekst">19. LAMP和LNMP</a><br />
-    <a href="srvother.php" class="indholdtekst">20. 其他常见服务软件</a><br />
+<div class="content-title">设置</div>
+    <a href="codecs.php" class="content-text">13. 多媒体编解码器</a><br />  
+    <a href="browserplugins.php" class="content-text">14. 浏览器插件</a><br />
+    <a href="3d.php" class="content-text">15. 显卡驱动</a><br />
+    <a href="wlan.php" class="content-text">16. 无线网</a><br />
+    <a href="develop.php" class="content-text">17. 开发环境</a><br />
+    <a href="obs.php" class="content-text">18. 软件打包服务OBS</a><br />
+    <a href="srvlamp.php" class="content-text">19. LAMP和LNMP</a><br />
+    <a href="srvother.php" class="content-text">20. 其他常见服务软件</a><br />
 
-<div class="indholdoverskrift">附录</div>
-    <a href="help.php" class="indholdtekst">A: 帮助和文档</a><br />
-    <a href="games.php" class="indholdtekst">B: 游戏</a><br />
-    <a href="under.php" class="indholdtekst">C. 深入了解</a><br />
-    <a href="tweaks.php" class="indholdtekst">D. 提示和解决方法</a><br />
-    <a href="history.php" class="indholdtekst">E. 历史和背景</a><br />
-    <a href="contribute.php" class="indholdtekst">F: 重在参与</a><br />
-    <a href="license.php" class="indholdtekst">GNU自由文档许可证</a>
+<div class="content-title">附录</div>
+    <a href="help.php" class="content-text">A: 帮助和文档</a><br />
+    <a href="games.php" class="content-text">B: 游戏</a><br />
+    <a href="under.php" class="content-text">C. 深入了解</a><br />
+    <a href="tweaks.php" class="content-text">D. 提示和解决方法</a><br />
+    <a href="history.php" class="content-text">E. 历史和背景</a><br />
+    <a href="contribute.php" class="content-text">F: 重在参与</a><br />
+    <a href="license.php" class="content-text">GNU自由文档许可证</a>
 
 <!--
  <hr align="center" width="99%" />
@@ -147,7 +147,7 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 12.1 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 12.1 coming soon:</div><br />
 
 <center><a href="http://en.opensuse.org/Portal:12.1"><img src="http://counter.opensuse.org/12.1/small" border="0" alt="countdown" /></a></center><br />
 -->
@@ -157,13 +157,13 @@ function googleTranslateElementInit() {
  
 
 
-<div class="os1">4. 安装</div>
+<div class="heading1">4. 安装</div>
 这里仅仅只是对 openSUSE 安装过程的简单介绍。更多的信息请参考官方文档。<br /><br />
 
-<div class="os2">4.1 准备</div>
+<div class="heading2">4.1 准备</div>
 在动手安装之前，有一些事情是需要了解下的：<br /><br />
 
-<div class="os3">4.1.1 系统最低配置</div>
+<div class="heading3">4.1.1 系统最低配置</div>
 <ul>
     <li><b>CPU：</b> AMD 64 位或 Intel 64 位处理器。
     </li>
@@ -173,11 +173,11 @@ function googleTranslateElementInit() {
     </ul>
 
     
-<div class="os3">4.1.2a 将ISO文件烧录到 CD/DVD</div>
+<div class="heading3">4.1.2a 将ISO文件烧录到 CD/DVD</div>
 当您将下载的 iso 文件 烧录至 CD/DVD 时，请注意在烧录软件中设置为 iso 镜像文件的模式，否则的话光盘将不能用以引导。<br /><br /> 
 
 
-<div class="os3">4.1.2b 制作Live U盘</div>
+<div class="heading3">4.1.2b 制作Live U盘</div>
 ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普通的优盘。
 根据您所使用的操作系统，可以查看相应的制作教程：<br />
 <ul>
@@ -188,11 +188,11 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 
 
 
-<div class="os3">4.1.3 BIOS 设置</div>
+<div class="heading3">4.1.3 BIOS 设置</div>
 如果您的电脑不能从 CD/DVD 或者优盘启动，请检查电脑的 BIOS 是否设置了从 CD/DVD 或者 USB 启动。<br /><br />
 
 
-<div class="os3">4.1.4 双系统 (openSUSE和MS Windows的一机双启动)</div>
+<div class="heading3">4.1.4 双系统 (openSUSE和MS Windows的一机双启动)</div>
 如果电脑上已经装好了 MS Windows 系统，那么再来个 openSUSE 并和 Winsows 和谐相处实在是一件再简单不过的事儿。在 openSUSE 的安装过程中，会自动检测 MS Windows ，然后在启动菜单中加入一个选项以保留您进入 Windows 的权力。<br />
 不过这样的前提是，openSUSE 需要安装在非 Windows 的系统分区之上。您可以在安装之前用所熟悉的分区工具为 openSUSE 单独留出一块儿空白分区，或者在安装 openSUSE 的过程中让 openSUSE 自动帮您调整分区，而不会破坏您的任何数据，当然前提是最好在安装之前先整理过 Windows 下的磁盘碎片。<br /><br />
 <b>如果是双系统，为Linux保留空间的话，先清空
@@ -201,11 +201,11 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 <br /><br />
 
 
-<div class="os3">4.1.5 连接网线并打开外设</div>
+<div class="heading3">4.1.5 连接网线并打开外设</div>
 如果在安装过程开始前连接网线并打开诸如打印机之类的外设，安装程序将会自动检测并配置好相应的程序。<br /><br />
 
 
-<div class="os2">4.2 DVD 安装</div>
+<div class="heading2">4.2 DVD 安装</div>
 当一切已经准备就绪，将 DVD 光盘或U盘插入光驱，
 重启电脑，美好的旅程即将开始。<br />
 本节描述的是4.7GB DVD ISO系统盘的安装，之前也提到 Live* 系统可以安装，
@@ -214,28 +214,18 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 <br />
 <br />
 
-
-<div class="os3">欢迎界面</div>
-<table>
-	<tr>
-		<td width="205" valign="top"><a href="images/installation/dvd/welcome.png" rel="thumbnail"><img src="images/installation/dvd/welcomeb.png" alt="welcome" class="pic" /></a></td>
-		<td valign="top">首先映入眼帘的是这个欢迎页面。</td>
-	</tr>
-</table><br />
-
-
-<div class="os3">开始安装</div>
+<div class="heading3">开始安装</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/grub.png" rel="thumbnail"><img src="images/installation/dvd/grubb.png" alt="grub" class="pic" /></a></td>
-		<td valign="top">然后是一个选择菜单。<br /><br />
+		<td valign="top">首先看到选择菜单，选择 Installation。<br /><br />
 		这里可以选择显示的语言以及一些其他选项，之后选择开始安装。<br />
 		<b>可以按F2键选择简体中文界面。</b></td>
 	</tr>
 </table><br />
 
 
-<div class="os3">语言、键盘布局和许可证</div>
+<div class="heading3">语言、键盘布局和许可证</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/inst-welcome.png" rel="thumbnail"><img src="images/installation/dvd/inst-welcomeb.png" alt="welcome" class="pic" /></a></td>
@@ -250,7 +240,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 </table><br />
 
 
-<div class="os3">安装选项</div>
+<div class="heading3">安装选项</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/inst-mode.png" rel="thumbnail"><img src="images/installation/dvd/inst-modeb.png" alt="inst-mode" class="pic" /></a></td>
@@ -261,7 +251,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 
 
 
-<div class="os3">分区</div>
+<div class="heading3">分区</div>
 <table>
 	<tr>
 	  <td width="205" valign="top"><a href="images/installation/dvd/inst-disk.png" rel="thumbnail"><img src="images/installation/dvd/inst-diskb.png" alt="inst-disk" class="pic" /></a></td>
@@ -289,7 +279,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 </table><br />
 
 
-<div class="os3">时钟和时区</div>
+<div class="heading3">时钟和时区</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/inst-time.png" rel="thumbnail"><img src="images/installation/dvd/inst-timeb.png" alt="inst-time" class="pic" /></a></td>
@@ -304,7 +294,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 </table><br />
 
 
-<div class="os3">选择桌面环境</div>
+<div class="heading3">选择桌面环境</div>
 	<table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/inst-desktop.png" rel="thumbnail"><img src="images/installation/dvd/inst-desktopb.png" alt="inst-desktop" class="pic" /></a></td>
@@ -317,7 +307,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 
 
 
-<div class="os3">新建用户</div>
+<div class="heading3">新建用户</div>
 <table>
 	<tr>
 	<td width="205" valign="top"><a href="images/installation/dvd/inst-user.png" rel="thumbnail"><img src="images/installation/dvd/inst-userb.png" alt="inst-user" class="pic" /></a></td>
@@ -328,7 +318,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 </table><br />
 
 
-<div class="os3">安装设置</div>
+<div class="heading3">安装设置</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/inst-overview.png" rel="thumbnail"><img src="images/installation/dvd/inst-overviewb.png" alt="inst-overview" class="pic" /></a></td>
@@ -343,7 +333,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 </table><br />
 
 
-<div class="os3">实际安装</div>
+<div class="heading3">实际安装</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/inst-inst.png" rel="thumbnail"><img src="images/installation/dvd/inst-instb.png" alt="inst-inst" class="pic" /></a></td>
@@ -357,7 +347,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 
 <!--
 
-<div class="os3">自动配置</div>
+<div class="heading3">自动配置</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/inst-autoconfig.png" rel="thumbnail"><img src="images/installation/dvd/inst-autoconfigb.png" alt="inst-inst" class="pic" /></a></td>
@@ -376,7 +366,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 
 
 <!--
-<div class="os2">4.3 Live CD/USB 安装</div>
+<div class="heading2">4.3 Live CD/USB 安装</div>
 <font color="red"><b>请注意，这种安装方式默认只有英文版，如果要安装完整的中文版，请不要这么装！
 纯粹是搬石头砸自己的脚！如果安装到硬盘或虚拟机，只推荐4.2节的DVD安装方式！</b></font>
 <br/><br/>
@@ -385,7 +375,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 
 Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直接开始安装，也可以先进入系统体验一把然后再决定是否继续安装。这两种安装模式其实并没有本质的区别，不过能先体验把再决定是否安装确实是个不错的选择。<br /><br />
 
-<div class="os3">语言和许可证</div>
+<div class="heading3">语言和许可证</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/live/live-welcome.png" rel="thumbnail"><img src="images/installation/live/live-welcomeb.png" alt="live-welcome" class="pic" /></a></td>
@@ -398,7 +388,7 @@ Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直�
 	</table><br />
 
 
-<div class="os3">时钟和时区</div>
+<div class="heading3">时钟和时区</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/live/live-time.png" rel="thumbnail"><img src="images/installation/live/live-timeb.png" alt="live-time" class="pic" /></a></td>
@@ -413,7 +403,7 @@ Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直�
 </table><br />
 
 
-<div class="os3">分区</div>
+<div class="heading3">分区</div>
 	<table>
 	<tr>
 	<td width="205" valign="top"><a href="images/installation/live/live-partition.png" rel="thumbnail"><img src="images/installation/live/live-partitionb.png" alt="live-partition" class="pic" /></a></td>
@@ -432,7 +422,7 @@ Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直�
 </table><br />
 
 
-<div class="os3">新建用户</div>
+<div class="heading3">新建用户</div>
 <table>
 	<tr>
 	    <td width="205" valign="top"><a href="images/installation/live/live-user.png" rel="thumbnail"><img src="images/installation/live/live-userb.png" alt="live-user" class="pic" /></a></td>
@@ -443,7 +433,7 @@ Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直�
 </table><br />
 
 
-<div class="os3">安装设置</div>
+<div class="heading3">安装设置</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/live/live-settings.png" rel="thumbnail"><img src="images/installation/live/live-settingsb.png" alt="live-settings" class="pic" /></a></td>
@@ -452,7 +442,7 @@ Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直�
 </table><br />
 
 
-<div class="os3">实际安装</div>
+<div class="heading3">实际安装</div>
 <table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/live/live-installation.png" rel="thumbnail"><img src="images/installation/live/live-installationb.png" alt="live-installation" class="pic" /></a></td>
@@ -461,7 +451,7 @@ Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直�
 </table><br />
 
 
-<div class="os3">自动配置</div>
+<div class="heading3">自动配置</div>
 <table>
 	<tr>
 	    <td width="205" valign="top"><a href="images/installation/live/live-done.png" rel="thumbnail"><img src="images/installation/live/live-doneb.png" alt="live-done" class="pic" /></a></td>
@@ -484,7 +474,7 @@ Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直�
 
 <!--
 
-<div class="os2">4.4 硬盘安装</div>
+<div class="heading2">4.4 硬盘安装</div>
 如果要从Windows XP或Windows 7的NTFS分区来
 硬盘安装openSUSE 13.2，请参考此文：<br />
 <a href="http://hi.baidu.com/winland0704/blog/item/238cfad865e6e1bccc1166dd.html" target="_blank">
@@ -500,7 +490,7 @@ Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直�
 
 -->
 
-<div class="os2">4.3 升级安装</div>
+<div class="heading2">4.3 升级安装</div>
 如果原来有低版本的openSUSE Linux，可以选择在线升级安装。
 openSUSE官方有教程：<br />
 <a href="http://en.opensuse.org/Upgrade" target="_blank">
@@ -544,7 +534,7 @@ openSUSE官方有教程：<br />
 <!-- sponsor slut -->
 <!-- <div class="lille" align="center">Send feedback to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;admin&#64;opensuse-guide&#46;org">admin [at] opensuse-guide.org</a></div> -->
 
-<div class="lille" align="center">
+<div class="small" align="center">
 本文档翻译自 <a href="http://opensuse-guide.org/" target="_blank">http://opensuse-guide.org/</a> 不当之处，还望指正<br />
 使用e-mail发送您的英文评论给 admin [at] opensuse-guide.org <br />
 或发送意见和建议给中文译者：Libitum (hello[at]libitum.org);

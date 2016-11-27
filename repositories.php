@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2016年5月2日</div>
+<div class="content-text">最后更新：2016年11月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -63,7 +63,7 @@
 		<input type="hidden" name="bcd" value="&#247;" />
 		<input type="text" name="query" size="16" />
 		<input type="submit" value="search" />
-		&nbsp;<a href="http://www.freefind.com" class="indholdtekst">by FreeFind</a>
+		&nbsp;<a href="http://www.freefind.com" class="content-text">by FreeFind</a>
 		</form>
 </td>
 </tr>
@@ -90,9 +90,9 @@ function googleTranslateElementInit() {
 
 <table width="99%">
 <tr>
-<td width="67%" align="center"><img src="images/pics/titel.png" alt="titel" />
+<td width="67%" align="center"><img src="images/pics/title.png" alt="title" />
 </td>
-<td width="33%" align="center"><img src="images/pics/desktop-titel.png" alt="?" class="pic" /></td> 
+<td width="33%" align="center"><img src="images/pics/desktop-title.png" alt="?" class="pic" /></td> 
 </tr>
 </table>
 
@@ -102,40 +102,40 @@ function googleTranslateElementInit() {
  
 <div id="topLeft">
 
-<div class="indholdoverskriftb">开始</div>
-    <a href="index.php" class="indholdtekst">1. 简介</a><br />
-    <a href="switching.php" class="indholdtekst">2. 改用 GNU/Linux</a><br />
-    <a href="acquisition.php" class="indholdtekst">3. 获取 openSUSE</a><br />
-    <a href="installation.php" class="indholdtekst">4. 安装</a><br />
+<div class="content-title">开始</div>
+    <a href="index.php" class="content-text">1. 简介</a><br />
+    <a href="switching.php" class="content-text">2. 改用 GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. 获取 openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. 安装</a><br />
 
-<div class="indholdoverskrift">日常应用</div>
-    <a href="kde.php" class="indholdtekst">5. KDE 桌面环境</a><br />
-    <a href="apps.php" class="indholdtekst">6. 常用软件</a><br />
-    <a href="security.php" class="indholdtekst">7. 安全设置</a><br />
-    <a href="command.php" class="indholdtekst">8. 终端命令行</a><br />
-    <a href="yast.php" class="indholdtekst">9. 管理员设置 (YaST)</a><br />
-    <a href="installpackage.php" class="indholdtekst">10. 软件安装</a><br />
-    <a href="repositories.php" class="indholdtekst">11. 软件源</a><br />
-    <a href="windows.php" class="indholdtekst">12. 与Windows世界兼容</a><br />
+<div class="content-title">日常应用</div>
+    <a href="kde.php" class="content-text">5. KDE 桌面环境</a><br />
+    <a href="apps.php" class="content-text">6. 常用软件</a><br />
+    <a href="security.php" class="content-text">7. 安全设置</a><br />
+    <a href="command.php" class="content-text">8. 终端命令行</a><br />
+    <a href="yast.php" class="content-text">9. 管理员设置 (YaST)</a><br />
+    <a href="installpackage.php" class="content-text">10. 软件安装</a><br />
+    <a href="repositories.php" class="content-text">11. 软件源</a><br />
+    <a href="windows.php" class="content-text">12. 与Windows世界兼容</a><br />
 
-<div class="indholdoverskrift">设置</div>
-    <a href="codecs.php" class="indholdtekst">13. 多媒体编解码器</a><br />  
-    <a href="browserplugins.php" class="indholdtekst">14. 浏览器插件</a><br />
-    <a href="3d.php" class="indholdtekst">15. 显卡驱动</a><br />
-    <a href="wlan.php" class="indholdtekst">16. 无线网</a><br />
-    <a href="develop.php" class="indholdtekst">17. 开发环境</a><br />
-    <a href="obs.php" class="indholdtekst">18. 软件打包服务OBS</a><br />
-    <a href="srvlamp.php" class="indholdtekst">19. LAMP和LNMP</a><br />
-    <a href="srvother.php" class="indholdtekst">20. 其他常见服务软件</a><br />
+<div class="content-title">设置</div>
+    <a href="codecs.php" class="content-text">13. 多媒体编解码器</a><br />  
+    <a href="browserplugins.php" class="content-text">14. 浏览器插件</a><br />
+    <a href="3d.php" class="content-text">15. 显卡驱动</a><br />
+    <a href="wlan.php" class="content-text">16. 无线网</a><br />
+    <a href="develop.php" class="content-text">17. 开发环境</a><br />
+    <a href="obs.php" class="content-text">18. 软件打包服务OBS</a><br />
+    <a href="srvlamp.php" class="content-text">19. LAMP和LNMP</a><br />
+    <a href="srvother.php" class="content-text">20. 其他常见服务软件</a><br />
 
-<div class="indholdoverskrift">附录</div>
-    <a href="help.php" class="indholdtekst">A: 帮助和文档</a><br />
-    <a href="games.php" class="indholdtekst">B: 游戏</a><br />
-    <a href="under.php" class="indholdtekst">C. 深入了解</a><br />
-    <a href="tweaks.php" class="indholdtekst">D. 提示和解决方法</a><br />
-    <a href="history.php" class="indholdtekst">E. 历史和背景</a><br />
-    <a href="contribute.php" class="indholdtekst">F: 重在参与</a><br />
-    <a href="license.php" class="indholdtekst">GNU自由文档许可证</a>
+<div class="content-title">附录</div>
+    <a href="help.php" class="content-text">A: 帮助和文档</a><br />
+    <a href="games.php" class="content-text">B: 游戏</a><br />
+    <a href="under.php" class="content-text">C. 深入了解</a><br />
+    <a href="tweaks.php" class="content-text">D. 提示和解决方法</a><br />
+    <a href="history.php" class="content-text">E. 历史和背景</a><br />
+    <a href="contribute.php" class="content-text">F: 重在参与</a><br />
+    <a href="license.php" class="content-text">GNU自由文档许可证</a>
 
 <!--
  <hr align="center" width="99%" />
@@ -146,7 +146,7 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 13.2 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 13.2 coming soon:</div><br />
 
 <center><a href="http://en.opensuse.org/Portal:13.2"><img src="http://counter.opensuse.org/13.2/small" border="0" alt="countdown" /></a></center><br />
 -->
@@ -156,25 +156,25 @@ function googleTranslateElementInit() {
  
 
 
-<div class="os1">11. 软件源</div>
+<div class="heading1">11. 软件源</div>
 如前面章节提到的，通过软件包管理器安装软件本质上是从软件源搜索并下载安装程序。因此所能安装的软件的以及下载的速度都取决于您的软件源。
 <br /><br /> 
 
 软件源可以理解为一系列 RPM 包（专为openSUSE打包的）和可用包的列表数据的集合。
 通常情况下的软件源都是一些在线的服务器供软件搜索与安装，不过 CD/DVD 或者其他一些介质也可以当作静态的软件源使用。<br /><br />
 
-<div class="os2">11.1 管理软件源</div>
+<div class="heading2">11.1 管理软件源</div>
 通过 YaST 可以添加、删除和管理软件源。<br />
-<div class="sti">开始菜单 => 系统 => YaST ，在 Yast 里点击 "软件源"</div><br />
+<div class="path">开始菜单 => 系统 => YaST ，在 Yast 里点击 "软件源"</div><br />
 
 
 <center><a href="images/screenshots/yast-repos.png" rel="thumbnail"><img src="images/screenshots/yast-reposb.png" alt="repos" class="pic" /></a></center><br />
 
 
-<div class="os3">11.1.1 添加软件源</div>
+<div class="heading3">11.1.1 添加软件源</div>
 默认已经加入了官方的软件源，不过我们自己也可以根据需要添加很多非官方软件源。<br /><br /> 
 
-<div class="obs">
+<div class="note">
 <table>
 <tbody>
 <tr>
@@ -194,7 +194,7 @@ function googleTranslateElementInit() {
 
 
 最简单且最安全的添加软件软件源的方法是让 YaST 自动寻找并添加社区软件源。它会列出一些常用的并且安全的软件源供您选择：
-<div class="sti">YaST => Software（软件） => Software Repositories（软件源） => Click on "Add"（单击“添加”） => Select "Community Repositories" and click "Next"（选择“社区软件源”并点击“下一步”）</div><br />
+<div class="path">YaST => Software（软件） => Software Repositories（软件源） => Click on "Add"（单击“添加”） => Select "Community Repositories" and click "Next"（选择“社区软件源”并点击“下一步”）</div><br />
 
 <center><video src="video/repos114.ogv" controls>  
 
@@ -212,7 +212,7 @@ function googleTranslateElementInit() {
 
 
 
-<div class="os3">11.1.2 推荐的软件源</div>
+<div class="heading3">11.1.2 推荐的软件源</div>
 您必须一直要保持有这四个 <b>官方</b> 软件源(当然是默认配置好的)。<br/>
 
 <ul>
@@ -330,13 +330,13 @@ function googleTranslateElementInit() {
 </table>
 </div><br />
 
-<div class="os3">11.1.3 改变软件更新源</div>
+<div class="heading3">11.1.3 改变软件更新源</div>
 
 从一个软件源安装软件后，若要从另一个不同的软件<b>供应方(vendor)</b>来更新这些软件版本，有一丁点复杂，请看这里：
 <br />
 <a href="http://en.opensuse.org/SDB:Vendor_change_update" target="_blank">http://en.opensuse.org/SDB:Vendor_change_update</a><br /><br />
 
-<div class="os2">11.2 在终端中管理软件源</div>
+<div class="heading2">11.2 在终端中管理软件源</div>
 如果您愿意，您也可以从终端来管理您的软件源。
 <br /><br />
 
@@ -393,7 +393,7 @@ https://en.opensuse.org/SDB%3aZypper_usage
 <!-- sponsor slut -->
 <!-- <div class="lille" align="center">Send feedback to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;admin&#64;opensuse-guide&#46;org">admin [at] opensuse-guide.org</a></div> -->
 
-<div class="lille" align="center">
+<div class="small" align="center">
 本文档翻译自 <a href="http://opensuse-guide.org/" target="_blank">http://opensuse-guide.org/</a> 不当之处，还望指正<br />
 使用e-mail发送您的英文评论给 admin [at] opensuse-guide.org <br />
 或发送意见和建议给中文译者：Libitum (hello[at]libitum.org);

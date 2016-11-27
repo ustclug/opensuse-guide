@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2016年5月2日</div>
+<div class="content-text">最后更新：2016年11月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -63,7 +63,7 @@
 		<input type="hidden" name="bcd" value="&#247;" />
 		<input type="text" name="query" size="16" />
 		<input type="submit" value="search" />
-		&nbsp;<a href="http://www.freefind.com" class="indholdtekst">by FreeFind</a>
+		&nbsp;<a href="http://www.freefind.com" class="content-text">by FreeFind</a>
 		</form>
 </td>
 </tr>
@@ -90,9 +90,9 @@ function googleTranslateElementInit() {
 
 <table width="99%">
 <tr>
-<td width="67%" align="center"><img src="images/pics/titel.png" alt="titel" />
+<td width="67%" align="center"><img src="images/pics/title.png" alt="title" />
 </td>
-<td width="33%" align="center"><img src="images/pics/desktop-titel.png" alt="?" class="pic" /></td> 
+<td width="33%" align="center"><img src="images/pics/desktop-title.png" alt="?" class="pic" /></td> 
 </tr>
 </table>
 
@@ -102,40 +102,40 @@ function googleTranslateElementInit() {
  
 <div id="topLeft">
 
-<div class="indholdoverskriftb">开始</div>
-    <a href="index.php" class="indholdtekst">1. 简介</a><br />
-    <a href="switching.php" class="indholdtekst">2. 改用 GNU/Linux</a><br />
-    <a href="acquisition.php" class="indholdtekst">3. 获取 openSUSE</a><br />
-    <a href="installation.php" class="indholdtekst">4. 安装</a><br />
+<div class="content-title">开始</div>
+    <a href="index.php" class="content-text">1. 简介</a><br />
+    <a href="switching.php" class="content-text">2. 改用 GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. 获取 openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. 安装</a><br />
 
-<div class="indholdoverskrift">日常应用</div>
-    <a href="kde.php" class="indholdtekst">5. KDE 桌面环境</a><br />
-    <a href="apps.php" class="indholdtekst">6. 常用软件</a><br />
-    <a href="security.php" class="indholdtekst">7. 安全设置</a><br />
-    <a href="command.php" class="indholdtekst">8. 终端命令行</a><br />
-    <a href="yast.php" class="indholdtekst">9. 管理员设置 (YaST)</a><br />
-    <a href="installpackage.php" class="indholdtekst">10. 软件安装</a><br />
-    <a href="repositories.php" class="indholdtekst">11. 软件源</a><br />
-    <a href="windows.php" class="indholdtekst">12. 与Windows世界兼容</a><br />
+<div class="content-title">日常应用</div>
+    <a href="kde.php" class="content-text">5. KDE 桌面环境</a><br />
+    <a href="apps.php" class="content-text">6. 常用软件</a><br />
+    <a href="security.php" class="content-text">7. 安全设置</a><br />
+    <a href="command.php" class="content-text">8. 终端命令行</a><br />
+    <a href="yast.php" class="content-text">9. 管理员设置 (YaST)</a><br />
+    <a href="installpackage.php" class="content-text">10. 软件安装</a><br />
+    <a href="repositories.php" class="content-text">11. 软件源</a><br />
+    <a href="windows.php" class="content-text">12. 与Windows世界兼容</a><br />
 
-<div class="indholdoverskrift">设置</div>
-    <a href="codecs.php" class="indholdtekst">13. 多媒体编解码器</a><br />  
-    <a href="browserplugins.php" class="indholdtekst">14. 浏览器插件</a><br />
-    <a href="3d.php" class="indholdtekst">15. 显卡驱动</a><br />
-    <a href="wlan.php" class="indholdtekst">16. 无线网</a><br />
-    <a href="develop.php" class="indholdtekst">17. 开发环境</a><br />
-    <a href="obs.php" class="indholdtekst">18. 软件打包服务OBS</a><br />
-    <a href="srvlamp.php" class="indholdtekst">19. LAMP和LNMP</a><br />
-    <a href="srvother.php" class="indholdtekst">20. 其他常见服务软件</a><br />
+<div class="content-title">设置</div>
+    <a href="codecs.php" class="content-text">13. 多媒体编解码器</a><br />  
+    <a href="browserplugins.php" class="content-text">14. 浏览器插件</a><br />
+    <a href="3d.php" class="content-text">15. 显卡驱动</a><br />
+    <a href="wlan.php" class="content-text">16. 无线网</a><br />
+    <a href="develop.php" class="content-text">17. 开发环境</a><br />
+    <a href="obs.php" class="content-text">18. 软件打包服务OBS</a><br />
+    <a href="srvlamp.php" class="content-text">19. LAMP和LNMP</a><br />
+    <a href="srvother.php" class="content-text">20. 其他常见服务软件</a><br />
 
-<div class="indholdoverskrift">附录</div>
-    <a href="help.php" class="indholdtekst">A: 帮助和文档</a><br />
-    <a href="games.php" class="indholdtekst">B: 游戏</a><br />
-    <a href="under.php" class="indholdtekst">C. 深入了解</a><br />
-    <a href="tweaks.php" class="indholdtekst">D. 提示和解决方法</a><br />
-    <a href="history.php" class="indholdtekst">E. 历史和背景</a><br />
-    <a href="contribute.php" class="indholdtekst">F: 重在参与</a><br />
-    <a href="license.php" class="indholdtekst">GNU自由文档许可证</a>
+<div class="content-title">附录</div>
+    <a href="help.php" class="content-text">A: 帮助和文档</a><br />
+    <a href="games.php" class="content-text">B: 游戏</a><br />
+    <a href="under.php" class="content-text">C. 深入了解</a><br />
+    <a href="tweaks.php" class="content-text">D. 提示和解决方法</a><br />
+    <a href="history.php" class="content-text">E. 历史和背景</a><br />
+    <a href="contribute.php" class="content-text">F: 重在参与</a><br />
+    <a href="license.php" class="content-text">GNU自由文档许可证</a>
 
 <!--
  <hr align="center" width="99%" />
@@ -146,7 +146,7 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 12.1 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 12.1 coming soon:</div><br />
 
 <center><a href="http://en.opensuse.org/Portal:12.1"><img src="http://counter.opensuse.org/12.1/small" border="0" alt="countdown" /></a></center><br />
 -->
@@ -156,7 +156,7 @@ function googleTranslateElementInit() {
  
 
 
-<div class="os1">附录A：帮助和文档</div>
+<div class="heading1">附录A：帮助和文档</div>
 
 本站指南只是对一些基本问题的初步介绍，可能有时候您还需要额外的帮助。当然您可以从朋友那面对面和现场获取帮助，但并不是经常可以这样。所以幸好有很多地方，您可以从openSUSE用户在线获取帮助——选择哪种方法取决于您的个人喜好。
 <br /><br />
@@ -177,12 +177,12 @@ function googleTranslateElementInit() {
 
 
 
-<div class="os2">A.1 搜索Web页面</div>
+<div class="heading2">A.1 搜索Web页面</div>
 
 通过使用喜好的网页搜索引擎简单搜索一下，在大多数情况下，您很容易就能找到您问题的答案。<br /><br />
 
 
-<div class="os2">A.2 论坛</div> 
+<div class="heading2">A.2 论坛</div> 
 
 您可以从这些论坛寻求帮助（建议用 Firefox 浏览器打开网页链接）：
 <br />
@@ -216,7 +216,7 @@ http://linux.ubuntu.org.cn/ （Linux网站导航）
 <br /><br />
 
 
-<div class="os2">A.3 IRC（互联网中继聊天）</div>
+<div class="heading2">A.3 IRC（互联网中继聊天）</div>
 
 您可以使用 IRC（Internet Relay Chat，互联网中继聊天） 获取实时帮助。IRC客户端软件Konversation已经默认安装了，并且预先配置好连接到 Freenode IRC 网络的 <a href="irc://irc.opensuse.org/opensuse" class="button" title="join #suse on freenode">#suse</a> 频道。
 <br />
@@ -248,14 +248,14 @@ http://webchat.freenode.net
 <br /><br />
 
 
-<div class="os2">A.4 邮件列表</div>
+<div class="heading2">A.4 邮件列表</div>
 
 您可以从邮件列表获取帮助，请看：
 <br />
 <a href="http://en.opensuse.org/openSUSE:Mailing_lists" target="_blank">http://en.opensuse.org/openSUSE:Mailing_lists</a><br /><br />
 
 
-<div class="os2">A.5 文档</div>
+<div class="heading2">A.5 文档</div>
 阅读手册总是个好主意。您可以从这找到 PDF、EPUB和 HTML 格式的 openSUSE 官方手册：
 <br />
 <a href="http://activedoc.opensuse.org/" target="_blank">http://activedoc.opensuse.org/</a>
@@ -268,7 +268,7 @@ http://webchat.freenode.net
 <a href="http://en.opensuse.org/Portal:Documentation" target="_blank">http://en.opensuse.org/Portal:Documentation</a><br /><br />
 
 
-<div class="os2">A.6 其他资源</div>
+<div class="heading2">A.6 其他资源</div>
  openSUSE 的维基、论坛、邮件列表等有一个统一搜索页面，在这：
 <br />
 <a href="http://search.opensuse.org" target="_blank">http://search.opensuse.org</a><br /><br />
@@ -282,14 +282,14 @@ http://webchat.freenode.net
 
 
 
-<div class="os2">A.7 Linux用户协会（LUG）</div>
+<div class="heading2">A.7 Linux用户协会（LUG）</div>
 
 很可能有个 LUG（Linux User Groups，Linux用户协会）在您附近，
 有邮件列表或论坛及可能的会议，您可以从其获取面对面的帮助并且见见“真实生活”中的其他 GNU/Linux 用户。
 <br /><br />
 
 
-<div class="os2">A.8 硬件</div>
+<div class="heading2">A.8 硬件</div>
 
 GNU/Linux 支持绝大多数硬件，但不是全部。
 市场上非常新的组件或销量很小的组件大部分有导致问题的倾向。这里是一些跟踪各种硬件类型支持状况的数据库。在您购买组件前，建议您研究下该硬件是否被 GNU/Linux 支持。
@@ -333,7 +333,7 @@ http://h-node.org/</a> （支持自由软件的常见硬件）</li>
 
 
 
-<div class="os2">A.9 综合的和深层次的知识</div>
+<div class="heading2">A.9 综合的和深层次的知识</div>
 
 如果您确实想严肃认真地学习 GNU/Linux 深层次知识，建议读些书。
 技术书店里有 GNU/Linux 图书，您也可能在本地图书馆里找到感兴趣的东西。
@@ -374,7 +374,7 @@ http://h-node.org/</a> （支持自由软件的常见硬件）</li>
 <!-- sponsor slut -->
 <!-- <div class="lille" align="center">Send feedback to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;admin&#64;opensuse-guide&#46;org">admin [at] opensuse-guide.org</a></div> -->
 
-<div class="lille" align="center">
+<div class="small" align="center">
 本文档翻译自 <a href="http://opensuse-guide.org/" target="_blank">http://opensuse-guide.org/</a> 不当之处，还望指正<br />
 使用e-mail发送您的英文评论给 admin [at] opensuse-guide.org <br />
 或发送意见和建议给中文译者：Libitum (hello[at]libitum.org);

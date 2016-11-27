@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2016年5月2日</div>
+<div class="content-text">最后更新：2016年11月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -63,7 +63,7 @@
 		<input type="hidden" name="bcd" value="&#247;" />
 		<input type="text" name="query" size="16" />
 		<input type="submit" value="search" />
-		&nbsp;<a href="http://www.freefind.com" class="indholdtekst">by FreeFind</a>
+		&nbsp;<a href="http://www.freefind.com" class="content-text">by FreeFind</a>
 		</form>
 </td>
 </tr>
@@ -90,9 +90,9 @@ function googleTranslateElementInit() {
 
 <table width="99%">
 <tr>
-<td width="67%" align="center"><img src="images/pics/titel.png" alt="titel" />
+<td width="67%" align="center"><img src="images/pics/title.png" alt="title" />
 </td>
-<td width="33%" align="center"><img src="images/pics/desktop-titel.png" alt="?" class="pic" /></td> 
+<td width="33%" align="center"><img src="images/pics/desktop-title.png" alt="?" class="pic" /></td> 
 </tr>
 </table>
 
@@ -102,40 +102,40 @@ function googleTranslateElementInit() {
  
 <div id="topLeft">
 
-<div class="indholdoverskriftb">开始</div>
-    <a href="index.php" class="indholdtekst">1. 简介</a><br />
-    <a href="switching.php" class="indholdtekst">2. 改用 GNU/Linux</a><br />
-    <a href="acquisition.php" class="indholdtekst">3. 获取 openSUSE</a><br />
-    <a href="installation.php" class="indholdtekst">4. 安装</a><br />
+<div class="content-title">开始</div>
+    <a href="index.php" class="content-text">1. 简介</a><br />
+    <a href="switching.php" class="content-text">2. 改用 GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. 获取 openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. 安装</a><br />
 
-<div class="indholdoverskrift">日常应用</div>
-    <a href="kde.php" class="indholdtekst">5. KDE 桌面环境</a><br />
-    <a href="apps.php" class="indholdtekst">6. 常用软件</a><br />
-    <a href="security.php" class="indholdtekst">7. 安全设置</a><br />
-    <a href="command.php" class="indholdtekst">8. 终端命令行</a><br />
-    <a href="yast.php" class="indholdtekst">9. 管理员设置 (YaST)</a><br />
-    <a href="installpackage.php" class="indholdtekst">10. 软件安装</a><br />
-    <a href="repositories.php" class="indholdtekst">11. 软件源</a><br />
-    <a href="windows.php" class="indholdtekst">12. 与Windows世界兼容</a><br />
+<div class="content-title">日常应用</div>
+    <a href="kde.php" class="content-text">5. KDE 桌面环境</a><br />
+    <a href="apps.php" class="content-text">6. 常用软件</a><br />
+    <a href="security.php" class="content-text">7. 安全设置</a><br />
+    <a href="command.php" class="content-text">8. 终端命令行</a><br />
+    <a href="yast.php" class="content-text">9. 管理员设置 (YaST)</a><br />
+    <a href="installpackage.php" class="content-text">10. 软件安装</a><br />
+    <a href="repositories.php" class="content-text">11. 软件源</a><br />
+    <a href="windows.php" class="content-text">12. 与Windows世界兼容</a><br />
 
-<div class="indholdoverskrift">设置</div>
-    <a href="codecs.php" class="indholdtekst">13. 多媒体编解码器</a><br />  
-    <a href="browserplugins.php" class="indholdtekst">14. 浏览器插件</a><br />
-    <a href="3d.php" class="indholdtekst">15. 显卡驱动</a><br />
-    <a href="wlan.php" class="indholdtekst">16. 无线网</a><br />
-    <a href="develop.php" class="indholdtekst">17. 开发环境</a><br />
-    <a href="obs.php" class="indholdtekst">18. 软件打包服务OBS</a><br />
-    <a href="srvlamp.php" class="indholdtekst">19. LAMP和LNMP</a><br />
-    <a href="srvother.php" class="indholdtekst">20. 其他常见服务软件</a><br />
+<div class="content-title">设置</div>
+    <a href="codecs.php" class="content-text">13. 多媒体编解码器</a><br />  
+    <a href="browserplugins.php" class="content-text">14. 浏览器插件</a><br />
+    <a href="3d.php" class="content-text">15. 显卡驱动</a><br />
+    <a href="wlan.php" class="content-text">16. 无线网</a><br />
+    <a href="develop.php" class="content-text">17. 开发环境</a><br />
+    <a href="obs.php" class="content-text">18. 软件打包服务OBS</a><br />
+    <a href="srvlamp.php" class="content-text">19. LAMP和LNMP</a><br />
+    <a href="srvother.php" class="content-text">20. 其他常见服务软件</a><br />
 
-<div class="indholdoverskrift">附录</div>
-    <a href="help.php" class="indholdtekst">A: 帮助和文档</a><br />
-    <a href="games.php" class="indholdtekst">B: 游戏</a><br />
-    <a href="under.php" class="indholdtekst">C. 深入了解</a><br />
-    <a href="tweaks.php" class="indholdtekst">D. 提示和解决方法</a><br />
-    <a href="history.php" class="indholdtekst">E. 历史和背景</a><br />
-    <a href="contribute.php" class="indholdtekst">F: 重在参与</a><br />
-    <a href="license.php" class="indholdtekst">GNU自由文档许可证</a>
+<div class="content-title">附录</div>
+    <a href="help.php" class="content-text">A: 帮助和文档</a><br />
+    <a href="games.php" class="content-text">B: 游戏</a><br />
+    <a href="under.php" class="content-text">C. 深入了解</a><br />
+    <a href="tweaks.php" class="content-text">D. 提示和解决方法</a><br />
+    <a href="history.php" class="content-text">E. 历史和背景</a><br />
+    <a href="contribute.php" class="content-text">F: 重在参与</a><br />
+    <a href="license.php" class="content-text">GNU自由文档许可证</a>
 
 <!--
  <hr align="center" width="99%" />
@@ -146,7 +146,7 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 12.1 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 12.1 coming soon:</div><br />
 
 <center><a href="http://en.opensuse.org/Portal:12.1"><img src="http://counter.opensuse.org/12.1/small" border="0" alt="countdown" /></a></center><br />
 -->
@@ -156,11 +156,11 @@ function googleTranslateElementInit() {
  
 
 
-<div class="os1">15. 显卡驱动</div>
+<div class="heading1">15. 显卡驱动</div>
 请注意：如果系统默认的开源驱动软件满足您的使用需求，就没必要安装下面的闭源显卡驱动软件。这些驱动软件安装方法对 GNOME 和 KDE 桌面都通用。 命令行安装需要root管理员权限，输入su，按提示输入密码，然后以管理员身份安装软件。其他安装方式也要按提示输入密码。 
 <br /><br />
 
-<div class="obs">
+<div class="note">
 <table>
 <tbody>
 <tr>
@@ -178,7 +178,7 @@ function googleTranslateElementInit() {
 
 
 
-<div class="os2">15.1 Nvidia</div>
+<div class="heading2">15.1 Nvidia</div>
 
 请根据您的 Nvidia 显卡型号选择适合的按钮，点击它一键安装英伟达官方显卡驱动。
 <br /><br />
@@ -187,7 +187,7 @@ function googleTranslateElementInit() {
 请注意：所有采用 Nvidia Optimus 技术的显卡都不要按下面方式装官方驱动，因为 Nvidia 官方的 Linux 驱动目前不支持 Optimus 技术，虽然有计划支持，但需要时间。Optimus技术非官方支持见15.1.3节。</b>
 </font>
 <br /><br />
-<div class="os3">15.1.1 一键安装 Nvidia 显卡驱动</div>
+<div class="heading3">15.1.1 一键安装 Nvidia 显卡驱动</div>
 <br />
  Geforce 400 系列以及之后的新显卡：
 <center><a href="http://opensuse-community.org/nvidia.ymp"><img src="images/oneclick/nvidia_gf400.png" alt="ymp" class="pic" /></a></center><br />
@@ -206,7 +206,7 @@ http://en.opensuse.org/SDB:NVIDIA_drivers
 </a>
 <br /><br />
 
-<div class="os3">15.1.2 终端命令行安装 Nvidia 驱动</div>
+<div class="heading3">15.1.2 终端命令行安装 Nvidia 驱动</div>
 
 如果您喜欢的话，您可以在终端里安装 Nvidia 驱动。<u>通过这种方式，您就无需知道自己是什么系列的 NVIDIA 显卡，
 该安装命令会自动识别显卡型号并挑选合适的驱动。</u>
@@ -220,7 +220,7 @@ http://en.opensuse.org/SDB:NVIDIA_drivers
 
 安装完之后重启。<br /><br />
 
-<div class="os3">15.1.3 Optimus 与 Bumblebee</div>
+<div class="heading3">15.1.3 Optimus 与 Bumblebee</div>
 NVIDIA Optimus 是NVIDIA 公司2010年发布的独立显卡和集成显卡热切换技术，通常用于笔记本电脑，在游戏时双显卡同时工作，而平时图形计算负担轻时只使用Intel集成显卡，达到省电的效果。<br />
 在Optimus技术发布之初，Nvidia宣布Optimus技术不支持Linux平台。2012年Nvidia公司被Linus竖中指后，洗心革面，随后改口称将Optimus技术将会支持Linux平台，但是目前还未发布相应驱动包。<br />
 在当初Nvidia称Optimus技术不支持Linux平台之后，2011年开源项目“Bumblebee”启动，在Linux支持Optimus技术。当然，这是非官方的，也是不受Nvidia官方支持的。<br />
@@ -250,7 +250,7 @@ https://zh.opensuse.org/SDB:Bumblebee
 
 
 
-<div class="os2">15.2 ATI(AMD)</div>
+<div class="heading2">15.2 ATI(AMD)</div>
 
 
 点击下面按钮，一键安装 ATI(AMD) 专有显卡驱动，适用于Radeon HD 5000系列和之后的显卡。（老版本显卡的驱动 ATI/AMD 没提供，只能使用系统默认的开源驱动，而且 openSUSE 自带的开源驱动性能比旧的AMD官方驱动性能好。）
@@ -272,7 +272,7 @@ http://en.opensuse.org/SDB:ATI_drivers
 
 <!--
 
-<div class="os3">15.2.1 终端命令行安装 ATI 驱动</div>
+<div class="heading3">15.2.1 终端命令行安装 ATI 驱动</div>
 
 如果您喜欢的话，您可以在终端里安装 ATI 驱动。
 <br /><br />
@@ -295,7 +295,7 @@ http://en.opensuse.org/SDB:ATI_drivers
 
 <!-- ati KMP slut -->
 
-<div class="os2">15.3 Intel</div>
+<div class="heading2">15.3 Intel</div>
 Intel 显卡的 3D 驱动是开源软件，所以 openSUSE 自带该驱动，默认就支持其 3D 驱动。不需要额外的安装或配置。
 <br /><br />
 
@@ -327,7 +327,7 @@ Intel 显卡的 3D 驱动是开源软件，所以 openSUSE 自带该驱动，默
 <!-- sponsor slut -->
 <!-- <div class="lille" align="center">Send feedback to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;admin&#64;opensuse-guide&#46;org">admin [at] opensuse-guide.org</a></div> -->
 
-<div class="lille" align="center">
+<div class="small" align="center">
 本文档翻译自 <a href="http://opensuse-guide.org/" target="_blank">http://opensuse-guide.org/</a> 不当之处，还望指正<br />
 使用e-mail发送您的英文评论给 admin [at] opensuse-guide.org <br />
 或发送意见和建议给中文译者：Libitum (hello[at]libitum.org);

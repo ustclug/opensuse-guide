@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="content-text">最后更新：2016年11月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -63,7 +63,7 @@
 		<input type="hidden" name="bcd" value="&#247;" />
 		<input type="text" name="query" size="16" />
 		<input type="submit" value="search" />
-		&nbsp;<a href="http://www.freefind.com" class="indholdtekst">by FreeFind</a>
+		&nbsp;<a href="http://www.freefind.com" class="content-text">by FreeFind</a>
 		</form>
 </td>
 </tr>
@@ -90,9 +90,9 @@ function googleTranslateElementInit() {
 
 <table width="99%">
 <tr>
-<td width="67%" align="center"><img src="images/pics/titel.png" alt="titel" />
+<td width="67%" align="center"><img src="images/pics/title.png" alt="title" />
 </td>
-<td width="33%" align="center"><img src="images/pics/desktop-titel.png" alt="?" class="pic" /></td> 
+<td width="33%" align="center"><img src="images/pics/desktop-title.png" alt="?" class="pic" /></td> 
 </tr>
 </table>
 
@@ -102,40 +102,40 @@ function googleTranslateElementInit() {
  
 <div id="topLeft">
 
-<div class="indholdoverskriftb">开始</div>
-    <a href="index.php" class="indholdtekst">1. 简介</a><br />
-    <a href="switching.php" class="indholdtekst">2. 改用 GNU/Linux</a><br />
-    <a href="acquisition.php" class="indholdtekst">3. 获取 openSUSE</a><br />
-    <a href="installation.php" class="indholdtekst">4. 安装</a><br />
+<div class="content-title">开始</div>
+    <a href="index.php" class="content-text">1. 简介</a><br />
+    <a href="switching.php" class="content-text">2. 改用 GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. 获取 openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. 安装</a><br />
 
-<div class="indholdoverskrift">日常应用</div>
-    <a href="kde.php" class="indholdtekst">5. KDE 桌面环境</a><br />
-    <a href="apps.php" class="indholdtekst">6. 常用软件</a><br />
-    <a href="security.php" class="indholdtekst">7. 安全设置</a><br />
-    <a href="command.php" class="indholdtekst">8. 终端命令行</a><br />
-    <a href="yast.php" class="indholdtekst">9. 管理员设置 (YaST)</a><br />
-    <a href="installpackage.php" class="indholdtekst">10. 软件安装</a><br />
-    <a href="repositories.php" class="indholdtekst">11. 软件源</a><br />
-    <a href="windows.php" class="indholdtekst">12. 与Windows世界兼容</a><br />
+<div class="content-title">日常应用</div>
+    <a href="kde.php" class="content-text">5. KDE 桌面环境</a><br />
+    <a href="apps.php" class="content-text">6. 常用软件</a><br />
+    <a href="security.php" class="content-text">7. 安全设置</a><br />
+    <a href="command.php" class="content-text">8. 终端命令行</a><br />
+    <a href="yast.php" class="content-text">9. 管理员设置 (YaST)</a><br />
+    <a href="installpackage.php" class="content-text">10. 软件安装</a><br />
+    <a href="repositories.php" class="content-text">11. 软件源</a><br />
+    <a href="windows.php" class="content-text">12. 与Windows世界兼容</a><br />
 
-<div class="indholdoverskrift">设置</div>
-    <a href="codecs.php" class="indholdtekst">13. 多媒体编解码器</a><br />  
-    <a href="browserplugins.php" class="indholdtekst">14. 浏览器插件</a><br />
-    <a href="3d.php" class="indholdtekst">15. 显卡驱动</a><br />
-    <a href="wlan.php" class="indholdtekst">16. 无线网</a><br />
-    <a href="develop.php" class="indholdtekst">17. 开发环境</a><br />
-    <a href="obs.php" class="indholdtekst">18. 软件打包服务OBS</a><br />
-    <a href="srvlamp.php" class="indholdtekst">19. LAMP和LNMP</a><br />
-    <a href="srvother.php" class="indholdtekst">20. 其他常见服务软件</a><br />
+<div class="content-title">设置</div>
+    <a href="codecs.php" class="content-text">13. 多媒体编解码器</a><br />  
+    <a href="browserplugins.php" class="content-text">14. 浏览器插件</a><br />
+    <a href="3d.php" class="content-text">15. 显卡驱动</a><br />
+    <a href="wlan.php" class="content-text">16. 无线网</a><br />
+    <a href="develop.php" class="content-text">17. 开发环境</a><br />
+    <a href="obs.php" class="content-text">18. 软件打包服务OBS</a><br />
+    <a href="srvlamp.php" class="content-text">19. LAMP和LNMP</a><br />
+    <a href="srvother.php" class="content-text">20. 其他常见服务软件</a><br />
 
-<div class="indholdoverskrift">附录</div>
-    <a href="help.php" class="indholdtekst">A: 帮助和文档</a><br />
-    <a href="games.php" class="indholdtekst">B: 游戏</a><br />
-    <a href="under.php" class="indholdtekst">C. 深入了解</a><br />
-    <a href="tweaks.php" class="indholdtekst">D. 提示和解决方法</a><br />
-    <a href="history.php" class="indholdtekst">E. 历史和背景</a><br />
-    <a href="contribute.php" class="indholdtekst">F: 重在参与</a><br />
-    <a href="license.php" class="indholdtekst">GNU自由文档许可证</a>
+<div class="content-title">附录</div>
+    <a href="help.php" class="content-text">A: 帮助和文档</a><br />
+    <a href="games.php" class="content-text">B: 游戏</a><br />
+    <a href="under.php" class="content-text">C. 深入了解</a><br />
+    <a href="tweaks.php" class="content-text">D. 提示和解决方法</a><br />
+    <a href="history.php" class="content-text">E. 历史和背景</a><br />
+    <a href="contribute.php" class="content-text">F: 重在参与</a><br />
+    <a href="license.php" class="content-text">GNU自由文档许可证</a>
 
 <!--
  <hr align="center" width="99%" />
@@ -146,7 +146,7 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 12.3 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 12.3 coming soon:</div><br />
 
 <center><a href="http://en.opensuse.org/Portal:12.3"><img src="http://counter.opensuse.org/12.3/small" border="0" alt="countdown" /></a></center><br />
 -->
@@ -156,12 +156,12 @@ function googleTranslateElementInit() {
  
 
 
-<div class="os1">20. Linux其他常见服务器部署</div>
+<div class="heading1">20. Linux其他常见服务器部署</div>
 除了著名的LAMP和LNMP平台，在Linux上还可以搭建很多其他的常见服务器。
 本章简单介绍在openSUSE上搭建如FTP、SSH、DNS、VNC Server、Mail Server等服务器。
 <br /><br />
 
-<div class="os2">20.1 FTP服务器</div>
+<div class="heading2">20.1 FTP服务器</div>
 FTP（File Transfer Protocol）就是文件传输协议，在互联网上和局域网上都是经常用到的文件分享服务。
 FTP使用TCP 20和21端口，21用于传输控制命令，20端口传输实际的大量数据。
 <br />
@@ -210,7 +210,7 @@ write_enable=NO    改成   write_enable=YES
 http://activedoc.opensuse.org/book/opensuse-reference/chapter-21-setting-up-an-ftp-server-with-yast
 </a>
 <br /><br />
-<div class="os2">20.2 SSH服务器</div>
+<div class="heading2">20.2 SSH服务器</div>
 SSH是Secure Shell（缩写为SSH），由IETF的网络工作小组（Network Working Group）所制定；SSH为一项创建在应用层和传输层基础上的安全协议，为计算机上的Shell（壳层）提供安全的传输和使用环境。通过命令行远程登录管理计算机通常都使用SSH服务。SSH服务器默认使用TCP 22 端口监听。
 openSUSE默认安装了openssh，包括SSH服务器和客户端都有。Yast有一个配置SSH的模块yast2-sshd ，可以自己装着试试，但不是必要的。
 <br /><br />
@@ -237,7 +237,7 @@ Windows下可以用putty登录。<br />
 
 <br />
 
-<div class="os2">20.3 DNS服务器</div>
+<div class="heading2">20.3 DNS服务器</div>
 DNS是Domain Name System缩写，即域名解析系统。
 互联网上计算机都是以IP地址作为自身标识的，但是人总不能去记一堆数字的IP来找服务，
 尤其是IPv6时代，就更难记IP了。所以域名系统就是为了将对人来说比较好记住的名字，
@@ -394,7 +394,7 @@ http://activedoc.opensuse.org/book/opensuse-reference/chapter-15-the-domain-name
 
 <br /><br />
 
-<div class="os2">20.4 VNC服务器</div>
+<div class="heading2">20.4 VNC服务器</div>
 依据百度百科介绍，VNC (Virtual Network Computing)是虚拟网络计算机的缩写。VNC 是一款优秀的远程控制工具软件，由著名的 AT&T 的欧洲研究实验室开发的。VNC 是在基于 UNIX 和 Linux 操作系统的免费的开源软件，远程控制能力强大，高效实用，其性能可以和 Windows 和 MAC 中的任何远程控制软件媲美。openSUSE默认装了tightvnc（13.2用的是其衍生版 tigervnc）软件，里面包含了服务器和客户端，要用的都有。<br /><br />
 
 （1）启动vncserver服务（普通用户权限即可，不要用root）<br />
@@ -451,8 +451,8 @@ http://activedoc.opensuse.org/book/opensuse-reference/chapter-5-remote-access-wi
 </a>
 <br /><br />
 
-<div class="os2">20.5 Mail服务器</div>
-<div class="os3">20.5.1 Mail服务器简介</div>
+<div class="heading2">20.5 Mail服务器</div>
+<div class="heading3">20.5.1 Mail服务器简介</div>
 电子邮件相信是无人不知无人不晓的。但Mail服务器的搭建较为麻烦。
 介绍几个电子邮件服务器必备的东西 ：<br /><br />
 （1）SMTP协议（发信）<br />
@@ -469,7 +469,7 @@ MRA 即Mail Retrieval Agent，邮件收取代理，使得客户可以利用POP3�
 相信这是大家接触最多的，Web界面的操作最直观，也不需要配置，直接用浏览器访问即可。
 <br /><br />
 
-<div class="os3">20.5.2 简单邮件服务器搭建流程</div>
+<div class="heading3">20.5.2 简单邮件服务器搭建流程</div>
 最简单的邮件服务器搭建流程是：<br />
 首先进行Postfix安装配置，启动SMTP协议的服务器。<br />
 其次是进行Dovecot安装配置，启动POP3和IMAP协议的服务。<br />
@@ -480,7 +480,7 @@ Postfix+Dovecot+ SquireMail配置简单邮件服务器（openSUSE）
 </a>
 <br /><br />
 
-<div class="os3">20.5.3 稍复杂的邮件服务器搭建</div>
+<div class="heading3">20.5.3 稍复杂的邮件服务器搭建</div>
 上一小节的认证方式比较简单，只是用本地系统的真实用户作为邮件帐户的，如果要用邮箱的人多，这种方式就得新建许多系统真实用户，显然比较麻烦。真实的邮箱通常除了真实系统用户，还能支持虚拟用户的，这些虚拟用户只用于邮箱帐户，虚拟帐户的用户名和密码通常存在数据库里。这里仿照网上的教程，写了一个openSUSE版本搭建方法，使用 Postfix+Dovecot+MariaDB+PostfixAdmin+Roundcube 
 搭建一个支持虚拟用户的服务器。见pdf文档：<br />
 <a href="./20.PostfixNormal.pdf" target="_blank">
@@ -488,7 +488,7 @@ Postfix+Dovecot+MariaDB+PostfixAdmin+Roundcube搭建邮件服务器（openSUSE�
 </a>
 <br /><br />
 
-<div class="os3">20.5.4 较完善的邮件服务器搭建</div>
+<div class="heading3">20.5.4 较完善的邮件服务器搭建</div>
 除了用MySQL/MariaDB、Postgre等数据库存储虚拟邮箱帐户，还有使用OpenLDAP存储邮箱帐户的方法，这也是Yast邮箱服务器高级配置模式使用的，安装参考：<br />
 <a href="http://www.novell.com/coolsolutions/feature/16264.html" target="_blank">
 http://www.novell.com/coolsolutions/feature/16264.html 
@@ -507,7 +507,7 @@ TLS/SSL + AntiSPAM + AntiVirus<br />
 http://serion.co.nz/howto/howto-setup-mailserver-using-postfix-mysql-dovecot-postfixadmin-amavis-new 
 </a><br /><br />
 
-<div class="os3">20.5.5 邮件服务器安装配置神器iRedMail</div>
+<div class="heading3">20.5.5 邮件服务器安装配置神器iRedMail</div>
 正是由于邮件服务器复杂，所以有一个专门的邮件服务器自动安装配置脚本，叫iRedMail。iRedMail就是搭建邮件服务器的速成班，进行最简单的配置就能生成较为完善的邮件服务器。iRedMail支持很多系统安装，比如：Redhat/CentOS, Debian, Ubuntu, Gentoo,  FreeBSD等。
 iRedMail涉及安装配置的软件也很丰富，使用的主要软件包括：Postfix, Dovecot, Apache, MySQL, OpenLDAP, Policyd, Amavisd, Roundcude, Awstats, Fail2ban等。iRedMail特性很丰富，但是其安装配置却是最简单的。
 <br /><br />
@@ -533,7 +533,7 @@ http://wiki.ubuntu.org.cn/IRedMail
 
 <br /><br />
 
-<div class="os2">20.6 其他类型服务器配置参考</div>
+<div class="heading2">20.6 其他类型服务器配置参考</div>
 这里搜集一些其他类型服务器的配置参考，方便查看：<br />
 DHCP服务器：<br />
 <a href="http://activedoc.opensuse.org/book/opensuse-reference/chapter-16-dhcp " target="_blank">
@@ -643,7 +643,7 @@ http://forums.opensuse.org/aeae-chinese/aesaeoeeeaezaeaeoe/acaezaeaeoe/480276-op
 <!-- sponsor slut -->
 <!-- <div class="lille" align="center">Send feedback to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;admin&#64;opensuse-guide&#46;org">admin [at] opensuse-guide.org</a></div> -->
 
-<div class="lille" align="center">
+<div class="small" align="center">
 本文档翻译自 <a href="http://opensuse-guide.org/" target="_blank">http://opensuse-guide.org/</a> 不当之处，还望指正<br />
 使用e-mail发送您的英文评论给 admin [at] opensuse-guide.org <br />
 或发送意见和建议给中文译者：Libitum (hello[at]libitum.org);

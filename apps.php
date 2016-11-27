@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2016年5月2日</div>
+<div class="content-text">最后更新：2016年11月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -63,7 +63,7 @@
 		<input type="hidden" name="bcd" value="&#247;" />
 		<input type="text" name="query" size="16" />
 		<input type="submit" value="search" />
-		&nbsp;<a href="http://www.freefind.com" class="indholdtekst">by FreeFind</a>
+		&nbsp;<a href="http://www.freefind.com" class="content-text">by FreeFind</a>
 		</form>
 </td>
 </tr>
@@ -90,9 +90,9 @@ function googleTranslateElementInit() {
 
 <table width="99%">
 <tr>
-<td width="67%" align="center"><img src="images/pics/titel.png" alt="titel" />
+<td width="67%" align="center"><img src="images/pics/title.png" alt="title" />
 </td>
-<td width="33%" align="center"><img src="images/pics/desktop-titel.png" alt="?" class="pic" /></td> 
+<td width="33%" align="center"><img src="images/pics/desktop-title.png" alt="?" class="pic" /></td> 
 </tr>
 </table>
 
@@ -102,40 +102,40 @@ function googleTranslateElementInit() {
  
 <div id="topLeft">
 
-<div class="indholdoverskriftb">开始</div>
-    <a href="index.php" class="indholdtekst">1. 简介</a><br />
-    <a href="switching.php" class="indholdtekst">2. 改用 GNU/Linux</a><br />
-    <a href="acquisition.php" class="indholdtekst">3. 获取 openSUSE</a><br />
-    <a href="installation.php" class="indholdtekst">4. 安装</a><br />
+<div class="content-title">开始</div>
+    <a href="index.php" class="content-text">1. 简介</a><br />
+    <a href="switching.php" class="content-text">2. 改用 GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. 获取 openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. 安装</a><br />
 
-<div class="indholdoverskrift">日常应用</div>
-    <a href="kde.php" class="indholdtekst">5. KDE 桌面环境</a><br />
-    <a href="apps.php" class="indholdtekst">6. 常用软件</a><br />
-    <a href="security.php" class="indholdtekst">7. 安全设置</a><br />
-    <a href="command.php" class="indholdtekst">8. 终端命令行</a><br />
-    <a href="yast.php" class="indholdtekst">9. 管理员设置 (YaST)</a><br />
-    <a href="installpackage.php" class="indholdtekst">10. 软件安装</a><br />
-    <a href="repositories.php" class="indholdtekst">11. 软件源</a><br />
-    <a href="windows.php" class="indholdtekst">12. 与Windows世界兼容</a><br />
+<div class="content-title">日常应用</div>
+    <a href="kde.php" class="content-text">5. KDE 桌面环境</a><br />
+    <a href="apps.php" class="content-text">6. 常用软件</a><br />
+    <a href="security.php" class="content-text">7. 安全设置</a><br />
+    <a href="command.php" class="content-text">8. 终端命令行</a><br />
+    <a href="yast.php" class="content-text">9. 管理员设置 (YaST)</a><br />
+    <a href="installpackage.php" class="content-text">10. 软件安装</a><br />
+    <a href="repositories.php" class="content-text">11. 软件源</a><br />
+    <a href="windows.php" class="content-text">12. 与Windows世界兼容</a><br />
 
-<div class="indholdoverskrift">设置</div>
-    <a href="codecs.php" class="indholdtekst">13. 多媒体编解码器</a><br />  
-    <a href="browserplugins.php" class="indholdtekst">14. 浏览器插件</a><br />
-    <a href="3d.php" class="indholdtekst">15. 显卡驱动</a><br />
-    <a href="wlan.php" class="indholdtekst">16. 无线网</a><br />
-    <a href="develop.php" class="indholdtekst">17. 开发环境</a><br />
-    <a href="obs.php" class="indholdtekst">18. 软件打包服务OBS</a><br />
-    <a href="srvlamp.php" class="indholdtekst">19. LAMP和LNMP</a><br />
-    <a href="srvother.php" class="indholdtekst">20. 其他常见服务软件</a><br />
+<div class="content-title">设置</div>
+    <a href="codecs.php" class="content-text">13. 多媒体编解码器</a><br />  
+    <a href="browserplugins.php" class="content-text">14. 浏览器插件</a><br />
+    <a href="3d.php" class="content-text">15. 显卡驱动</a><br />
+    <a href="wlan.php" class="content-text">16. 无线网</a><br />
+    <a href="develop.php" class="content-text">17. 开发环境</a><br />
+    <a href="obs.php" class="content-text">18. 软件打包服务OBS</a><br />
+    <a href="srvlamp.php" class="content-text">19. LAMP和LNMP</a><br />
+    <a href="srvother.php" class="content-text">20. 其他常见服务软件</a><br />
 
-<div class="indholdoverskrift">附录</div>
-    <a href="help.php" class="indholdtekst">A: 帮助和文档</a><br />
-    <a href="games.php" class="indholdtekst">B: 游戏</a><br />
-    <a href="under.php" class="indholdtekst">C. 深入了解</a><br />
-    <a href="tweaks.php" class="indholdtekst">D. 提示和解决方法</a><br />
-    <a href="history.php" class="indholdtekst">E. 历史和背景</a><br />
-    <a href="contribute.php" class="indholdtekst">F: 重在参与</a><br />
-    <a href="license.php" class="indholdtekst">GNU自由文档许可证</a>
+<div class="content-title">附录</div>
+    <a href="help.php" class="content-text">A: 帮助和文档</a><br />
+    <a href="games.php" class="content-text">B: 游戏</a><br />
+    <a href="under.php" class="content-text">C. 深入了解</a><br />
+    <a href="tweaks.php" class="content-text">D. 提示和解决方法</a><br />
+    <a href="history.php" class="content-text">E. 历史和背景</a><br />
+    <a href="contribute.php" class="content-text">F: 重在参与</a><br />
+    <a href="license.php" class="content-text">GNU自由文档许可证</a>
 
 <!--
  <hr align="center" width="99%" />
@@ -146,7 +146,7 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 12.1 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 12.1 coming soon:</div><br />
 
 <center><a href="http://en.opensuse.org/Portal:12.1"><img src="http://counter.opensuse.org/12.1/small" border="0" alt="countdown" /></a></center><br />
 -->
@@ -156,7 +156,7 @@ function googleTranslateElementInit() {
  
 
 
-<div class="os1">6. 常用软件</div>
+<div class="heading1">6. 常用软件</div>
 这里将介绍一些日常工作中的常用软件，这些软件都是默认安装的并且质量很好，当然您也可以选择其他您想要的软件。<br /><br />
 
 <div class="tip">
@@ -180,7 +180,7 @@ function googleTranslateElementInit() {
 openSUSE 默认使用Fcitx中文输入法，候选字翻页使用减号 - 和加号 + 按键。
 <br /><br />
 
-<div class="os2">6.1 使用Firefox网上冲浪</div>
+<div class="heading2">6.1 使用Firefox网上冲浪</div>
 Mozilla Firefox 是 openSUSE 下的默认网络浏览器。它是最主流的浏览器之一。
 （如果在开启 Kwin 3D特效后 Firefox 变得很卡，则可在 Firefox 中将 “平滑滚动” 的功能去掉，具体在 选项-高级-普通-浏览 下。）<br />
 <br />
@@ -190,11 +190,11 @@ Mozilla Firefox 是 openSUSE 下的默认网络浏览器。它是最主流的浏
 
 其他可选的：Rekonq, Opera, 
 <a href="http://www.google.com/chrome?platform=linux" target="_blank">
-Chome
+Chrome
 </a>
 , Chromium, Konqueror<br /><br />
 
-<div class="os2">6.2 使用LibreOffice进行日常办公</div>
+<div class="heading2">6.2 使用LibreOffice进行日常办公</div>
 LibreOffice 是一个完整的 Office 办公套装，包括文字处理、表格处理、幻灯片、画图以及其他套件，并与微软的 Office 良好兼容。
 <br />
 <br />
@@ -212,7 +212,7 @@ WPS For Linux
 <br /><br />
 
 
-<div class="os2">6.3 使用Amarok听音乐</div>
+<div class="heading2">6.3 使用Amarok听音乐</div>
 Amarok 是一个功能强大的音乐播放器，并拥有很完善的音乐管理功能。
 不过在能播放音乐之前，<b>需要先安装解码器</b>，这将会在后面的章节中介绍。<br /><br />
 
@@ -236,7 +236,7 @@ osd-lyrics
 </a>
 <br /><br />
 
-<div class="os2">6.4 使用Dragon Player看视频</div>
+<div class="heading2">6.4 使用Dragon Player看视频</div>
 Dragon Player 可以播放电影和DVD等视频。后面章节中会介绍如何安装解码器。
 安装解码器时可以一起安装 MPlayer、SMPlayer和VLC Player。<br /><br />
 
@@ -248,7 +248,7 @@ VLC</a>
 , UMPlayer, mpv<br /><br />
 
 
-<div class="os2">6.5 使用GIMP编辑图片</div>
+<div class="heading2">6.5 使用GIMP编辑图片</div>
 GIMP (GNU Image Manipulation Program，GNU图像处理程序) 是一个非常强大的图片编辑软件。<br /><br />
 
 
@@ -271,7 +271,7 @@ GIMP 可以作为单一窗口工作，简单点击菜单"窗口" (Windows) ，�
 
 
 
-<div class="os2">6.6 使用Kontact管理电子邮件、日历以及订阅Rss</div>
+<div class="heading2">6.6 使用Kontact管理电子邮件、日历以及订阅Rss</div>
 Kontact 是一个完整的 PIM (personal information management，私人管家) 套件，包含电子邮件、日历、Rss新闻订阅、联系人管理(通讯录)等等，非常方便。
 Kontact 的每个组件（KMail, KOrganizer, Akregator 等）也可以作为独立的程序使用。
 <br /><br />
@@ -283,7 +283,7 @@ Kontact 的每个组件（KMail, KOrganizer, Akregator 等）也可以作为独�
 
 <!--
 
-<div class="os2">6.6 使用Kopete聊天</div>
+<div class="heading2">6.6 使用Kopete聊天</div>
 Kopete 是一个多协议的即时聊天软件，支持 Jabber/Google Talk，ICQ，MSN，Yahoo，Facebook 和一些其他协议。<br />
 腾讯做的QQ for Linux毛病多，建议用
 <a href="http://web.qq.com/" target="_blank">
@@ -301,7 +301,7 @@ OpenFetion
 
 
 
-<div class="os2">6.8 使用K3B烧录CD或DVD</div>
+<div class="heading2">6.8 使用K3B烧录CD或DVD</div>
 K3b 是一个功能强大的烧录软件，可以刻录各种CD和DVD。<br /><br />
 
 
@@ -310,7 +310,7 @@ K3b 是一个功能强大的烧录软件，可以刻录各种CD和DVD。<br /><b
 -->
 
 
-<div class="os2">6.7 gcc、make与开发环境</div>
+<div class="heading2">6.7 gcc、make与开发环境</div>
 默认情况下 openSUSE 不会安装gcc和make等开发环境，所以需要编译代码和开发软件的话，
 必须自己安装。使用root权限，C/C++/Qt 开发环境安装执行命令：
 <div class="clroot">zypper install  bison ccache flex gcc gcc-c++ gcc-java   gcc-info  zlib-devel  nasm   boost-devel  gsl-devel  sqlite3-devel  libqt4-devel  libqt4-devel-doc  cmake cmake-gui  autoconf  autogen  automake  automoc4   make   qt-creator   git  mercurial </div><br />
@@ -352,7 +352,7 @@ gtk 要安装 -devel 结尾的开发库。
 <!-- sponsor slut -->
 <!-- <div class="lille" align="center">Send feedback to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;admin&#64;opensuse-guide&#46;org">admin [at] opensuse-guide.org</a></div> -->
 
-<div class="lille" align="center">
+<div class="small" align="center">
 本文档翻译自 <a href="http://opensuse-guide.org/" target="_blank">http://opensuse-guide.org/</a> 不当之处，还望指正<br />
 使用e-mail发送您的英文评论给 admin [at] opensuse-guide.org <br />
 或发送意见和建议给中文译者：Libitum (hello[at]libitum.org);

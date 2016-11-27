@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2016年5月2日</div>
+<div class="content-text">最后更新：2016年11月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -63,7 +63,7 @@
 		<input type="hidden" name="bcd" value="&#247;" />
 		<input type="text" name="query" size="16" />
 		<input type="submit" value="search" />
-		&nbsp;<a href="http://www.freefind.com" class="indholdtekst">by FreeFind</a>
+		&nbsp;<a href="http://www.freefind.com" class="content-text">by FreeFind</a>
 		</form>
 </td>
 </tr>
@@ -90,9 +90,9 @@ function googleTranslateElementInit() {
 
 <table width="99%">
 <tr>
-<td width="67%" align="center"><img src="images/pics/titel.png" alt="titel" />
+<td width="67%" align="center"><img src="images/pics/title.png" alt="title" />
 </td>
-<td width="33%" align="center"><img src="images/pics/desktop-titel.png" alt="?" class="pic" /></td> 
+<td width="33%" align="center"><img src="images/pics/desktop-title.png" alt="?" class="pic" /></td> 
 </tr>
 </table>
 
@@ -102,40 +102,40 @@ function googleTranslateElementInit() {
  
 <div id="topLeft">
 
-<div class="indholdoverskriftb">开始</div>
-    <a href="index.php" class="indholdtekst">1. 简介</a><br />
-    <a href="switching.php" class="indholdtekst">2. 改用 GNU/Linux</a><br />
-    <a href="acquisition.php" class="indholdtekst">3. 获取 openSUSE</a><br />
-    <a href="installation.php" class="indholdtekst">4. 安装</a><br />
+<div class="content-title">开始</div>
+    <a href="index.php" class="content-text">1. 简介</a><br />
+    <a href="switching.php" class="content-text">2. 改用 GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. 获取 openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. 安装</a><br />
 
-<div class="indholdoverskrift">日常应用</div>
-    <a href="kde.php" class="indholdtekst">5. KDE 桌面环境</a><br />
-    <a href="apps.php" class="indholdtekst">6. 常用软件</a><br />
-    <a href="security.php" class="indholdtekst">7. 安全设置</a><br />
-    <a href="command.php" class="indholdtekst">8. 终端命令行</a><br />
-    <a href="yast.php" class="indholdtekst">9. 管理员设置 (YaST)</a><br />
-    <a href="installpackage.php" class="indholdtekst">10. 软件安装</a><br />
-    <a href="repositories.php" class="indholdtekst">11. 软件源</a><br />
-    <a href="windows.php" class="indholdtekst">12. 与Windows世界兼容</a><br />
+<div class="content-title">日常应用</div>
+    <a href="kde.php" class="content-text">5. KDE 桌面环境</a><br />
+    <a href="apps.php" class="content-text">6. 常用软件</a><br />
+    <a href="security.php" class="content-text">7. 安全设置</a><br />
+    <a href="command.php" class="content-text">8. 终端命令行</a><br />
+    <a href="yast.php" class="content-text">9. 管理员设置 (YaST)</a><br />
+    <a href="installpackage.php" class="content-text">10. 软件安装</a><br />
+    <a href="repositories.php" class="content-text">11. 软件源</a><br />
+    <a href="windows.php" class="content-text">12. 与Windows世界兼容</a><br />
 
-<div class="indholdoverskrift">设置</div>
-    <a href="codecs.php" class="indholdtekst">13. 多媒体编解码器</a><br />  
-    <a href="browserplugins.php" class="indholdtekst">14. 浏览器插件</a><br />
-    <a href="3d.php" class="indholdtekst">15. 显卡驱动</a><br />
-    <a href="wlan.php" class="indholdtekst">16. 无线网</a><br />
-    <a href="develop.php" class="indholdtekst">17. 开发环境</a><br />
-    <a href="obs.php" class="indholdtekst">18. 软件打包服务OBS</a><br />
-    <a href="srvlamp.php" class="indholdtekst">19. LAMP和LNMP</a><br />
-    <a href="srvother.php" class="indholdtekst">20. 其他常见服务软件</a><br />
+<div class="content-title">设置</div>
+    <a href="codecs.php" class="content-text">13. 多媒体编解码器</a><br />  
+    <a href="browserplugins.php" class="content-text">14. 浏览器插件</a><br />
+    <a href="3d.php" class="content-text">15. 显卡驱动</a><br />
+    <a href="wlan.php" class="content-text">16. 无线网</a><br />
+    <a href="develop.php" class="content-text">17. 开发环境</a><br />
+    <a href="obs.php" class="content-text">18. 软件打包服务OBS</a><br />
+    <a href="srvlamp.php" class="content-text">19. LAMP和LNMP</a><br />
+    <a href="srvother.php" class="content-text">20. 其他常见服务软件</a><br />
 
-<div class="indholdoverskrift">附录</div>
-    <a href="help.php" class="indholdtekst">A: 帮助和文档</a><br />
-    <a href="games.php" class="indholdtekst">B: 游戏</a><br />
-    <a href="under.php" class="indholdtekst">C. 深入了解</a><br />
-    <a href="tweaks.php" class="indholdtekst">D. 提示和解决方法</a><br />
-    <a href="history.php" class="indholdtekst">E. 历史和背景</a><br />
-    <a href="contribute.php" class="indholdtekst">F: 重在参与</a><br />
-    <a href="license.php" class="indholdtekst">GNU自由文档许可证</a>
+<div class="content-title">附录</div>
+    <a href="help.php" class="content-text">A: 帮助和文档</a><br />
+    <a href="games.php" class="content-text">B: 游戏</a><br />
+    <a href="under.php" class="content-text">C. 深入了解</a><br />
+    <a href="tweaks.php" class="content-text">D. 提示和解决方法</a><br />
+    <a href="history.php" class="content-text">E. 历史和背景</a><br />
+    <a href="contribute.php" class="content-text">F: 重在参与</a><br />
+    <a href="license.php" class="content-text">GNU自由文档许可证</a>
 
 <!--
  <hr align="center" width="99%" />
@@ -146,7 +146,7 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 12.1 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 12.1 coming soon:</div><br />
 
 <center><a href="http://en.opensuse.org/Portal:12.1"><img src="http://counter.opensuse.org/12.1/small" border="0" alt="countdown" /></a></center><br />
 -->
@@ -156,13 +156,13 @@ function googleTranslateElementInit() {
  
 
 
-<div class="os1">5. KDE 桌面环境</div>
+<div class="heading1">5. KDE 桌面环境</div>
 
 头次启动 openSUSE 后，第一个接触到的便是 KDE 桌面环境（Plasma桌面）。所谓的桌面环境，包括桌面本身、菜单、面板、文件管理、窗口管理以及一些其他的应用程序。
 <br /><br />
 
 
-<div class="os2">5.1 桌面</div>
+<div class="heading2">5.1 桌面</div>
 KDE 的桌面与您所熟悉的其他桌面如 Windows 桌面还是有点儿相似的，底部是一个类似任务栏的面板，左侧则有一个类似于开始菜单的东西。<br /><br />
 
 然而有三个地方和 Windows 的桌面是明显不一样的，一定要注意：
@@ -178,7 +178,7 @@ KDE 的桌面与您所熟悉的其他桌面如 Windows 桌面还是有点儿相�
 <center><a href="images/screenshots/desktop.png" rel="thumbnail"><img src="images/screenshots/desktopb.png" alt="desktop" class="pic" /></a></center><br />
 
 
-<div class="os3">5.1.1 开始菜单</div>
+<div class="heading3">5.1.1 开始菜单</div>
 单击屏幕左下角的 K 字母图标可以显示开始菜单（快捷键是 Alt+F1 ），
 在开始菜单底部是搜索框，可以搜索应用程序名称，
 开始菜单左边有竖排的一列小图标是您喜好的应用程序（侧边栏），可以右击开始菜单里面的应用程序条目，
@@ -191,25 +191,25 @@ KDE 的桌面与您所熟悉的其他桌面如 Windows 桌面还是有点儿相�
 
 
 您可以自由的编辑菜单，添加和删除应用程序的“快捷方式”： 
-<div class="sti">右键单击菜单图标 =&gt; 菜单编辑器</div><br />
+<div class="path">右键单击菜单图标 =&gt; 菜单编辑器</div><br />
 
 如果需要将一个快捷方式添加到桌面或者其他面板中，可以这样做（需要小部件在解锁状态）： 
-<div class="sti">在菜单中找到程序 => 右击该条目 => 单击 "添加到面板" 或者 "添加到桌面"</div><br />
+<div class="path">在菜单中找到程序 => 右击该条目 => 单击 "添加到面板" 或者 "添加到桌面"</div><br />
 
 
-<div class="os3">5.1.2 小部件</div>
+<div class="heading3">5.1.2 小部件</div>
 KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 在桌面和面板中是可以放置小部件的容器。桌面上的“开始”菜单、系统托盘、以及 folderview （文件夹视图）本质上都是小部件。
 当然还有很多很多的小部件可以尝试下，有些很好玩的。
 <br /><br />
 
 要对小部件进行添加删除或者设置，则需要先解锁部件： 
-<div class="sti">在桌面空白处右键单击 => 选择 "Lock Widgets"（锁定部件）
+<div class="path">在桌面空白处右键单击 => 选择 "Lock Widgets"（锁定部件）
 或者 "Unlock Widgets"（解锁部件）.</div><br />
 当您不配置桌面时，将小部件锁定起来是很有用的。这样您鼠标停在小部件上时就不会弹出东西，您就不用担心意外移动或删除小部件了。
 <br/><br />
 添加小部件：
-<div class="sti">在右键空白处点击 => Add widgets（添加部件）</div><br />
+<div class="path">在右键空白处点击 => Add widgets（添加部件）</div><br />
 
 
 <center><a href="images/screenshots/widgets.png" rel="thumbnail"><img src="images/screenshots/widgetsb.png" alt="widgets" class="pic" /></a></center><br />
@@ -224,7 +224,7 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 <br /><br />
 
 
-<div class="os3">5.1.3 虚拟桌面</div>
+<div class="heading3">5.1.3 虚拟桌面</div>
 为避免桌面上开启过多的应用程序窗口导致的措手不及，可以使用虚拟桌面以提高您的工作效率。在底部面板上您能看到一个小小的栅格（2个格子代表2个桌面），这便是虚拟桌面选择器，通过它可以切换虚拟桌面。
 <br /><br />
 
@@ -237,7 +237,7 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 <br /><br />
 
 <!--
-<div class="os3">5.1.4 活动桌面</div>
+<div class="heading3">5.1.4 活动桌面</div>
 靠近虚拟桌面栅格的左边是带三个小圈的立方体，单机它会打开活动桌面管理器。
 活动桌面是不同的可定制桌面，可以配置为带有不同小部件、不同壁纸和自动启动的特定应用程序的定制的任务/活动。
 <br /><br />
@@ -253,7 +253,7 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 
 -->
 
-<div class="os2">5.2 文件管理器</div>
+<div class="heading2">5.2 文件管理器</div>
 
 默认的文件管理器是 Dolphin，
 您可以在开始菜单左边的侧边栏（默认从上面数第四个图标）或者开始菜单下面的“系统”分类菜单里面找到它，它的图标很直观，就是文件夹的图样。
@@ -264,7 +264,7 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 <center><a href="images/screenshots/dolphin.png" rel="thumbnail"><img src="images/screenshots/dolphinb.png" alt="dolphin" class="pic" /></a></center><br />
 
 
-<div class="os2">5.3 KDE 系统设置(个性化桌面设置)
+<div class="heading2">5.3 KDE 系统设置(个性化桌面设置)
 </div>
 
 KDE 桌面环境的全局设置都搜集在一起了。
@@ -291,7 +291,7 @@ KDE 桌面环境的全局设置都搜集在一起了。
 </div><br />
 
 
-<div class="os2">5.4 系统活动/任务列表</div>
+<div class="heading2">5.4 系统活动/任务列表</div>
 
  KDE 当然也有用来监视运行的进程和系统资源的使用情况的工具。简单按下 <i>Ctrl+Esc</i> 
  就能启动系统活动工具窗口（任务管理器）。
@@ -305,7 +305,7 @@ KDE 桌面环境的全局设置都搜集在一起了。
 
 
 
-<div class="os2">5.5 桌面效果</div>
+<div class="heading2">5.5 桌面效果</div>
 
 KDE 窗口管理器原生内置了对 3D 桌面效果的支持而不用借助于第三方程序。
 如果硬件支持并且装好合适的驱动程序，便可以体验到很多绚丽的桌面效果。可以使用 Ctrl+F8 开启或者 Ctrl+F9体验一把。
@@ -313,7 +313,7 @@ KDE 窗口管理器原生内置了对 3D 桌面效果的支持而不用借助于
 <br /><br />
 
 要取消或者启动其他更多的效果，可以这样操作：（就是5.4节系统设置的其中一项）
-<div class="sti">Configure Desktop（桌面设置，就是系统设置） => Desktop Effects（桌面效果）</div><br />
+<div class="path">Configure Desktop（桌面设置，就是系统设置） => Desktop Effects（桌面效果）</div><br />
 
 <center><a href="images/screenshots/effects.png" rel="thumbnail"><img src="images/screenshots/effectsb.png" alt="effects" class="pic" /></a></center><br />
 
@@ -321,13 +321,13 @@ KDE 窗口管理器原生内置了对 3D 桌面效果的支持而不用借助于
 <br /><br />
 
 <!--
-<div class="os2">5.6 KDE Plasma上网本桌面 </div>
+<div class="heading2">5.6 KDE Plasma上网本桌面 </div>
 
 KDE 为低分辨率显示器和上网本单独提供了一个可选的“上网本”桌面。
 <br /><br />
 
 在普通桌面与上网本桌面之间切换，可这样操作：（也是5.3节系统设置的其中一项）
-<div class="sti">Configure Desktop（桌面设置，就是系统设置） => Workspace Behaviour （工作空间行为）=> Workspace（工作空间）</div><br />
+<div class="path">Configure Desktop（桌面设置，就是系统设置） => Workspace Behaviour （工作空间行为）=> Workspace（工作空间）</div><br />
 
 <center><a href="images/screenshots/netbook.png" rel="thumbnail"><img src="images/screenshots/netbookb.png" alt="systemsettings" class="pic" /></a></center><br />
 
@@ -378,7 +378,7 @@ KDE 为低分辨率显示器和上网本单独提供了一个可选的“上网�
 <!-- sponsor slut -->
 <!-- <div class="lille" align="center">Send feedback to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;admin&#64;opensuse-guide&#46;org">admin [at] opensuse-guide.org</a></div> -->
 
-<div class="lille" align="center">
+<div class="small" align="center">
 本文档翻译自 <a href="http://opensuse-guide.org/" target="_blank">http://opensuse-guide.org/</a> 不当之处，还望指正<br />
 使用e-mail发送您的英文评论给 admin [at] opensuse-guide.org <br />
 或发送意见和建议给中文译者：Libitum (hello[at]libitum.org);

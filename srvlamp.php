@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="indholdtekst">最后更新：2014年11月8日</div>
+<div class="content-text">最后更新：2016年11月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -63,7 +63,7 @@
 		<input type="hidden" name="bcd" value="&#247;" />
 		<input type="text" name="query" size="16" />
 		<input type="submit" value="search" />
-		&nbsp;<a href="http://www.freefind.com" class="indholdtekst">by FreeFind</a>
+		&nbsp;<a href="http://www.freefind.com" class="content-text">by FreeFind</a>
 		</form>
 </td>
 </tr>
@@ -90,9 +90,9 @@ function googleTranslateElementInit() {
 
 <table width="99%">
 <tr>
-<td width="67%" align="center"><img src="images/pics/titel.png" alt="titel" />
+<td width="67%" align="center"><img src="images/pics/title.png" alt="title" />
 </td>
-<td width="33%" align="center"><img src="images/pics/desktop-titel.png" alt="?" class="pic" /></td> 
+<td width="33%" align="center"><img src="images/pics/desktop-title.png" alt="?" class="pic" /></td> 
 </tr>
 </table>
 
@@ -102,40 +102,40 @@ function googleTranslateElementInit() {
  
 <div id="topLeft">
 
-<div class="indholdoverskriftb">开始</div>
-    <a href="index.php" class="indholdtekst">1. 简介</a><br />
-    <a href="switching.php" class="indholdtekst">2. 改用 GNU/Linux</a><br />
-    <a href="acquisition.php" class="indholdtekst">3. 获取 openSUSE</a><br />
-    <a href="installation.php" class="indholdtekst">4. 安装</a><br />
+<div class="content-title">开始</div>
+    <a href="index.php" class="content-text">1. 简介</a><br />
+    <a href="switching.php" class="content-text">2. 改用 GNU/Linux</a><br />
+    <a href="acquisition.php" class="content-text">3. 获取 openSUSE</a><br />
+    <a href="installation.php" class="content-text">4. 安装</a><br />
 
-<div class="indholdoverskrift">日常应用</div>
-    <a href="kde.php" class="indholdtekst">5. KDE 桌面环境</a><br />
-    <a href="apps.php" class="indholdtekst">6. 常用软件</a><br />
-    <a href="security.php" class="indholdtekst">7. 安全设置</a><br />
-    <a href="command.php" class="indholdtekst">8. 终端命令行</a><br />
-    <a href="yast.php" class="indholdtekst">9. 管理员设置 (YaST)</a><br />
-    <a href="installpackage.php" class="indholdtekst">10. 软件安装</a><br />
-    <a href="repositories.php" class="indholdtekst">11. 软件源</a><br />
-    <a href="windows.php" class="indholdtekst">12. 与Windows世界兼容</a><br />
+<div class="content-title">日常应用</div>
+    <a href="kde.php" class="content-text">5. KDE 桌面环境</a><br />
+    <a href="apps.php" class="content-text">6. 常用软件</a><br />
+    <a href="security.php" class="content-text">7. 安全设置</a><br />
+    <a href="command.php" class="content-text">8. 终端命令行</a><br />
+    <a href="yast.php" class="content-text">9. 管理员设置 (YaST)</a><br />
+    <a href="installpackage.php" class="content-text">10. 软件安装</a><br />
+    <a href="repositories.php" class="content-text">11. 软件源</a><br />
+    <a href="windows.php" class="content-text">12. 与Windows世界兼容</a><br />
 
-<div class="indholdoverskrift">设置</div>
-    <a href="codecs.php" class="indholdtekst">13. 多媒体编解码器</a><br />  
-    <a href="browserplugins.php" class="indholdtekst">14. 浏览器插件</a><br />
-    <a href="3d.php" class="indholdtekst">15. 显卡驱动</a><br />
-    <a href="wlan.php" class="indholdtekst">16. 无线网</a><br />
-    <a href="develop.php" class="indholdtekst">17. 开发环境</a><br />
-    <a href="obs.php" class="indholdtekst">18. 软件打包服务OBS</a><br />
-    <a href="srvlamp.php" class="indholdtekst">19. LAMP和LNMP</a><br />
-    <a href="srvother.php" class="indholdtekst">20. 其他常见服务软件</a><br />
+<div class="content-title">设置</div>
+    <a href="codecs.php" class="content-text">13. 多媒体编解码器</a><br />  
+    <a href="browserplugins.php" class="content-text">14. 浏览器插件</a><br />
+    <a href="3d.php" class="content-text">15. 显卡驱动</a><br />
+    <a href="wlan.php" class="content-text">16. 无线网</a><br />
+    <a href="develop.php" class="content-text">17. 开发环境</a><br />
+    <a href="obs.php" class="content-text">18. 软件打包服务OBS</a><br />
+    <a href="srvlamp.php" class="content-text">19. LAMP和LNMP</a><br />
+    <a href="srvother.php" class="content-text">20. 其他常见服务软件</a><br />
 
-<div class="indholdoverskrift">附录</div>
-    <a href="help.php" class="indholdtekst">A: 帮助和文档</a><br />
-    <a href="games.php" class="indholdtekst">B: 游戏</a><br />
-    <a href="under.php" class="indholdtekst">C. 深入了解</a><br />
-    <a href="tweaks.php" class="indholdtekst">D. 提示和解决方法</a><br />
-    <a href="history.php" class="indholdtekst">E. 历史和背景</a><br />
-    <a href="contribute.php" class="indholdtekst">F: 重在参与</a><br />
-    <a href="license.php" class="indholdtekst">GNU自由文档许可证</a>
+<div class="content-title">附录</div>
+    <a href="help.php" class="content-text">A: 帮助和文档</a><br />
+    <a href="games.php" class="content-text">B: 游戏</a><br />
+    <a href="under.php" class="content-text">C. 深入了解</a><br />
+    <a href="tweaks.php" class="content-text">D. 提示和解决方法</a><br />
+    <a href="history.php" class="content-text">E. 历史和背景</a><br />
+    <a href="contribute.php" class="content-text">F: 重在参与</a><br />
+    <a href="license.php" class="content-text">GNU自由文档许可证</a>
 
 <!--
  <hr align="center" width="99%" />
@@ -146,7 +146,7 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="indholdoverskrift">openSUSE 12.3 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 12.3 coming soon:</div><br />
 
 <center><a href="http://en.opensuse.org/Portal:12.3"><img src="http://counter.opensuse.org/12.3/small" border="0" alt="countdown" /></a></center><br />
 -->
@@ -156,7 +156,7 @@ function googleTranslateElementInit() {
  
 
 
-<div class="os1">19. LAMP和LNMP服务器部署</div>
+<div class="heading1">19. LAMP和LNMP服务器部署</div>
 本章简单介绍一些常见服务器软件的安装和配置，
 如LAMP(Linux+Apache+MariaDB+Php)套件安装和phpwind论坛搭建，
 nginx也很流行，所以也弄了一个LNMP(Linux+Nginx+MariaDB+Php)套件和Discuz!论坛，MySQL/MariaDB的Web管理界面 phpMyAdmin 见19.3.3小节。
@@ -165,7 +165,7 @@ nginx也很流行，所以也弄了一个LNMP(Linux+Nginx+MariaDB+Php)套件和D
 <br /><br />
 
 
-<div class="os2">19.1 MySQL/MariaDB</div>
+<div class="heading2">19.1 MySQL/MariaDB</div>
 MySQL是流行的跨平台的数据库管理系统，经常和Php、Apache/nginx组成网页服务平台。
 MySQL公司先被Sun收购，Sun又被Oracle收购，给开源社区带来的打击不小。
 因为Oracle自己是做数据库起家，不可能对这个开源竞争对手有好处，
@@ -256,7 +256,7 @@ mysql   -u  susedb   -p   -h  数据库服务器IP
 Windows下MySQL客户端也可以使用用户名、密码、数据库服务器IP登录openSUSE上的数据库服务器进行操作。
 <br /><br />
 
-<div class="os2">19.2 PHP</div>
+<div class="heading2">19.2 PHP</div>
 PHP，是英文超文本预处理语言Hypertext Preprocessor的缩写。
 简单地说，php就是用来建设网站必不可少的计算机语言。
 我们平时在上网时看到的网站大部站是用php制作的。
@@ -293,7 +293,7 @@ php  -f  hello.php
 <br /><br />
 
 
-<div class="os2">19.3 Apache与LAMP</div>
+<div class="heading2">19.3 Apache与LAMP</div>
 Apache是最流行的Web服务器软件之一，当然也是开源跨平台的。Apache发展了很多年，现在非常强大，拥有大量的扩展模块，支持各种Web服务特性，可以做服务器集群、负载均衡。<br /><br />
 LAMP是一个流行的Web建站平台：Linux+Apache+MySQL/MariaDB+Php/Python/Perl 。<br />
 LNMP也是类似的流行Web建站平台： Linux+Nginx+MySQL/MariaDB+Php/Python/Perl。<br /><br />
@@ -302,7 +302,7 @@ LNMP也是类似的流行Web建站平台： Linux+Nginx+MySQL/MariaDB+Php/Python
 这里先简单示范一个LAMP + phpWind论坛搭建。
 <br /><br />
 
-<div class="os3">19.3.1 Apache安装配置</div>
+<div class="heading3">19.3.1 Apache安装配置</div>
 现在openSUSE Linux、MariaDB、Php都装上了，就剩Apache了。<br /><br />
 （1）执行安装<br />
 <div class="clroot">
@@ -349,7 +349,7 @@ http://127.0.0.1/hello.php </a><br />
 就可以在浏览器里看到Hello world，说明安装成功。
 
 <br /><br />
-<div class="os3">19.3.2 phpwind论坛</div>
+<div class="heading3">19.3.2 phpwind论坛</div>
 LAMP平台当然不是仅仅用来显示helloworld的。现在来装一个phpwind论坛来试试。phpwind是很流行的社区系统，可以去主页查看介绍：<br />
 <a href="http://www.phpwind.com/index.php" target="_blank">
 http://www.phpwind.com/index.php 
@@ -431,7 +431,7 @@ chmod  777  -R  /srv/www/htdocs/data
 
 <br /><br />
 
-<div class="os3">19.3.3 phpMyAdmin</div>
+<div class="heading3">19.3.3 phpMyAdmin</div>
 phpMyAdmin是MySQL/MariaDB数据库的管理界面，可以通过Web界面操作数据库。
 由于是php语言写的，所以需要LAMP或LNMP一整套平台才跑的起来。
 现在LAMP已经装好了，正好把phpMyAdmin装上，方便对数据库的管理。<br />
@@ -448,7 +448,7 @@ http://127.0.0.1/phpMyAdmin/
 
 <br /><br />
 
-<div class="os2">19.4 Nginx与LNMP</div>
+<div class="heading2">19.4 Nginx与LNMP</div>
 与Apache相比，Nginx是后起之秀。Apache模块很多，属于大而全的服务器软件。
 而Nginx以小巧高效闻名，由俄罗斯的程序设计师Igor Sysoev所开发，其特点是占有内存少，并发能力强，事实上nginx的并发能力确实在同类型的网页服务器中表现较好。中国大陆使用nginx网站用户有：新浪、网易、 腾讯、小米官网等。<br /><br />
 使用Apache的体系叫LAMP，使用Nginx的当然叫LNMP了。Apache大而全的好处是有现成的 apache2-mod_php5模块，装上就什么都不用管。
@@ -462,7 +462,7 @@ Apache和Nginx装一个就够了，因为HTTP服务默认都占用80端口，装
 这一节的内容是接着19.2节，php装好之后，安装配置LNMP平台。
 <br /><br />
 
-<div class="os3">19.4.1 Nginx安装</div>
+<div class="heading3">19.4.1 Nginx安装</div>
 （1）Nginx没什么附加模块，直接装它本身就行了：
 （好像在13.2中把nginx移到不稳定源里了，如果官方源里没有，去 
 <a href="http://software.opensuse.org/package/nginx"  target="_blank">
@@ -493,7 +493,7 @@ http://127.0.0.1/hello.php </a><br />
 
 <br /><br />
 
-<div class="os3">19.4.2 php-fpm安装配置</div>
+<div class="heading3">19.4.2 php-fpm安装配置</div>
 软件包php5-fpm是用于FastCGI进程管理的PHP5模块。<br />
 LNMP平台大致的工作流程是：安装php5-fpm后，通过php-fpm启用FastCGI进程，
 然后配置nginx，让nginx把php文件解析交给FastCGI进程处理，
@@ -596,7 +596,7 @@ http://127.0.0.1/hello.php </a><br />
 就可以看到久违的Hello wolrd。这样LNMP平台就配置好了。
 <br /><br />
 
-<div class="os3">19.4.3 Discuz!论坛</div>
+<div class="heading3">19.4.3 Discuz!论坛</div>
 这里提到的Discuz!和上一节的phpwnd、phpMyAdmin在LAMP和LNMP都可以正常运行。配置好了LAMP或LNMP平台后，可以随意装哪个论坛软件和phpMyAdmin。这里是演示方便，把Discuz!放到这来装，如果放到前面LAMP装是一样的。论坛phpwnd放到LNMP下也是一样装。<br /><br />
 
 根据维基百科，Discuz!是个可免费下载的PHP网络论坛程序，简称DZ，由戴志康（Crossday）所创立，目前最新版本是X2.5。前身为Crossday Bulletin（CDB），最初改自XMB，尔后改写成为现今的Discuz!社区论坛程序，由康盛创想所有。现在Discuz!已成为大中华地区最多用户使用的论坛程序。Discuz!的源代码可免费下载，但它并不是开源软件，因为其许可证不符合开放源代码的定义。其官方网站：<br />
@@ -724,7 +724,7 @@ SDB:搭建LAMP服务器
 <!-- sponsor slut -->
 <!-- <div class="lille" align="center">Send feedback to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;admin&#64;opensuse-guide&#46;org">admin [at] opensuse-guide.org</a></div> -->
 
-<div class="lille" align="center">
+<div class="small" align="center">
 本文档翻译自 <a href="http://opensuse-guide.org/" target="_blank">http://opensuse-guide.org/</a> 不当之处，还望指正<br />
 使用e-mail发送您的英文评论给 admin [at] opensuse-guide.org <br />
 或发送意见和建议给中文译者：Libitum (hello[at]libitum.org);
