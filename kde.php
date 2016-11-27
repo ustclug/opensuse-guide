@@ -168,7 +168,9 @@ KDE 的桌面与您所熟悉的其他桌面如 Windows 桌面还是有点儿相�
 然而有三个地方和 Windows 的桌面是明显不一样的，一定要注意：
 <ul>
 <li>KDE 下打开项目或者文件默认是 <b>单击</b>。当然也可以调整为双击。</li>
+<!--
 <li>~/Desktop/ 文件夹下的内容并不是自由的散落在桌面上的，而是放在一个叫做 Folder View (文件夹视图)的桌面小部件里。</li>
+-->
 <li>默认地，您关机时仍在运行的程序，下次开机启动时会自动打开这些程序。 </i>
 </ul>
 
@@ -209,7 +211,7 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 当您不配置桌面时，将小部件锁定起来是很有用的。这样您鼠标停在小部件上时就不会弹出东西，您就不用担心意外移动或删除小部件了。
 <br/><br />
 添加小部件：
-<div class="path">在右键空白处点击 => Add widgets（添加部件）</div><br />
+<div class="path">在右键空白处点击 => Add widgets（添加部件） => 拖拽部件到桌面或面板 </div><br />
 
 
 <center><a href="images/screenshots/widgets.png" rel="thumbnail"><img src="images/screenshots/widgetsb.png" alt="widgets" class="pic" /></a></center><br />
@@ -258,8 +260,11 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 默认的文件管理器是 Dolphin，
 您可以在开始菜单左边的侧边栏（默认从上面数第四个图标）或者开始菜单下面的“系统”分类菜单里面找到它，它的图标很直观，就是文件夹的图样。
 如果您插入优盘或者其他移动储存设备的话，会自动出现在 Dolphin 的左侧面板上。
-<br /><br />
+<br />
+<div class="path">开始菜单 => 系统 => Dolphin 文件管理器</div><br />
 
+您也可以在开始菜单左边的侧边栏（即收藏栏）找到文件浏览器的快捷图标，就是文件夹图标的那个。
+<br /><br /> 
 
 <center><a href="images/screenshots/dolphin.png" rel="thumbnail"><img src="images/screenshots/dolphinb.png" alt="dolphin" class="pic" /></a></center><br />
 
@@ -270,9 +275,12 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 KDE 桌面环境的全局设置都搜集在一起了。
 这里您可以设置鼠标动作、默认应用程序以及文件关联、网络设置、显示器设置、
 桌面背景、主题外观、桌面3D特效、电源设置（待机时间、屏幕亮度等）
-等等，几乎KDE桌面所有的东西都在这设置。您也可以在开始菜单左边的侧边栏找到 KDE 系统设置的图标，默认是从上面数第三个图标。
-<br /><br /> 
+等等，几乎KDE桌面所有的东西都在这设置。
+<br />
+<div class="path">开始菜单 => 设置 => 系统设置</div><br />
 
+您也可以在开始菜单左边的侧边栏（即收藏栏）找到系统设置的快捷图标，是黑色图标，图标中间有两道横杠。
+<br /><br /> 
 
 <center><a href="images/screenshots/systemsettings.png" rel="thumbnail"><img src="images/screenshots/systemsettingsb.png" alt="systemsettings" class="pic" /></a></center><br />
 
@@ -308,7 +316,7 @@ KDE 桌面环境的全局设置都搜集在一起了。
 <div class="heading2">5.5 桌面效果</div>
 
 KDE 窗口管理器原生内置了对 3D 桌面效果的支持而不用借助于第三方程序。
-如果硬件支持并且装好合适的驱动程序，便可以体验到很多绚丽的桌面效果。可以使用 Ctrl+F8 开启或者 Ctrl+F9体验一把。
+如果硬件支持并且装好合适的驱动程序，便可以体验到很多绚丽的桌面效果。可以使用 Ctrl+F8 开启或者 Ctrl+F9 体验一把。
 
 <br /><br />
 

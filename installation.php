@@ -496,7 +496,7 @@ openSUSE官方有教程：<br />
 <a href="http://en.opensuse.org/Upgrade" target="_blank">
 <b>http://en.opensuse.org/Upgrade</b>
 </a> <br />
-从旧的系统升级到新的，看文中第4节：Running the Upgrade。<br />
+从旧的系统升级到新的，看文中第5节：Running the Upgrade。<br />
 升级时，如果加入了Nvidia或Ati的显卡驱动源，以及Packman源，
 要特别小心，源的地址一定要正确，所选的镜像站也要靠谱，否则可能导致升级失败。<br /><br />
 加入第三方源，尤其是不靠谱的第三方源，可能导致升级失败。如果升级失败，

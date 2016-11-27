@@ -213,7 +213,7 @@ http://en.opensuse.org/SDB:NVIDIA_drivers
 <br /><br />
 
 首先添加如下软件源：
-<div class="clroot">zypper addrepo -f http://download.nvidia.com/opensuse/leap/42.1 nvidia</div><br />
+<div class="clroot">zypper addrepo -f http://download.nvidia.com/opensuse/leap/42.2 nvidia</div><br />
 
 然后执行如下智能安装命令：
 <div class="clroot">zypper install-new-recommends</div><br />
@@ -251,8 +251,21 @@ https://zh.opensuse.org/SDB:Bumblebee
 
 
 <div class="heading2">15.2 ATI(AMD)</div>
+操作系统自带的开源驱动能够很好地支持 AMD 显卡硬件，不需要安装闭源专有驱动。
+AMD 官方虽然有闭源专有驱动，但是已经停止开发了，不再受支持。目前 AMD 官方与开源社区协作，提升开源显卡驱动的性能，所以不需要闭源专有驱动了。
+详情请见：<br/>
 
+<a href="https://lizards.opensuse.org/2016/10/15/proprietary-amdati-catalyst-fglrx-15-12-rpms-released-for-leap-42-2/" target="_blank">https://lizards.opensuse.org/2016/10/15/proprietary-amdati-catalyst-fglrx-15-12-rpms-released-for-leap-42-2/</a>
 
+<br /><br />
+
+openSUSE官方的ATI(AMD)显卡详细安装指南：<br />
+<a href="http://en.opensuse.org/SDB:ATI_drivers" target="_blank">
+http://en.opensuse.org/SDB:ATI_drivers
+</a>
+<br /><br />
+
+<!--
 点击下面按钮，一键安装 ATI(AMD) 专有显卡驱动，适用于Radeon HD 5000系列和之后的显卡。（老版本显卡的驱动 ATI/AMD 没提供，只能使用系统默认的开源驱动，而且 openSUSE 自带的开源驱动性能比旧的AMD官方驱动性能好。）
 <br /><br />
 对于HD5000系列及之后的A卡：
@@ -270,7 +283,7 @@ http://en.opensuse.org/SDB:ATI_drivers
 </a>
 <br /><br />
 
-<!--
+
 
 <div class="heading3">15.2.1 终端命令行安装 ATI 驱动</div>
 

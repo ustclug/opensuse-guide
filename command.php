@@ -166,7 +166,7 @@ function googleTranslateElementInit() {
 <br /><br />
 
 
-可以在 Kickoff 开始菜单里的Favorites（收藏夹）栏目里找到
+可以在 开始菜单 => 系统 里面找到
 <a href="video/konsole.ogv" target="_blank"> <i>Konsole</i>终端</a>。
 <br /><br />
 
@@ -376,7 +376,8 @@ hwinfo命令几乎可以查看所有硬件的信息，示例：
 按 <i>i</i> 键进入 insert 模式，现在就可以编辑文件了。 完成编辑后按 <i>Esc</i> 键离开 insert 模式。然后输入 <i>:x</i> 保存并退出。若要退出而不保存任何更改，使用 <i>:q!</i> 
  <br /><br />
 
-
+您也可以安装其他更简单的命令行文本编辑器，比如 nano 编辑器。
+ <br /><br />
 <div class="heading2">8.4 更多的读物</div>
 
 如果您想学更多的关于使用终端命令行的知识，互联网上有很多可用资源，

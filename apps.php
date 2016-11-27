@@ -220,18 +220,16 @@ Amarok 是一个功能强大的音乐播放器，并拥有很完善的音乐管�
 <center><a href="images/screenshots/amarok.png" rel="thumbnail"><img src="images/screenshots/amarokb.png" alt="amarok" class="pic" /></a></center><br />
 
 其他可选的：Clementine, JuK, Qmmp和Audacious，Tomahawk，
-<a href="http://code.google.com/p/iceplayer/" target="_blank">
-iceplayer（国人精品）
+<a href="https://sourceforge.net/projects/iceplayer/" target="_blank">
+iceplayer
 </a>
 。<br />
 中文歌词显示和自动下载歌词及桌面歌词秀推荐使用：<br />
-<a href="http://www.sanfanling.cn/" target="_blank">
-三翻领
-</a>的
+三翻领的
 <a href="http://kde-apps.org/content/show.php/lrcShow-X?content=103055>" target="_blank">lrcShow-X
 </a>或者<br />
-tigersoldi和xinzhi.org、simplyzhao做的
-<a href="http://code.google.com/p/osd-lyrics/" target="_blank">
+tigersoldier和xinzhi.org、simplyzhao做的
+<a href="https://github.com/tigersoldier/osd-lyrics" target="_blank">
 osd-lyrics
 </a>
 <br /><br />

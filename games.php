@@ -171,7 +171,7 @@ function googleTranslateElementInit() {
   <a href="repositories.php">软件源</a> 章节所述。<br /><br />
 
 或者使用命令行添加游戏源：
-<div class="clroot">zypper addrepo -f http://download.opensuse.org/repositories/games/openSUSE_Leap_42.1/ games</div><br />
+<div class="clroot">zypper addrepo -f http://download.opensuse.org/repositories/games/openSUSE_Leap_42.2/ games</div><br />
 
 <div class="heading3">B.1.2 Steam 游戏平台和商店</div>
 Steam游戏平台已经发布Linux版本，并已经在Linux启用如
@@ -201,7 +201,6 @@ GNU/Linux中，请看：<br />
 还有很多很多的免费或非免费游戏——一些小而简单，其他的一些很大，还有许多很好的。可从这些网站寻找一些：
 <br />
 
-<a href="http://happypenguin.org/" target="_blank">http://happypenguin.org/</a><br />
 <a href="http://www.tuxgames.com/" target="_blank">http://www.tuxgames.com/</a><br />
 <a href="http://www.penguspy.com/" target="_blank">http://www.penguspy.com/</a><br />
 <a href="http://www.lgdb.org/" target="_blank">http://www.lgdb.org/</a><br />

@@ -146,9 +146,9 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="content-title">openSUSE 42.1 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 42.2 coming soon:</div><br />
 
-<center><a href="http://en.opensuse.org/Portal:42.1"><img src="http://counter.opensuse.org/42.1/small" border="0" alt="countdown" /></a></center><br />
+<center><a href="http://en.opensuse.org/Portal:42.2"><img src="http://counter.opensuse.org/42.2/small" border="0" alt="countdown" /></a></center><br />
 -->
 
 </div>
@@ -182,7 +182,7 @@ DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 http://pan.baidu.com/ </a> <br />
 
 点击 "离线下载" ，选择 "新建链接任务" ，下载64位系统，复制如下链接下载：<br />
-http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso
+http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.2/iso/openSUSE-Leap-42.2-DVD-x86_64.iso
 <br />
 </b>
 因为这些 ISO 文件百度云盘早已下好了，所以可以秒下到自己的百度网盘里面，再从自己百度网盘里面下载需要的ISO到本地电脑就可以了。
@@ -191,19 +191,19 @@ http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.1/iso/openSUSE-Leap-42.
 
 
 在国内也可以通过网易、清华和中国科学技术大学的镜像下载：<br />
-<a href="http://mirrors.163.com/openSUSE/distribution/leap/42.1/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/42.1/iso/
+<a href="http://mirrors.163.com/openSUSE/distribution/leap/42.2/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/42.2/iso/
 </a><br />
 
-<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/42.1/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/42.1/iso/
+<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/42.2/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/42.2/iso/
 </a><br />
 
-<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.1/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.1/iso/
+<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.2/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.2/iso/
 </a><br />
 
 安装到硬盘或虚拟机的话，下载<br />
-<b>openSUSE-Leap-42.1-DVD-x86_64.iso  </b>。<br />
+<b>openSUSE-Leap-42.2-DVD-x86_64.iso  </b>。<br />
 其他所有的ISO文件基本可以无视，别下载错了哦！<br />
-注：因为从 openSUSE Leap 42.1 开始使用企业版内核，所以目前全部是 64 位的系统。
+注：因为最新的 openSUSE Leap 使用企业版内核，所以目前全部是 64 位的系统。
 <br /><br />
 
 <div class="heading2">3.2 购买便宜的非官方安装介质</div>
@@ -219,7 +219,7 @@ http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.1/iso/openSUSE-Leap-42.
 <a href="http://www.linuxiso.co.uk/product_info.php?products_id=207" target="_blank">Linuxiso.co.uk</a><br />
 <a href="http://www.taobao.com/" target="_blank">
 淘宝网
-</a>（搜索：openSUSE 42.1 。对国内用户而言还是这个靠谱些）<br />
+</a>（搜索：openSUSE 42.2 。对国内用户而言还是这个靠谱些）<br />
 <br />
 
 <div class="heading2">3.3 购买盒装软件</div>
@@ -232,8 +232,8 @@ http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.1/iso/openSUSE-Leap-42.
 <div class="heading2">3.4 源代码</div>
 从这可以找到openSUSE中的所有开源软件的源代码，均以 RPM 文件的形式提供：
 <br />
-<a href="http://download.opensuse.org/source/distribution/leap/42.1/repo/oss/suse/src/" target="_blank">
-http://download.opensuse.org/source/distribution/leap/42.1/repo/oss/suse/src/</a>
+<a href="http://download.opensuse.org/source/distribution/leap/42.2/repo/oss/suse/src/" target="_blank">
+http://download.opensuse.org/source/distribution/leap/42.2/repo/oss/suse/src/</a>
 
 
 <br /><br />

@@ -165,7 +165,6 @@ function googleTranslateElementInit() {
 由于法律原因（美国软件专利和数字千年版权法案，DMCA），如果未安装下文提及的编解码器，那么默认只支持自由的、开放的、非专利保护格式，如 Ogg Theora，Ogg Vorbis 和 Flac格式。如果按下文来安装各种编解码器，那么就可以支持几乎所有的主流多媒体格式，与Windows系统的暴风影音相当。
 <br /><br />
 
-<!--
 
 <div class="heading2">13.1 一键安装编解码器</div>
 点击下面按钮，即可一键安装多媒体编解码器。
@@ -177,63 +176,22 @@ function googleTranslateElementInit() {
 <center><a href="http://opensuse-community.org/codecs-gnome.ymp"><img src="images/oneclick/codec-gnome.png" alt="ymp" class="pic" />
 </a></center><br />
 
-提醒：如果您得到下面这样的警告对话框，请不要惊慌！简单选择最上面的选项，允许从 <i>openSUSE</i> 源改到 <i>Packman</i> 源，然后点击 <i>OK -- Try Again</i> （确定--重试）按钮。
-<br /><br />
-
-
-<center><a href="images/screenshots/conflict.png" rel="thumbnail"><img src="images/screenshots/conflictb.png" alt="conflict" class="pic" /></a></center><br />
-
--->
-
-<div class="heading2">13.1 使用Yast软件管理器安装编解码包</div>
-
-1) 首先使用Yast软件源工具添加下面的软件源： 
-<br />
-
-<ul>
-<li><b>Packman 软件源</b>
-（华中科技大学：<a href="http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_42.1/" target="_blank">http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_42.1/</a> ）</li>
-<li><b>libdvdcss 软件源</b>（如果您不播放DVD可以跳过这条）</li>
-</ul>
-
 <div class="tip">
 <table>
 <tbody>
 <tr>
 <td><img src="images/pics/tip.png" alt="tip" /></td>
-<td>如果您对 <i>package manager</i> 软件包管理器和 <i>repositories</i> 软件源的概念陌生，请重新访问这些章节 <a href="installpackage.php">软件安装</a> and <a href="repositories.php">软件源</a>.</td>
+<td>如果出现软件包冲突（conflict）对话框，选择最上面的选项，切换软件源为 packman （<i>with</i> Vendor Change）以解决冲突，继续安装。</td>
 </tr>
 </tbody>
 </table>
 </div><br />
 
-2) 然后使用Yast软件管理器安装如下软件包：
-<br />
-
-<ul>
-<li><b>k3b-codecs</b>（K3b的MP3支持）</li>
-<li><b>ffmpeg</b>（有名的音视频编解码器，支持众多格式）</li>
-<li><b>lame</b>（MP3格式支持）</li>
-<li><b>phonon-backend-vlc</b></li>
-<li><b>phonon4qt5-backend-vlc</b></li>
-<li><b>vlc-codecs</b>（这三个是VLC多媒体解码器和后台支持）</li>
-
-<li><b>flash-player</b>（网页视频播放器）</li>
-<li><b>libdvdcss2</b>（如果您不播放DVD可以跳过这条）</li>
-</ul>
-
-3) 最后使用 Yast 软件管理器删除或卸载下面的软件包：<br />
-<ul>
-<li><b>phonon-backend-gstreamer</b></li>
-<li><b>phonon4qt5-backend-gstreamer</b></li>
-</ul>
-
-<br />
 另外说明一下，Packman源上还有经典的音频视频播放器，如 Audacious、MPlayer、SMPlayer等，还有XVID、VLC、w32codec等很多很好的编解码器，可以一起安装。还有些游戏等，资源很丰富，建议多看看。
 <br />
 另外推荐Videolan官方源：<br />
-<a href="http://download.videolan.org/pub/vlc/SuSE/" target="_blank">
-    http://download.videolan.org/pub/vlc/SuSE/
+<a href="http://download.videolan.org/pub/vlc/SuSE/Leap_42.2/" target="_blank">
+    http://download.videolan.org/pub/vlc/SuSE/Leap_42.2/
 </a>
 
 <br/><br/>
@@ -254,18 +212,16 @@ function googleTranslateElementInit() {
 </div><br />
 
 1) 添加必需的软件源：（如果您不播放DVD，可跳过第二个DVD软件源）
-<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_42.1/ packman</div>
-<div class="clroot">zypper addrepo -f http://opensuse-guide.org/repo/openSUSE_Leap_42.1/ dvd</div>
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_42.2/ packman</div>
+<div class="clroot">zypper addrepo -f http://opensuse-guide.org/repo/openSUSE_Leap_42.2/ dvd</div>
 <br />
 
 2) 然后安装必需的软件包：（如果您不播放DVD，可跳过libdvdcss2的包）
-<div class="clroot">zypper install k3b-codecs ffmpeg lame phonon-backend-vlc phonon4qt5-backend-vlc vlc-codecs flash-player libdvdcss2</div>
+<div class="clroot">zypper install k3b-codecs ffmpeg lame gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-plugins-ugly-orig-addon gstreamer-plugins-libav libdvdcss2</div>
 <br />
 
-3) 最后执行命令删除下面的软件包：
-<div class="clroot">zypper remove phonon-backend-gstreamer phonon4qt5-backend-gstreamer</div>
-<br />
-
+3) 命令行里可能提示需要切换软件源到 packman （<i>with</i> Vendor Change），请允许切换并继续安装。
+<br /><br />
 
 openSUSE社区的关于支持多媒体格式和常用一键安装的指南：<br />
 <a href="http://opensuse-community.org/" target="_blank">

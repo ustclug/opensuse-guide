@@ -194,7 +194,9 @@ openSUSE Leap 是由社区志愿者和 SUSE 公司雇员一起公开、透明地
 <li><a href="http://dafter.co.nf/wp/" target="_blank">阿拉伯语版本（Sadig Osman）</a></li>
 <li><a href="https://victorhck.gitlab.io/guia_openSUSE/" target="_blank">西班牙语版本（victorhck）</a></li>
 </ul>
-
+另外，opensuse-guide 英文网站源代码地址为：<br />
+ <a href="https://github.com/cb400f/opensuse-guide.org" target="_blank">
+https://github.com/cb400f/opensuse-guide.org</a><br /><br />
 
 
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">

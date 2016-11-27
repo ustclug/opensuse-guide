@@ -259,8 +259,13 @@ http://en.opensuse.org/openSUSE:Documentation_team</a><br /><br />
 <div class="heading3">F.2.4 翻译</div>
 
 将openSUSE发行版和/或维基翻译成您的本土语言。
+您可以通过下面的网页接口（Weblate）来翻译 openSUSE 特有的软件：
 <br />
-<a href="http://i18n.opensuse.org" target="_blank">http://i18n.opensuse.org</a><br /><br />
+<a href="http://l10n.opensuse.org" target="_blank">http://l10n.opensuse.org</a><br /><br />
+
+您也可以查看现有的翻译团队概况，和其他人交流经验：
+<br />
+<a href="https://en.opensuse.org/OpenSUSE_Localization_Teams" target="_blank">https://en.opensuse.org/OpenSUSE_Localization_Teams</a><br /><br />
 
 
 <div class="heading3">F.2.5 艺术品</div>
@@ -304,6 +309,7 @@ http://en.opensuse.org/openSUSE:Documentation_team</a><br /><br />
 <a href="https://en.opensuse.org/openSUSE:Factory_development_model" target="_blank">https://en.opensuse.org/openSUSE:Factory_development_model</a><br />
 <a href="https://en.opensuse.org/openSUSE:Development_Process" target="_blank">https://en.opensuse.org/openSUSE:Development_Process</a><br />
 <a href="http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory" target="_blank">http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory</a><br />
+<a href="https://en.opensuse.org/openSUSE:How_to_contribute_to_Leap" target="_blank">https://en.opensuse.org/openSUSE:How_to_contribute_to_Leap</a><br />
 <a href="http://en.opensuse.org/openSUSE:Junior_jobs" target="_blank">http://en.opensuse.org/openSUSE:Junior_jobs</a><br /><br />
 
 你也可以贡献给Packman项目——其提供非常重要的包含多媒体软件的第三方软件源——可以打软件包或做其他贡献。

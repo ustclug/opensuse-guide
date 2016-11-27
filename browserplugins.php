@@ -176,16 +176,13 @@ function googleTranslateElementInit() {
 <div class="heading2">14.1 Adobe Flash</div>
 Flash被应用到大量网站的嵌入视频、动画、游戏，有时甚至是网页导航中。
 <br />
-您需要手动添加 Adobe Flash Plugin 软件源，然后
-安装 <b>flash-plugin</b> 包。
+您需要手动添加 Packman 软件源，然后
+安装 <b>flash-player</b> 包。
 <br /><br />
 
 在终端命令行安装 Flash 需要两句命令：
-<div class="clroot">zypper addrepo -f http://linuxdownload.adobe.com/linux/x86_64/ adobe-flash-plugin</div><br />
-<div class="clroot">zypper install flash-plugin</div><br />
-
-安装时你会看到一个关于丢失 GPG-key 的警告，选择忽略 i ，继续安装。
-<br />
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_42.2/ packman</div><br />
+<div class="clroot">zypper install flash-player</div><br />
 <br />
 
 <div class="heading2">14.2 Java</div>

@@ -178,7 +178,7 @@ Linux内核只是众多组件之一。下图展示了系统核心组件和他们
 	</tr>
 
       	<tr>
-		<td class="billedtekst">
+		<td class="image-caption">
 		本图展示了GNU/Linux操作系统的主要组件。
 		</td>
 				
