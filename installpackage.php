@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -218,10 +218,8 @@ function googleTranslateElementInit() {
 
 <div class="heading3">10.2.1 通过 RPM 文件安装</div>
 如果运气不错，软件的网站已经提供了为 openSUSE 准备的 RPM 文件下载（为 Fedora 准备的通常也可以），下载后直接点开安装即可： 
-<div class="path">打开 Dolphin 文件管理器 =&gt; 找到下载的 RPM 文件 =&gt; 点击打开并根据提示安装</div><br />
-
-或者在终端中安装： 
-<div class="clroot">zypper install /path/to/manually/downloaded.rpm</div><br />
+<div class="path">打开 Dolphin 文件管理器 =&gt; 找到下载的 RPM 文件 =&gt; 右击该文件选择 Open With...（打开方式） =&gt; Install/Remove Software（安装或卸载软件）
+</div><br />
 
 <div class="note">
 <table>

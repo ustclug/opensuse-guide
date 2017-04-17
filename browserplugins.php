@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -177,12 +177,12 @@ function googleTranslateElementInit() {
 Flash被应用到大量网站的嵌入视频、动画、游戏，有时甚至是网页导航中。
 <br />
 您需要手动添加 Packman 软件源，然后
-安装 <b>flash-player</b> 包。
+安装 <b>freshplayerplugin</b> 包。
 <br /><br />
 
 在终端命令行安装 Flash 需要两句命令：
 <div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_42.2/ packman</div><br />
-<div class="clroot">zypper install flash-player</div><br />
+<div class="clroot">zypper install freshplayerplugin</div><br />
 <br />
 
 <div class="heading2">14.2 Java</div>

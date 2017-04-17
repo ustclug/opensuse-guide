@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">

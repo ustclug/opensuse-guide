@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -358,20 +358,7 @@ GNU/Linux中文件名和文件夹是<b>区分字母大小写</b>的。
 <br /><br />
 
 
-<div class="heading2">C.3 权限管理</div>
-Coming soon...  <br />
-谷歌或百度搜索：Linux权限管理。主要是chmod和chown、chgrp命令。
-如果从网站下载的脚本和应用程序不能运行，在终端执行命令：
-<i>chmod  +x  /路径/文件名</i> ，如果需要管理员权限来设置，
-执行 <i>sudo  chmod  +x  /路径/文件名</i> 。<br />
-<b>注意</b>：在Linux命令行中运行当前目录的可执行程序或脚本，需要使用
-命令：（要加 点和右斜杠）<br />
-<b>./文件名</b>
-
-<br /><br />
-
-
-<div class="heading2">C.4 装载和可移动媒体</div>
+<div class="heading2">C.3 装载和可移动媒体</div>
 
 如上面简要地提到文件系统/分区被装载到一个文件树内的文件夹里，
 这意味着例如 "<b>/</b>" 可能在一个分区或物理磁盘上，并且 <b>/var/</b> 
@@ -390,7 +377,7 @@ Coming soon...  <br />
 <br /><br />
 
 
-<div class="heading2">C.5 隐藏文件</div>
+<div class="heading2">C.4 隐藏文件</div>
 
 以 '.' (点) 开头的文件和文件夹是隐藏的。在Dolphin文件管理器里，
 您可以通过键盘快捷键 <b>Alt+.</b> 或菜单里
@@ -409,7 +396,7 @@ Coming soon...  <br />
 
 
 
-<div class="heading2">C.6 重要的配置文件</div>
+<div class="heading2">C.5 重要的配置文件</div>
 
 GNU/Linux 里的配置和设置通常存储在人类可读的普通文本文件中。几乎所有的配置
 都可通过Yast图形界面或其他各种图形界面程序来完成，但是了解一些关键配置文件
@@ -476,7 +463,7 @@ GNU/Linux 里的配置和设置通常存储在人类可读的普通文本文件�
 </table><br />
 
 
-<div class="heading2">C.7 日志</div>
+<div class="heading2">C.6 日志</div>
 
 为防备出问题，了解主要日志文件的位置是有益的，绝大多数存在
  <b>/var/log/</b> 目录。
@@ -525,8 +512,13 @@ GNU/Linux 里的配置和设置通常存储在人类可读的普通文本文件�
   </tbody>
 </table><br />
 
+主要的系统日志可以用 Yast 的 <i>systemd-journal</i> 模块显示，或者用 journalctl 命令：
+<div class="clroot">journalctl</div><br />
 
-<div class="heading2">C.8 故障排除</div>
+在 journalctl 上阅读日志以更有效地运用这些信息。<br /><br />
+
+
+<div class="heading2">C.7 故障排除</div>
 
 如果一个应用程序崩溃或无法启动，这里是一些 GNU/Linux 的基本故障排除技巧。
 <ul>

@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -174,13 +174,15 @@ SUSE LINUX Products GmbH（SUSE LINUX 产品有限责任公司）</a>
 希望它能对您有所帮助！<br /><br />
 
 <div class="heading2">1.1 关于 openSUSE Leap</div>
-openSUSE Leap 是一个基于GNU/Linux的计算机操作系统。相对于微软的Windows系统而言，它是开源并且免费的。openSUSE Leap 适用于家庭或者小型办公应用中的很多计算机设备，比如笔记本、台式电脑、上网本、服务器以及多媒体中心。<br /><br />
+openSUSE Leap 是一个基于GNU/Linux的计算机操作系统。相对于微软的Windows系统而言，它是开源并且免费的。openSUSE Leap 适用于家庭或者小型办公应用中的很多计算机设备，比如笔记本、台式电脑、上网本、服务器以及多媒体中心。
+您也可以在  <a href="https://en.opensuse.org/Portal:ARM" target="_blank">ARM</a> 或 <a href="https://en.opensuse.org/Portal:PowerPC" target="_blank">PPC</a>  架构的计算机上运行 openSUSE，但这两种架构不在本教程涵盖范围内。
+<br /><br />
 
 
 openSUSE Leap 是最主要的GNU/Linux发行版之一，并且也是历史最为悠久的发行版之一。
 openSUSE Leap 使用源自 SUSE Linux Enterprise 的内核系统，但带有最新的硬件支持、桌面环境和图形程序。
 每年发布一个主补丁包，并且每隔 3-4 年发布新的主发行版并更新内核系统。
-（注：从上个版本 openSUSE 13.2 到 openSUSE Leap 42.1 是大的跨越，版本号和发布方式都有很大变化，但对用户使用没啥区别。）<br /><br />
+（注：从版本 openSUSE 13.2 到 openSUSE Leap 42.1 是大的跨越，版本号和发布方式都有很大变化，但对用户使用体验没啥区别。）<br /><br />
 
 对富有经验和喜欢冒险的 GNU/Linux 用户，如果想要他们的操作系统冒点风险并体验刀尖上的艺术，
 可以试用滚动发行的 openSUSE 版本，称为

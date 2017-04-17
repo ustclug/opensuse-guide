@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -216,7 +216,7 @@ http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.2/iso/openSUSE-Leap-42.
 <a href="http://www.linuxpusher.com/distributions/OpenSuSE" target="_blank">Linuxpusher.com</a><br />
 <a href="http://www.osdisc.com/cgi-bin/view.cgi/products/linux/suse" target="_blank">OSDisc.com</a><br />
 <a href="http://www.ixsoft.de/cgi-bin/web_store.cgi?ref=Catalogs/de/opensuse-catalog.html" target="_blank">Ixsoft.de</a><br />
-<a href="http://www.linuxiso.co.uk/product_info.php?products_id=207" target="_blank">Linuxiso.co.uk</a><br />
+<a href="http://thelinuxshop.co.uk/opensuse-m-14.html" target="_blank">Thelinuxshop.co.uk</a><br />
 <a href="http://www.taobao.com/" target="_blank">
 淘宝网
 </a>（搜索：openSUSE 42.2 。对国内用户而言还是这个靠谱些）<br />

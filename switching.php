@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -306,6 +306,7 @@ GNU/Linux已经被形容为 "world wide team sport"，由全世界的优秀程�
 		<a href="http://kid3.sourceforge.net" target="_blank">Kid3</a> (音乐标签器)<br />
 		<a href="http://edu.kde.org/marble/download.php" target="_blank">Marble</a> (桌面地球仪)<br />
 		<a href="http://gramps-project.org/" target="_blank">Gramps</a> (家谱研究/家族树图)<br />
+		<a href="https://edu.kde.org/kstars/#download" target="_blank">KStars</a> (天文馆)<br />
 		<a href="http://www.stellarium.org/" target=_blank">Stellarium</a> (天文馆)<br />
 		<a href="http://qt.nokia.com/title-cn?set_language=zh&cl=zh" target="_blank">Qt Creator</a>(Qt编程)<br />
 		<a href="http://www.eclipse.org/" target="_blank">Eclipse</a>(集成开发环境) <br />

@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -324,7 +324,7 @@ openSUSE 项目自己开发的其他组件 添加新特性——
 当然如果您给上游项目贡献代码，openSUSE最后也将会从此受益。
 您可以在公开可访问的版本控制系统里找到各种openSUSE组件的源代码：
 <br />
-<a href="http://gitorious.org/opensuse" target="_blank">http://gitorious.org/opensuse</a><br />
+
 <a href="https://github.com/openSUSE" target="_blank">https://github.com/openSUSE</a><br />
 <a href="https://github.com/yast/" target="_blank">https://github.com/yast/</a><br /><br />
 

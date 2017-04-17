@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -258,7 +258,8 @@ http://webchat.freenode.net
 <div class="heading2">A.5 文档</div>
 阅读手册总是个好主意。您可以从这找到 PDF、EPUB和 HTML 格式的 openSUSE 官方手册：
 <br />
-<a href="http://activedoc.opensuse.org/" target="_blank">http://activedoc.opensuse.org/</a>
+<a href="http://doc.opensuse.org/" target="_blank">
+http://doc.opensuse.org/</a>
 <br /><br />
 
 很多应用程序自带手册，一般可以按 <i>F1</i> 键查看它。通常软件包带了文档，一般被安装在目录 <i>/usr/share/doc/</i> 里。

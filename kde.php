@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -159,6 +159,8 @@ function googleTranslateElementInit() {
 <div class="heading1">5. KDE 桌面环境</div>
 
 头次启动 openSUSE 后，第一个接触到的便是 KDE 桌面环境（Plasma桌面）。所谓的桌面环境，包括桌面本身、菜单、面板、文件管理、窗口管理以及一些其他的应用程序。
+<br /><br />
+KDE Plasma 桌面是高度可配置的，如果有哪些东西您不喜欢，绝大多数情况下您可以按照自己的想法来配置桌面环境。
 <br /><br />
 
 

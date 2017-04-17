@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2016年11月27日</div>
+<div class="content-text">最后更新：2017年4月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -355,7 +355,7 @@ hwinfo命令几乎可以查看所有硬件的信息，示例：
 <br /><br />
 
 使用 <i>vim /path/to/file</i> 命令打开文件，比如： <br />
-<div class="clroot">vim /boot/grub/menu.lst</div><br />
+<div class="clroot">vim /etc/sysconfig/yast2</div><br />
 
 
 <div class="note">
@@ -373,7 +373,7 @@ hwinfo命令几乎可以查看所有硬件的信息，示例：
 </div><br />
 
 
-按 <i>i</i> 键进入 insert 模式，现在就可以编辑文件了。 完成编辑后按 <i>Esc</i> 键离开 insert 模式。然后输入 <i>:x</i> 保存并退出。若要退出而不保存任何更改，使用 <i>:q!</i> 
+按 <i>i</i> 键进入 insert 模式（底部出现 "-- INSERT --" 字样），现在就可以编辑文件了。 完成编辑后按 <i>Esc</i> 键离开 insert 模式。然后输入 <i>:x</i> 保存并退出。若要退出而不保存任何更改，使用 <i>:q!</i> 
  <br /><br />
 
 您也可以安装其他更简单的命令行文本编辑器，比如 nano 编辑器。
