@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+apk add --no-cache \
+    nginx \
+    php5-curl \
+    php5-fpm \
+    php5-json \
+    php5-xml \
+    supervisor
+
+mkdir -p /var/log/php-fpm
