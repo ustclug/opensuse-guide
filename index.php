@@ -9,7 +9,7 @@
 
 <head>
 
-<title>1. 简介 - openSUSE Leap 42.2 / SUSE Linux 新手指南</title>
+<title>1. 简介 - openSUSE Leap 42.3 / SUSE Linux 新手指南</title>
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2017年4月18日</div>
+<div class="content-text">最后更新：2018年1月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">

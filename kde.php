@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2017年4月18日</div>
+<div class="content-text">最后更新：2018年1月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -207,25 +207,19 @@ KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
 当然还有很多很多的小部件可以尝试下，有些很好玩的。
 <br /><br />
 
+添加小部件：
+<div class="path">右键点击桌面空白处 => Add widgets（添加部件） => 拖拽部件到桌面或面板 </div>
+<br />
+部件可以移动、调整尺寸、甚至旋转——若要访问这些操作选项手柄，请点击部件，按下鼠标左键等待几秒后就会出现操作手柄。
+<br/><br />
 要对小部件进行添加删除或者设置，则需要先解锁部件： 
-<div class="path">在桌面空白处右键单击 => 选择 "Lock Widgets"（锁定部件）
+<div class="path">右键点击桌面空白处 => 选择 "Lock Widgets"（锁定部件）
 或者 "Unlock Widgets"（解锁部件）.</div><br />
 当您不配置桌面时，将小部件锁定起来是很有用的。这样您鼠标停在小部件上时就不会弹出东西，您就不用担心意外移动或删除小部件了。
-<br/><br />
-添加小部件：
-<div class="path">在右键空白处点击 => Add widgets（添加部件） => 拖拽部件到桌面或面板 </div><br />
+<br /><br />
 
 
 <center><a href="images/screenshots/widgets.png" rel="thumbnail"><img src="images/screenshots/widgetsb.png" alt="widgets" class="pic" /></a></center><br />
-
-
-要将部件添加到面板，直接将它们从部件浏览器里拖入面板即可。
-<br /><br />
-
-
-当小部件被其他窗口挡住的时候，您可以点击底部面板上的 <i>Show Desktop</i> 
-（显示桌面）按钮，或者按快捷键 <i>Ctrl+F12</i> 打开部件表盘（部件板）。
-<br /><br />
 
 
 <div class="heading3">5.1.3 虚拟桌面</div>
@@ -322,8 +316,7 @@ KDE 窗口管理器原生内置了对 3D 桌面效果的支持而不用借助于
 
 <br /><br />
 
-要取消或者启动其他更多的效果，可以这样操作：（就是5.4节系统设置的其中一项）
-<div class="path">Configure Desktop（桌面设置，就是系统设置） => Desktop Effects（桌面效果）</div><br />
+要取消或者启动其他更多的效果可以在 5.3 节系统设置中配置。<br /><br />
 
 <center><a href="images/screenshots/effects.png" rel="thumbnail"><img src="images/screenshots/effectsb.png" alt="effects" class="pic" /></a></center><br />
 

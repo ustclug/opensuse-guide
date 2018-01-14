@@ -47,7 +47,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2017年4月18日</div>
+<div class="content-text">最后更新：2018年1月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -239,18 +239,6 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 	</tr>
 </table><br />
 
-
-<div class="heading3">安装选项</div>
-<table>
-	<tr>
-		<td width="205" valign="top"><a href="images/installation/dvd/inst-mode.png" rel="thumbnail"><img src="images/installation/dvd/inst-modeb.png" alt="inst-mode" class="pic" /></a></td>
-		<td valign="top">这里您可以选择添加在线的软件源或者包含附加产品，
-		一般点击 "下一步" 就行了。在线软件源可以在系统安装完成之后添加。</td>
-	</tr>
-</table><br />
-
-
-
 <div class="heading3">分区</div>
 <table>
 	<tr>
@@ -294,14 +282,15 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 </table><br />
 
 
-<div class="heading3">选择桌面环境</div>
+<div class="heading3">用户界面</div>
 	<table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/inst-desktop.png" rel="thumbnail"><img src="images/installation/dvd/inst-desktopb.png" alt="inst-desktop" class="pic" /></a></td>
-		<td valign="top">GNU/Linux 下有不同的桌面环境供您选择，而 KDE 是 openSUSE 下的默认选择。当然您也可以选择 Gnome 或者其他桌面环境，同样的得到 openSUSE 的支持。大约 70% 的openSUSE用户是使用KDE桌面，
-这也是本站指南主要关注的。
+		<td valign="top">GNU/Linux 下有不同的用户界面（桌面环境）供您选择，而 KDE 是 openSUSE 下的默认选择，大约 70% 的 openSUSE 用户是使用 KDE 桌面，这也是本站指南主要关注的。
+但您也可以选择 GNOME 或者基于文本的服务器界面进行安装。
+
 <br />
-在 "Other" （“其他”）菜单下，您还可以选择 LXDE, Xfce, minimal graphical environment (IceWM) ，或者一个纯粹的命令行界面以供服务器使用。</td>
+在 "Custom" （“定制”）菜单下，您可以手动选择不同桌面样式，包括轻量级桌面环境 Xfce 和 LXDE 。</td>
 	</tr>
 </table><br />
 

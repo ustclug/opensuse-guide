@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2017年4月18日</div>
+<div class="content-text">最后更新：2018年1月18日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -213,7 +213,7 @@ http://en.opensuse.org/SDB:NVIDIA_drivers
 <br /><br />
 
 首先添加如下软件源：
-<div class="clroot">zypper addrepo -f http://download.nvidia.com/opensuse/leap/42.2 nvidia</div><br />
+<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/42.3 nvidia</div><br />
 
 然后执行如下智能安装命令：
 <div class="clroot">zypper install-new-recommends</div><br />

@@ -464,7 +464,7 @@ http://software.opensuse.org/package/libcodeblocks0</a> <br />
 <a href="http://software.opensuse.org/package/codeblocks"  target="_blank">
 http://software.opensuse.org/package/codeblocks</a> <br />
 或者使用root命令行安装：<br />
-<div class="clroot">zypper ar -f  http://download.opensuse.org/repositories/home:/mad_soft/openSUSE_Leap_42.2/  CB</div>
+<div class="clroot">zypper ar -f  http://download.opensuse.org/repositories/home:/mad_soft/openSUSE_Leap_42.3/  CB</div>
 <div class="clroot">
 zypper  in  libcodeblocks0  codeblocks
 </div><br />
