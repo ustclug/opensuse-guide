@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -195,8 +195,10 @@ function googleTranslateElementInit() {
 Geforce 8 系列以及之后的显卡，大约2008年之后，包括 GeForce 8, GeForce 100-, 200- and 300-系列：<br /><br />
 <center><a href="http://opensuse-community.org/nvidia_gf8.ymp"><img src="images/oneclick/nvidia-gf8.png" alt="ymp" class="pic" /></a></center><br />
 
+<!--
 Geforce 6 和 7 系列、以及更老的显卡，大约2007年和之前的系列：<br /><br />
 <center><a href="http://opensuse-community.org/nvidia-gf6_gf7.ymp"><img src="images/oneclick/nvidia-gf6.png" alt="ymp" class="pic" /></a></center><br />
+-->
 
 之后重启您的电脑。<br /><br />
 
@@ -216,7 +218,7 @@ http://en.opensuse.org/SDB:NVIDIA_drivers
 <div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/42.3 nvidia</div><br />
 
 然后执行如下智能安装命令：
-<div class="clroot">zypper install-new-recommends</div><br />
+<div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/15.0</div><br />
 
 安装完之后重启。<br /><br />
 
@@ -251,60 +253,13 @@ https://zh.opensuse.org/SDB:Bumblebee
 
 
 <div class="heading2">15.2 ATI(AMD)</div>
-操作系统自带的开源驱动能够很好地支持 AMD 显卡硬件，不需要安装闭源专有驱动。
-AMD 官方虽然有闭源专有驱动，但是已经停止开发了，不再受支持。目前 AMD 官方与开源社区协作，提升开源显卡驱动的性能，所以不需要闭源专有驱动了。
-详情请见：<br/>
-
-<a href="https://lizards.opensuse.org/2016/10/15/proprietary-amdati-catalyst-fglrx-15-12-rpms-released-for-leap-42-2/" target="_blank">https://lizards.opensuse.org/2016/10/15/proprietary-amdati-catalyst-fglrx-15-12-rpms-released-for-leap-42-2/</a>
-
-<br /><br />
+操作系统自带的开源驱动能够很好地支持 AMD 显卡硬件，不需要安装闭源专有驱动。<br /><br />
 
 openSUSE官方的ATI(AMD)显卡详细安装指南：<br />
 <a href="http://en.opensuse.org/SDB:ATI_drivers" target="_blank">
 http://en.opensuse.org/SDB:ATI_drivers
 </a>
 <br /><br />
-
-<!--
-点击下面按钮，一键安装 ATI(AMD) 专有显卡驱动，适用于Radeon HD 5000系列和之后的显卡。（老版本显卡的驱动 ATI/AMD 没提供，只能使用系统默认的开源驱动，而且 openSUSE 自带的开源驱动性能比旧的AMD官方驱动性能好。）
-<br /><br />
-对于HD5000系列及之后的A卡：
-<br /><br />
-
-<center><a href="http://geeko.ioda.net/mirror/amd-fglrx/ymp/amd-ati-fglrx64.ymp">
-    <img src="images/oneclick/ati.png" alt="ymp" class="pic" />
-</a></center><br />
-
-之后重启您的电脑。<br /><br />
-
-openSUSE官方的ATI(AMD)显卡详细安装指南：<br />
-<a href="http://en.opensuse.org/SDB:ATI_drivers" target="_blank">
-http://en.opensuse.org/SDB:ATI_drivers
-</a>
-<br /><br />
-
-
-
-<div class="heading3">15.2.1 终端命令行安装 ATI 驱动</div>
-
-如果您喜欢的话，您可以在终端里安装 ATI 驱动。
-<br /><br />
-
-首先添加如下软件源：
-<div class="clroot">zypper addrepo -f http://geeko.ioda.net/mirror/amd-fglrx/openSUSE_13.2/  ati</div><br />
-
-然后安装驱动，HD5000系列及之后的A卡：<br />
-32位系统执行：
-<div class="clroot">zypper in  fglrx_xpic_SUSE131 </div>
-64位系统执行：
-<div class="clroot">zypper in fglrx64_xpic_SUSE131 </div>
-最后重启。<br /><br />
-
-<b>
-由于fglx-legacy不会支持xorg 1.13 ，openSUSE 13.2无法安装fglrx-legacy，凡是HD4000系列和之前的显卡都只能用默认的开源驱动。
-</b><br /><br />
-
--->
 
 <!-- ati KMP slut -->
 

@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -158,9 +158,9 @@ function googleTranslateElementInit() {
 
 <div class="heading1">5. KDE 桌面环境</div>
 
-头次启动 openSUSE 后，第一个接触到的便是 KDE 桌面环境（Plasma桌面）。所谓的桌面环境，包括桌面本身、菜单、面板、文件管理、窗口管理以及一些其他的应用程序。
+头次启动 openSUSE 后，第一个接触到的便是 KDE Plasma 桌面环境。所谓的桌面环境，包括桌面本身、菜单、面板、文件管理、窗口管理以及一些其他的应用程序。
 <br /><br />
-KDE Plasma 桌面是高度可配置的，如果有哪些东西您不喜欢，绝大多数情况下您可以按照自己的想法来配置桌面环境。
+KDE Plasma 桌面是高度可配置的，如果有哪些东西您不喜欢，绝大多数情况下您可以按照自己的想法来配置桌面环境。KDE Plasma 桌面包含非常丰富的特性，下面仅是介绍一些最基本的特性。
 <br /><br />
 
 
@@ -201,28 +201,7 @@ KDE 的桌面与您所熟悉的其他桌面如 Windows 桌面还是有点儿相�
 <div class="path">在菜单中找到程序 => 右击该条目 => 单击 "添加到面板" 或者 "添加到桌面"</div><br />
 
 
-<div class="heading3">5.1.2 小部件</div>
-KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
-在桌面和面板中是可以放置小部件的容器。桌面上的“开始”菜单、系统托盘、以及 folderview （文件夹视图）本质上都是小部件。
-当然还有很多很多的小部件可以尝试下，有些很好玩的。
-<br /><br />
-
-添加小部件：
-<div class="path">右键点击桌面空白处 => Add widgets（添加部件） => 拖拽部件到桌面或面板 </div>
-<br />
-部件可以移动、调整尺寸、甚至旋转——若要访问这些操作选项手柄，请点击部件，按下鼠标左键等待几秒后就会出现操作手柄。
-<br/><br />
-要对小部件进行添加删除或者设置，则需要先解锁部件： 
-<div class="path">右键点击桌面空白处 => 选择 "Lock Widgets"（锁定部件）
-或者 "Unlock Widgets"（解锁部件）.</div><br />
-当您不配置桌面时，将小部件锁定起来是很有用的。这样您鼠标停在小部件上时就不会弹出东西，您就不用担心意外移动或删除小部件了。
-<br /><br />
-
-
-<center><a href="images/screenshots/widgets.png" rel="thumbnail"><img src="images/screenshots/widgetsb.png" alt="widgets" class="pic" /></a></center><br />
-
-
-<div class="heading3">5.1.3 虚拟桌面</div>
+<div class="heading3">5.1.2 虚拟桌面</div>
 为避免桌面上开启过多的应用程序窗口导致的措手不及，可以使用虚拟桌面以提高您的工作效率。在底部面板上您能看到一个小小的栅格（2个格子代表2个桌面），这便是虚拟桌面选择器，通过它可以切换虚拟桌面。
 <br /><br />
 
@@ -308,8 +287,31 @@ KDE 桌面环境的全局设置都搜集在一起了。
 <br /><br />
 
 
+<div class="heading2">5.5 小部件</div>
+KDE Plasma桌面围绕小部件（widgets）和容器（containments）的。
+在桌面和面板中是可以放置小部件的容器。桌面上的“开始”菜单、系统托盘、以及 folderview （文件夹视图）本质上都是小部件。
+当然还有很多很多的小部件可以尝试下，有些很好玩的。
+<br /><br />
 
-<div class="heading2">5.5 桌面效果</div>
+添加小部件：
+<div class="path">右键点击桌面空白处 => Add widgets（添加部件） => 拖拽部件到桌面或面板 </div>
+<br />
+部件可以移动、调整尺寸、甚至旋转——若要访问这些操作选项手柄，请点击部件，按下鼠标左键等待几秒后就会出现操作手柄。
+<br/><br />
+要对小部件进行添加删除或者设置，则需要先解锁部件： 
+<div class="path">右键点击桌面空白处 => 选择 "Lock Widgets"（锁定部件）
+或者 "Unlock Widgets"（解锁部件）.</div><br />
+当您不配置桌面时，将小部件锁定起来是很有用的。这样您鼠标停在小部件上时就不会弹出东西，您就不用担心意外移动或删除小部件了。
+<br /><br />
+
+
+<center><a href="images/screenshots/widgets.png" rel="thumbnail"><img src="images/screenshots/widgetsb.png" alt="widgets" class="pic" /></a></center><br />
+
+
+
+
+
+<div class="heading2">5.6 桌面效果</div>
 
 KDE 窗口管理器原生内置了对 3D 桌面效果的支持而不用借助于第三方程序。
 如果硬件支持并且装好合适的驱动程序，便可以体验到很多绚丽的桌面效果。可以使用 Ctrl+F8 开启或者 Ctrl+F9 体验一把。

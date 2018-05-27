@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -308,7 +308,7 @@ Tab 键是非常有用的。在通常情况下 按Tab 键会自动补全命令�
 开始、停止、重启系统服务或者查看系统服务的状态(start|stop|restart|status)，
 示例：<br />
 <div class="clroot">systemctl restart network</div>
-<div class="clroot">systemctl stop SuSEfirewall2_init</div>
+<div class="clroot">systemctl stop firewalld</div>
 <div class="clroot">systemctl start apache2</div>
 <div class="clroot">systemctl status smb</div><br />
 
@@ -384,7 +384,6 @@ hwinfo命令几乎可以查看所有硬件的信息，示例：
 这有一些链接：（或者用谷歌百度搜索“Linux 命令”）
 <br />
 <a href="http://linuxcommand.org/" target="_blank">http://linuxcommand.org/</a><br />
-<a href="http://www.oreillynet.com/linux/cmd/" target="_blank">http://www.oreillynet.com/linux/cmd/</a><br />
 <a href="http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html" target="_blank">http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html</a><br /><br />
 
 

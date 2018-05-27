@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -211,12 +211,12 @@ openSUSE有自己的社交网络，以供社区成员们交流：
 <a href="http://www.linkedin.com/groups?home=&amp;gid=61388&amp;trk=anet_ug_hm" target="_blank">http://www.linkedin.com/groups?home=&amp;gid=61388&amp;trk=anet_ug_hm</a><br /><br />
 
 
-<div class="heading3">F.1.5 年度会议</div>
- openSUSE 社区在 openSUSE 年度会议上每年聚会两次，分别是在欧洲和北美。
+<div class="heading3">F.1.5 会议和事件</div>
+ openSUSE 社区在不同的大洲都有例行会议，
  这是会见其他社区成员的极好机会。
 <br />
-<a href="http://conference.opensuse.org" target="_blank">http://conference.opensuse.org</a><br />
-<a href="http://summit.opensuse.org/" target="_blank">http://summit.opensuse.org/</a><br /><br />
+<a href="https://events.opensuse.org/" target="_blank">https://events.opensuse.org/</a><br /><br />
+
 
 
 
@@ -336,13 +336,8 @@ openSUSE 项目自己开发的其他组件 添加新特性——
 <br />
 <a href="http://en.opensuse.org/openSUSE:Mirror_infrastructure" target="_blank">http://en.opensuse.org/openSUSE:Mirror_infrastructure</a><br /><br />
 
-<div class="heading3">F.2.10 Respins（重新制作的特别版openSUSE）</div>
 
-创造定制的ISO respins（重新制作的特别版openSUSE）以及openSUSE的衍生版本。
-<br />
-<a href="http://susestudio.com" target="_blank">http://susestudio.com</a><br /><br />
-
-<div class="heading3">F.2.11 资金</div>
+<div class="heading3">F.2.10 资金</div>
 自由软件的开发需要资金，您可以帮忙捐赠资金给您喜爱的项目或参加一些组织，
 比如：
 <br />

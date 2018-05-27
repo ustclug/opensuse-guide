@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -146,9 +146,9 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="content-title">openSUSE 42.3 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 15.0 coming soon:</div><br />
 
-<center><a href="http://en.opensuse.org/Portal:42.3"><img src="http://counter.opensuse.org/42.3/small" border="0" alt="countdown" /></a></center><br />
+<center><a href="http://en.opensuse.org/Portal:15.0"><img src="http://counter.opensuse.org/15.0/small" border="0" alt="countdown" /></a></center><br />
 -->
 
 </div>
@@ -167,41 +167,18 @@ DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 因为它被测试得很完善而且包含基础安装所需的所有软件包，并包含各种语言的本地化包。您也可以不刻录成 DVD 光盘，ISO 文件可以写入到 U 盘中来安装系统（见下一章）。
 
 <br /><br /> 
-<!--
-也可以用 Live DVD/USB 来体验。通过 Live DVD 您可以在安装之前直接在电脑上体验 openSUSE（只在光盘和内存运行，无需安装）。
-然后 Live DVD/USB 被测试得并不彻底，并且不包含基础安装和本地化所必需的软件包，
-因此这些包需要以后安装，
-在Yast软件管理初次运行时会自动补充安装这些包。
-<br /><br />
--->
-
-目前最推荐的下载 openSUSE DVD 文件的方式是通过百度网盘的离线下载功能。
-注册并登陆百度账号，进入百度网盘页面：
-<b>
-<a href="http://pan.baidu.com/">
-http://pan.baidu.com/ </a> <br />
-
-点击 "离线下载" ，选择 "新建链接任务" ，下载64位系统，复制如下链接下载：<br />
-http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.3/iso/openSUSE-Leap-42.3-DVD-x86_64.iso
-<br />
-</b>
-因为这些 ISO 文件百度云盘早已下好了，所以可以秒下到自己的百度网盘里面，再从自己百度网盘里面下载需要的ISO到本地电脑就可以了。
-这样用百度的大带宽下载文件，速度既快又不会占用开源服务器的带宽。
-<br /><br />
-
-
-在国内也可以通过网易、清华和中国科学技术大学的镜像下载：<br />
-<a href="http://mirrors.163.com/openSUSE/distribution/leap/42.3/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/42.3/iso/
+在国内可以通过网易、清华和中国科学技术大学的镜像下载：<br />
+<a href="http://mirrors.163.com/openSUSE/distribution/leap/15.0/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/15.0/iso/
 </a><br />
 
-<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/42.3/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/42.3/iso/
+<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.0/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.0/iso/
 </a><br />
 
-<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.3/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.3/iso/
+<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.0/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.0/iso/
 </a><br />
 
 安装到硬盘或虚拟机的话，下载<br />
-<b>openSUSE-Leap-42.3-DVD-x86_64.iso  </b>。<br />
+<b>openSUSE-Leap-15.0-DVD-x86_64.iso  </b>。<br />
 其他所有的ISO文件基本可以无视，别下载错了哦！<br />
 注：因为最新的 openSUSE Leap 使用企业版内核，所以目前全部是 64 位的系统。
 <br /><br />
@@ -232,8 +209,8 @@ http://mirrors.ustc.edu.cn/opensuse/distribution/leap/42.3/iso/openSUSE-Leap-42.
 <div class="heading2">3.4 源代码</div>
 从这可以找到openSUSE中的所有开源软件的源代码，均以 RPM 文件的形式提供：
 <br />
-<a href="http://download.opensuse.org/source/distribution/leap/42.3/repo/oss/suse/src/" target="_blank">
-http://download.opensuse.org/source/distribution/leap/42.3/repo/oss/suse/src/</a>
+<a href="http://download.opensuse.org/source/distribution/leap/15.0/repo/oss/src/" target="_blank">
+http://download.opensuse.org/source/distribution/leap/15.0/repo/oss/src/</a>
 
 
 <br /><br />

@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -169,7 +169,7 @@ openSUSE 和其他的 GNU/Linux 都是相当安全的，不过面对的是深不
 <tbody>
 <tr>
 <td><img src="images/pics/obs.png" alt="obs" /></td>
-<td>安全起见，在不必要的时候还是不要用root的好。</td>
+<td>为安全起见，在不必要的时候还是不要用root的好。</td>
 </tr>
 </tbody>
 </table>
@@ -229,11 +229,11 @@ openSUSE Leap 大版本计划是 3-4 年更新，所以补丁支持期很长。�
 
 
 <div class="heading2">7.3 防火墙</div>
-Linux内核内置了防火墙，而 openSUSE 为其提供了图形界面。默认情况下防火墙将放行所有外出的请求，并阻止所有对内的请求。因此如果需要对外提供服务（http，ftp等服务）的话，需要手动调整下防火墙的配置。可在 YaST 中配置防火墙，而关于 YaST 将在后面的章节中介绍。<br /><br />
+openSUSE 默认安装了防火墙 ( firewalld )， 并为防火墙提供了图形界面。默认情况下防火墙将放行所有外出的请求，并阻止所有对内的请求。因此如果需要对外提供服务（http，ftp等服务）的话，需要手动调整下防火墙的配置。可在 YaST 中配置防火墙，而关于 YaST 将在后面的章节中介绍。<br /><br />
 
 <div class="heading2">7.4 病毒与间谍程序</div>
 在 openSUSE 中并没有必要单独再安装查杀病毒木马的软件或者其他安全软件。 
-恶意软件通过互联网传播和感染普通用户系统的情况对GNU/Linux是不存在的。
+恶意软件通过互联网传播和感染普通用户桌面系统的情况对GNU/Linux是不存在的。
 有种说法是在 Linux 下中病毒的概率与彩票中奖的概率相当。当然前提是不要主动去尝试一些恶意软件或者从不信任的源中安装软件。只要保证您自己不从不可信任的软件源安装软件或脚本，您将会很安全。
 <br /><br />
 

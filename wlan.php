@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -221,7 +221,7 @@ Intel 和 Linux内核 开发人员合作非常好，所有 Intel 无线网卡芯
 如果您的芯片厂商以上均未提及，搜索网页 <i>opensuse [您的芯片型号]</i> ，您很可能找到如何让该芯片工作的信息。
 <br /><br />
 其他建议：有些厂商懒得提供Linux驱动，可以通过 <b>ndiswrapper</b> 项目获得无线网卡驱动支持。ndiswrapper 与 ntfs-3g 类似，在 Linux 下通过加载给Windows系统开发的网卡驱动，来使无线网卡工作：<br />
-<a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Main_Page" target="_blank">
+<a href="https://sourceforge.net/projects/ndiswrapper/" target="_blank">
 ndiswrapper主页
 </a><br />
 <a href="http://en.opensuse.org/SDB:Ndiswrapper" target="_blank">

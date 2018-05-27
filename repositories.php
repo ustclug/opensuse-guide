@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -264,8 +264,8 @@ function googleTranslateElementInit() {
 <ul>
 
     <li>
-        <b><a href="http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_Leap_42.3/" target="_blank">
-        http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_Leap_42.3/
+        <b><a href="http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_Leap_15.0/" target="_blank">
+        http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_Leap_15.0/
         </a></b>
     </li>
 
@@ -277,15 +277,15 @@ function googleTranslateElementInit() {
     </li>
 
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_42.3/" target="_blank">
-        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_42.3/
+        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.0/" target="_blank">
+        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.0/
         </a>
     </li>
 --> 
 <!--
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/stecue/openSUSE_42.3/" target="_blank">
-        http://download.opensuse.org/repositories/home:/stecue/openSUSE_42.3/
+        <a href="http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.0/" target="_blank">
+        http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.0/
         </a>
     </li>
 -->
@@ -293,13 +293,13 @@ function googleTranslateElementInit() {
 
     
     <li>
-        <a href="http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_42.3/" target="_blank">
-        http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_42.3/
+        <a href="http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_15.0/" target="_blank">
+        http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_15.0/
         </a>（华中科技大学Packman源）
     </li>
     <li>
-        <a href="http://download.videolan.org/pub/vlc/SuSE/Leap_42.3/" target="_blank">
-        http://download.videolan.org/pub/vlc/SuSE/Leap_42.3/
+        <a href="http://download.videolan.org/pub/vlc/SuSE/Leap_15.0/" target="_blank">
+        http://download.videolan.org/pub/vlc/SuSE/Leap_15.0/
         </a>（Videolan 官方源）
     </li>
 </ul>
@@ -342,13 +342,13 @@ function googleTranslateElementInit() {
 <br /><br />
 
 使用命令 <i>zypper addrepo -f [URL] [Alias]</i> （Alias是自己给这个源随便定义的英文名）添加软件源并开启自动刷新，如：
-<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_42.3/  packman</div><br />
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.0/  packman</div><br />
 
 使用命令 <i>zypper modifyrepo -d [URL或者Alias]</i> 禁用一个软件源，如：
 <div class="clroot">zypper modifyrepo -d Packman</div><br />
 
 使用命令 <i>zypper removerepo [URL或者Alias]</i> 删除一个软件源： 
-<div class="clroot">zypper removerepo http://packman.inode.at/suse/openSUSE_Leap_42.3/ </div><br />
+<div class="clroot">zypper removerepo http://packman.inode.at/suse/openSUSE_Leap_15.0/ </div><br />
 
 列出配置的软件源，显示详情（优先级、网址等等）：
 <div class="cl">zypper repos -d</div><br />

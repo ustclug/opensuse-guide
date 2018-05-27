@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -188,11 +188,11 @@ Mozilla Firefox 是 openSUSE 下的默认网络浏览器。它是最主流的浏
 
 <center><a href="images/screenshots/firefox.png" rel="thumbnail"><img src="images/screenshots/firefoxb.png" alt="firefox" class="pic" /></a></center><br />
 
-其他可选的：Rekonq, Opera, 
+其他可选的：Opera, 
 <a href="http://www.google.com/chrome?platform=linux" target="_blank">
 Chrome
 </a>
-, Chromium, Konqueror<br /><br />
+, Chromium, Falkon, Konqueror<br /><br />
 
 <div class="heading2">6.2 使用LibreOffice进行日常办公</div>
 LibreOffice 是一个完整的 Office 办公套装，包括文字处理、表格处理、幻灯片、画图以及其他套件，并与微软的 Office 良好兼容。
@@ -219,7 +219,7 @@ Amarok 是一个功能强大的音乐播放器，并拥有很完善的音乐管�
 
 <center><a href="images/screenshots/amarok.png" rel="thumbnail"><img src="images/screenshots/amarokb.png" alt="amarok" class="pic" /></a></center><br />
 
-其他可选的：Clementine, JuK, Qmmp和Audacious，Tomahawk，
+其他可选的：Elisa, Clementine, JuK, Qmmp和Audacious，Tomahawk，
 <a href="https://sourceforge.net/projects/iceplayer/" target="_blank">
 iceplayer
 </a>
@@ -234,16 +234,16 @@ osd-lyrics
 </a>
 <br /><br />
 
-<div class="heading2">6.4 使用Dragon Player看视频</div>
-Dragon Player 可以播放电影和DVD等视频。后面章节中会介绍如何安装解码器。
-安装解码器时可以一起安装 MPlayer、SMPlayer和VLC Player。<br /><br />
+<div class="heading2">6.4 使用 VLC 或 Dragon 播放器看视频</div>
+默认安装了 VLC 播放器，用于播放电影和DVD等视频，当然 Dragon 播放器也可以。后面章节中会介绍如何安装解码器。
+安装解码器时可以一起安装 MPlayer、SMPlayer。<br /><br />
 
-<center><a href="images/screenshots/dragon.png" rel="thumbnail"><img src="images/screenshots/dragonb.png" alt="Dragon" class="pic" /></a></center><br />
+<center><a href="images/screenshots/vlc.png" rel="thumbnail"><img src="images/screenshots/vlcb.png" alt="VLC" class="pic" /></a></center><br />
 
 其他可选的：MPlayer，SMPlayer, 
 <a href="http://www.videolan.org/vlc/download-suse.html"  target="_blank">
-VLC</a>
-, UMPlayer, mpv<br /><br />
+VLC官网版本</a>
+, UMPlayer, mpv, Kaffeine<br /><br />
 
 
 <div class="heading2">6.5 使用GIMP编辑图片</div>
@@ -265,7 +265,7 @@ GIMP 可以作为单一窗口工作，简单点击菜单"窗口" (Windows) ，�
 </table>
 </div><br />
 
-其他可选的：Gwenview (只有基本的编辑功能 - 调整大小、 修剪、减轻红眼等)<br /><br />
+其他可选的：Gwenview (只有基本的编辑功能 - 调整大小、 修剪、减轻红眼等)，Krita (主要用于绘图)<br /><br />
 
 
 
@@ -276,7 +276,7 @@ Kontact 的每个组件（KMail, KOrganizer, Akregator 等）也可以作为独�
 
 <center><a href="images/screenshots/kontact.png" rel="thumbnail"><img src="images/screenshots/kontactb.png" alt="kontact" class="pic" /></a></center><br />
 
-其他可选的：Mozilla Thunderbird（火鸟邮件客户端）<br /><br />
+其他可选的：Mozilla Thunderbird（火鸟邮件客户端），Trojita (仅支持 IMAP)，Claws-mail<br /><br />
 
 
 <!--

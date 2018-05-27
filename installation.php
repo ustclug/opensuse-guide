@@ -47,7 +47,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -286,7 +286,7 @@ ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普
 	<table>
 	<tr>
 		<td width="205" valign="top"><a href="images/installation/dvd/inst-desktop.png" rel="thumbnail"><img src="images/installation/dvd/inst-desktopb.png" alt="inst-desktop" class="pic" /></a></td>
-		<td valign="top">GNU/Linux 下有不同的用户界面（桌面环境）供您选择，而 KDE 是 openSUSE 下的默认选择，大约 70% 的 openSUSE 用户是使用 KDE 桌面，这也是本站指南主要关注的。
+		<td valign="top">GNU/Linux 下有不同的用户界面（桌面环境）供您选择，而 KDE 是 openSUSE 下的默认选择，大约 70% 的 openSUSE 用户是使用 KDE Plasma 桌面，这也是本站指南主要关注的。
 但您也可以选择 GNOME 或者基于文本的服务器界面进行安装。
 
 <br />

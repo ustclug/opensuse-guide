@@ -9,7 +9,7 @@
 
 <head>
 
-<title>1. 简介 - openSUSE Leap 42.3 / SUSE Linux 新手指南</title>
+<title>1. 简介 - openSUSE Leap 15.0 / SUSE Linux 新手指南</title>
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年1月18日</div>
+<div class="content-text">最后更新：2018年5月27日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -182,7 +182,7 @@ openSUSE Leap 是一个基于GNU/Linux的计算机操作系统。相对于微软
 openSUSE Leap 是最主要的GNU/Linux发行版之一，并且也是历史最为悠久的发行版之一。
 openSUSE Leap 使用源自 SUSE Linux Enterprise 的内核系统，但带有最新的硬件支持、桌面环境和图形程序。
 每年发布一个主补丁包，并且每隔 3-4 年发布新的主发行版并更新内核系统。
-（注：从版本 openSUSE 13.2 到 openSUSE Leap 42.1 是大的跨越，版本号和发布方式都有很大变化，但对用户使用体验没啥区别。）<br /><br />
+（注：从版本 openSUSE Leap 42.3 到 openSUSE Leap 15.0 ，版本号有很大变化，但对用户使用体验没啥区别。）<br /><br />
 
 对富有经验和喜欢冒险的 GNU/Linux 用户，如果想要他们的操作系统冒点风险并体验刀尖上的艺术，
 可以试用滚动发行的 openSUSE 版本，称为
@@ -192,13 +192,14 @@ openSUSE Leap 是由社区志愿者和 SUSE 公司雇员一起公开、透明地
 
 
 <div class="heading2">1.2 本指南其他语言版本（衍生版）</div>
-<ul>
-<li><a href="http://dafter.co.nf/wp/" target="_blank">阿拉伯语版本（Sadig Osman）</a></li>
-<li><a href="https://victorhck.gitlab.io/guia_openSUSE/" target="_blank">西班牙语版本（victorhck）</a></li>
-</ul>
-另外，opensuse-guide 英文网站源代码地址为：<br />
+本指南源代码任何人都可以获取，但要注意遵循 GNU 自由文档许可证，opensuse-guide 英文网站源代码地址为：<br />
  <a href="https://github.com/cb400f/opensuse-guide.org" target="_blank">
 https://github.com/cb400f/opensuse-guide.org</a><br /><br />
+这样便于您修改或翻译形成自己的版本，比如下面西班牙语版本的指南：
+
+<ul>
+<li><a href="https://victorhck.gitlab.io/guia_openSUSE/" target="_blank">西班牙语版本（victorhck）</a></li>
+</ul>
 
 
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
