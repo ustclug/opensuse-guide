@@ -215,7 +215,7 @@ http://en.opensuse.org/SDB:NVIDIA_drivers
 <br /><br />
 
 首先添加如下软件源：
-<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/42.3 nvidia</div><br />
+<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/15.0 nvidia</div><br />
 
 然后执行如下智能安装命令：
 <div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/15.0</div><br />
