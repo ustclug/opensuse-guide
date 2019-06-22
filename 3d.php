@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年5月27日</div>
+<div class="content-text">最后更新：2019年6月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -189,16 +189,21 @@ function googleTranslateElementInit() {
 <br /><br />
 <div class="heading3">15.1.1 一键安装 Nvidia 显卡驱动</div>
 <br />
- Geforce 400 系列以及之后的新显卡：
-<center><a href="http://opensuse-community.org/nvidia.ymp"><img src="images/oneclick/nvidia_gf400.png" alt="ymp" class="pic" /></a></center><br />
+ Geforce 600 系列以及之后的显卡，
+ <a href="https://www.nvidia.com/Download/driverResults.aspx/145182/en-us" target="_blank">
+见支持产品列表：</a> <br /><br />
+<center><a href="http://opensuse-community.org/nvidia_G05.ymp"><img src="images/oneclick/nvidia.png" alt="ymp" class="pic" /></a></center><br />
 
-Geforce 8 系列以及之后的显卡，大约2008年之后，包括 GeForce 8, GeForce 100-, 200- and 300-系列：<br /><br />
-<center><a href="http://opensuse-community.org/nvidia_gf8.ymp"><img src="images/oneclick/nvidia-gf8.png" alt="ymp" class="pic" /></a></center><br />
+Geforce 400 系列以及之后的显卡，
+<a href="https://www.nvidia.com/Download/driverResults.aspx/142567/en-us" target="_blank">
+见支持产品列表：</a> <br /><br />
+<center><a href="http://opensuse-community.org/nvidia_G04.ymp"><img src="images/oneclick/nvidia.png" alt="ymp" class="pic" /></a></center><br />
 
-<!--
-Geforce 6 和 7 系列、以及更老的显卡，大约2007年和之前的系列：<br /><br />
-<center><a href="http://opensuse-community.org/nvidia-gf6_gf7.ymp"><img src="images/oneclick/nvidia-gf6.png" alt="ymp" class="pic" /></a></center><br />
--->
+Geforce 8XXX 系列以及之后的显卡，
+<a href="https://www.nvidia.com/Download/driverResults.aspx/135161/en-us" target="_blank">
+见支持产品列表：</a> <br /><br />
+<center><a href="http://opensuse-community.org/nvidia_G03.ymp"><img src="images/oneclick/nvidia.png" alt="ymp" class="pic" /></a></center><br />
+
 
 之后重启您的电脑。<br /><br />
 
@@ -215,10 +220,10 @@ http://en.opensuse.org/SDB:NVIDIA_drivers
 <br /><br />
 
 首先添加如下软件源：
-<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/15.0 nvidia</div><br />
+<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/15.1 nvidia</div><br />
 
 然后执行如下智能安装命令：
-<div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/15.0</div><br />
+<div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/15.1</div><br />
 
 安装完之后重启。<br /><br />
 

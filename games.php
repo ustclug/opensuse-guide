@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年5月27日</div>
+<div class="content-text">最后更新：2019年6月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -171,7 +171,7 @@ function googleTranslateElementInit() {
   <a href="repositories.php">软件源</a> 章节所述。<br /><br />
 
 或者使用命令行添加游戏源：
-<div class="clroot">zypper addrepo -f http://download.opensuse.org/repositories/games/openSUSE_Leap_15.0/ games</div><br />
+<div class="clroot">zypper addrepo -f http://download.opensuse.org/repositories/games/openSUSE_Leap_15.1/ games</div><br />
 
 <div class="heading3">B.1.2 Steam 游戏平台和商店</div>
 Steam游戏平台已经发布Linux版本，并已经在Linux启用如

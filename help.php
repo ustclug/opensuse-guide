@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年5月27日</div>
+<div class="content-text">最后更新：2019年6月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -207,8 +207,8 @@ http://zh.opensuse.org/
 <a href="https://linux.cn/" target="_blank">
 https://linux.cn/ （Linux.中国 开源社区）
 </a><br>
-<a href="http://www.linuxdiyf.com/bbs/" target="_blank">
-http://www.linuxdiyf.com/bbs/ （红联社区）
+<a href="http://www.linuxdiyf.com/" target="_blank">
+http://www.linuxdiyf.com/ （红联Linux门户）
 </a><br />
 <a href="http://linux.ubuntu.org.cn/" target="_blank">
 http://linux.ubuntu.org.cn/ （Linux网站导航）

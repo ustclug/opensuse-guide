@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年5月27日</div>
+<div class="content-text">最后更新：2019年6月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -146,9 +146,9 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="content-title">openSUSE 15.0 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 15.1 coming soon:</div><br />
 
-<center><a href="http://en.opensuse.org/Portal:15.0"><img src="http://counter.opensuse.org/15.0/small" border="0" alt="countdown" /></a></center><br />
+<center><a href="http://en.opensuse.org/Portal:15.1"><img src="http://counter.opensuse.org/15.1/small" border="0" alt="countdown" /></a></center><br />
 -->
 
 </div>
@@ -168,17 +168,17 @@ DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 
 <br /><br /> 
 在国内可以通过网易、清华和中国科学技术大学的镜像下载：<br />
-<a href="http://mirrors.163.com/openSUSE/distribution/leap/15.0/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/15.0/iso/
+<a href="http://mirrors.163.com/openSUSE/distribution/leap/15.1/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/15.1/iso/
 </a><br />
 
-<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.0/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.0/iso/
+<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.1/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.1/iso/
 </a><br />
 
-<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.0/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.0/iso/
+<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.1/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.1/iso/
 </a><br />
 
 安装到硬盘或虚拟机的话，下载<br />
-<b>openSUSE-Leap-15.0-DVD-x86_64.iso  </b>。<br />
+<b>openSUSE-Leap-15.1-DVD-x86_64.iso  </b>。<br />
 其他所有的ISO文件基本可以无视，别下载错了哦！<br />
 注：因为最新的 openSUSE Leap 使用企业版内核，所以目前全部是 64 位的系统。
 <br /><br />
@@ -194,7 +194,7 @@ DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 <a href="http://www.osdisc.com/cgi-bin/view.cgi/products/linux/suse" target="_blank">OSDisc.com</a><br />
 <a href="http://www.ixsoft.de/cgi-bin/web_store.cgi?ref=Catalogs/de/opensuse-catalog.html" target="_blank">Ixsoft.de</a><br />
 <a href="http://thelinuxshop.co.uk/opensuse-m-14.html" target="_blank">Thelinuxshop.co.uk</a><br />
-<a href="http://www.taobao.com/" target="_blank">
+<a href="https://s.taobao.com/search?q=opensuse" target="_blank">
 淘宝网
 </a>（搜索：openSUSE）<br />
 <br />
@@ -202,15 +202,15 @@ DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 <div class="heading2">3.3 购买盒装软件</div>
 有公司出售带服务支持和附加的好东西的盒装openSUSE，请看：
 <br />
-<a href="http://en.opensuse.org/Buy_openSUSE" target="_blank">http://en.opensuse.org/Buy_openSUSE</a><br /><br />
+<a href="http://en.opensuse.org/Buy_openSUSE" target="_blank">http://en.opensuse.org/Buy_openSUSE</a><br />
 
-<center><img src="images/pics/box.png" /></center><br />
+<center><img src="images/pics/box.png" width="220"/></center><br />
 
 <div class="heading2">3.4 源代码</div>
 从这可以找到openSUSE中的所有开源软件的源代码，均以 RPM 文件的形式提供：
 <br />
-<a href="http://download.opensuse.org/source/distribution/leap/15.0/repo/oss/src/" target="_blank">
-http://download.opensuse.org/source/distribution/leap/15.0/repo/oss/src/</a>
+<a href="http://download.opensuse.org/source/distribution/leap/15.1/repo/oss/src/" target="_blank">
+http://download.opensuse.org/source/distribution/leap/15.1/repo/oss/src/</a>
 
 
 <br /><br />

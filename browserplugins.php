@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2018年5月27日</div>
+<div class="content-text">最后更新：2019年6月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -181,7 +181,7 @@ Flash被应用到大量网站的嵌入视频、动画、游戏，有时甚至是
 <br /><br />
 
 在终端命令行安装 Flash 需要两句命令：
-<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.0/ packman</div><br />
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.1/ packman</div><br />
 <div class="clroot">zypper install freshplayerplugin</div><br />
 <br />
 
