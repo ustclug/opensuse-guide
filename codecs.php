@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2019年6月22日</div>
+<div class="content-text">最后更新：2020年8月13日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -170,11 +170,22 @@ function googleTranslateElementInit() {
 1）点击下面按钮，即可一键安装多媒体编解码器。
 <br /><br />
 
-<center><a href="http://opensuse-community.org/codecs-kde.ymp"><img src="images/oneclick/codec-kde.png" alt="ymp" class="pic" />
+<center><a href="https://www.opensuse-community.org/codecs-kde.ymp"><img src="images/oneclick/codec-kde.png" alt="ymp" class="pic" />
 </a></center><br />
 
-<center><a href="http://opensuse-community.org/codecs-gnome.ymp"><img src="images/oneclick/codec-gnome.png" alt="ymp" class="pic" />
+<center><a href="https://www.opensuse-community.org/codecs-gnome.ymp"><img src="images/oneclick/codec-gnome.png" alt="ymp" class="pic" />
 </a></center><br />
+
+<div class="tip">
+<table>
+<tbody>
+<tr>
+<td><img src="images/pics/tip.png" alt="tip" /></td>
+<td> 目前一键安装器仅能在 Firefox 网页浏览器中使用，其他浏览器请右键点击上面按钮，选择“链接另存为”，将链接的 ymp 文件保存到本地硬盘使用。</td>
+</tr>
+</tbody>
+</table>
+</div><br />
 
 <div class="tip">
 <table>
@@ -194,8 +205,8 @@ function googleTranslateElementInit() {
 另外说明一下，Packman源上还有经典的音频视频播放器，如 Audacious、MPlayer、SMPlayer等，还有XVID、VLC、w32codec等很多很好的编解码器，可以一起安装。还有些游戏等，资源很丰富，建议多看看。
 <br />
 另外推荐Videolan官方源：<br />
-<a href="http://download.videolan.org/pub/vlc/SuSE/Leap_15.1/" target="_blank">
-    http://download.videolan.org/pub/vlc/SuSE/Leap_15.1/
+<a href="http://download.videolan.org/pub/vlc/SuSE/Leap_15.2/" target="_blank">
+    http://download.videolan.org/pub/vlc/SuSE/Leap_15.2/
 </a>
 
 <br/><br/>
@@ -216,21 +227,20 @@ function googleTranslateElementInit() {
 </div><br />
 
 1) 添加必需的软件源： 
-<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.1/ packman</div>
-<div class="clroot">zypper addrepo -f http://opensuse-guide.org/repo/openSUSE_Leap_15.1/ dvd</div>
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.2/ packman</div>
+<div class="clroot">zypper addrepo -f http://opensuse-guide.org/repo/openSUSE_Leap_15.2/ dvd</div>
 <br />
 
 2) 然后安装必需的软件包： 
-<div class="clroot">zypper install --allow-vendor-change ffmpeg lame gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-plugins-ugly-orig-addon gstreamer-plugins-libav libavdevice56 libavdevice58 libdvdcss2 vlc-codecs</div>
-<br />
+<div class="clroot">zypper install --allow-vendor-change ffmpeg-3 lame gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-plugins-ugly-orig-addon gstreamer-plugins-libav libavdevice58 libdvdcss2 vlc-codecs</div><br />
 
 3) 执行如下命令确保您的多媒体软件包都是来自 Packman 软件源：
-<div class="clroot">zypper dup --allow-vendor-change --from http://packman.inode.at/suse/openSUSE_Leap_15.1/</div>
+<div class="clroot">zypper dup --allow-vendor-change --from http://packman.inode.at/suse/openSUSE_Leap_15.2/</div>
 <br /><br />
 
 openSUSE社区的关于支持多媒体格式和常用一键安装的指南：<br />
-<a href="http://opensuse-community.org/" target="_blank">
-http://opensuse-community.org/
+<a href="https://www.opensuse-community.org/" target="_blank">
+https://www.opensuse-community.org/
 </a>
 <br /><br />
 

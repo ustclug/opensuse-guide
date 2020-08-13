@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2019年6月22日</div>
+<div class="content-text">最后更新：2020年8月13日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -206,6 +206,9 @@ GNU/Linux已经被形容为 "world wide team sport"，由全世界的优秀程�
 有些则由非商业组织维护。这些不同的发行版本可以运行在不同类型的计算机上，
 比如手机、个人计算机甚至超级电脑。我们甚至可以根据自己的爱好和需要选择不同的桌面环境，以更好的完成我们的工作。</li>
 
+	<li><span style="font-weight: bold;">保护隐私</span> - 
+自由软件通常尊重您的隐私，并且公开可以访问的代码针对后门木马提供了防护，闭源软件植入后门难以发现，而开源软件通常不存在这些问题。</li>
+
 	<li><span style="font-weight: bold;">尝新</span> - 
 或许仅仅是为了不断的尝试一些新的或者不同的东西，成为很多人最原始的动机。</li>
 	
@@ -289,6 +292,8 @@ GNU/Linux已经被形容为 "world wide team sport"，由全世界的优秀程�
 		<a href="http://www.scribus.net/" target="_blank">Scribus</a> (桌面排版)<br />
 		<a href="http://gnucash.org/" target="_blank">GnuCash</a> (个人/小型财务软件)<br />
 		<a href="http://code.google.com/p/ofetion/" target="_blank">OpenFetion</a>(飞信) <br />
+		<a href="https://www.qgis.org/" target="_blank">QGIS</a>(开源地理信息系统) <br />
+		<a href="http://www.openscenegraph.org/" target="_blank">OpenSceneGraph </a>(3D场景绘图仿真平台) <br />
 		</td>
 	
 	<td valign="top">
@@ -310,6 +315,7 @@ GNU/Linux已经被形容为 "world wide team sport"，由全世界的优秀程�
 		<a href="http://www.stellarium.org/" target=_blank">Stellarium</a> (天文馆)<br />
 		<a href="http://qt.nokia.com/title-cn?set_language=zh&cl=zh" target="_blank">Qt Creator</a>(Qt编程)<br />
 		<a href="http://www.eclipse.org/" target="_blank">Eclipse</a>(集成开发环境) <br />
+		<a href="https://www.flightgear.org/" target="_blank">FlightGear</a>(飞行模拟器软件) <br />
 
 	</td>
 	<td valign="top">

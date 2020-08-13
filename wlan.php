@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2019年6月22日</div>
+<div class="content-text">最后更新：2020年8月13日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -162,8 +162,8 @@ function googleTranslateElementInit() {
 <br /><br />
 
 openSUSE兼容无线网卡列表及安装支持：<br />
-<a href="http://en.opensuse.org/HCL:Network_(Wireless)" target="_blank">
-http://en.opensuse.org/HCL:Network_(Wireless)
+<a href="https://en.opensuse.org/HCL:Network_(Wireless)" target="_blank">
+https://en.opensuse.org/HCL:Network_(Wireless)
 </a>
 <br /><br />
 
@@ -224,14 +224,11 @@ Intel 和 Linux内核 开发人员合作非常好，所有 Intel 无线网卡芯
 <a href="https://sourceforge.net/projects/ndiswrapper/" target="_blank">
 ndiswrapper主页
 </a><br />
-<a href="http://en.opensuse.org/SDB:Ndiswrapper" target="_blank">
+<a href="https://en.opensuse.org/SDB:Ndiswrapper" target="_blank">
 openSUSE官方的 Ndiswrapper 安装和使用说明书
 </a><br />
 ndiswrapper安装示例：<br />
-<a href="http://os.51cto.com/art/201006/205048.htm" target="_blank">
-openSUSE 无线网卡安装的具体实现
-</a><br />
-<a href="http://cn.opensuse.org/%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%E5%AE%89%E8%A3%85" target="_blank">
+<a href="https://cn.opensuse.org/%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%E5%AE%89%E8%A3%85" target="_blank">
 OpenSUSE 无线网卡安装
 </a>
 <br /><br />

@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2019年6月22日</div>
+<div class="content-text">最后更新：2020年8月13日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -181,7 +181,7 @@ Flash被应用到大量网站的嵌入视频、动画、游戏，有时甚至是
 <br /><br />
 
 在终端命令行安装 Flash 需要两句命令：
-<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.1/ packman</div><br />
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.2/ packman</div><br />
 <div class="clroot">zypper install freshplayerplugin</div><br />
 <br />
 
@@ -189,10 +189,10 @@ Flash被应用到大量网站的嵌入视频、动画、游戏，有时甚至是
 Java的网页程序用于游戏、一些国家的网上银行和其他各种用途。
 <br /><br />
 
-使用软件包管理器安装 <b>java-1_8_0-openjdk-plugin</b> 包，如果它没被安装的话。<br /><br />
+使用软件包管理器安装 <b>icedtea-web</b> 包，如果它没被安装的话。<br /><br />
 
 在终端命令行安装 Java 浏览器插件：
-<div class="clroot">zypper install java-1_8_0-openjdk-plugin</div><br />
+<div class="clroot">zypper install icedtea-web</div><br />
 
 
 <div class="heading2">14.3 视频和音频流（浏览器播放）</div>
