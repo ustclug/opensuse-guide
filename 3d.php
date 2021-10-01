@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2020年8月13日</div>
+<div class="content-text">最后更新：2021年10月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -184,10 +184,23 @@ function googleTranslateElementInit() {
 <br /><br />
 
 <font color="red"> <b>
-请注意：所有采用 Nvidia Optimus 技术的笔记本电脑显卡都不要按下面方式装官方驱动，因为 Nvidia 官方的 Linux 驱动目前不支持 Optimus 技术，虽然有计划支持，但需要时间。Optimus技术非官方支持见15.1.3节。</b>
+请注意：所有采用 Nvidia Optimus 技术的笔记本电脑显卡支持见 15.1.3 节。</b>
 </font>
 <br /><br />
 <div class="heading3">15.1.1 一键安装 Nvidia 显卡驱动</div>
+
+根据您电脑的显卡型号点击相应的一键安装按钮。<br /><br />
+<div class="tip">
+<table>
+<tbody>
+<tr>
+<td><img src="images/pics/tip.png" alt="tip" /></td>
+<td>目前一键安装按钮仅能在 <b>Firefox 火狐网页浏览器</b> 里面使用。</td>
+</tr>
+</tbody>
+</table>
+</div><br />
+
 <br />
  Geforce 600 系列以及之后的显卡，
  <a href="https://www.nvidia.com/Download/driverResults.aspx/145182/en-us" target="_blank">
@@ -199,11 +212,6 @@ Geforce 400 系列以及之后的显卡，
 见支持产品列表：</a> <br /><br />
 <center><a href="https://opensuse-community.org/nvidia_G04.ymp"><img src="images/oneclick/nvidia.png" alt="ymp" class="pic" /></a></center><br />
 
-Geforce 8XXX 系列以及之后的显卡，（仅支持 openSUSE Leap 15.1、15.0、42.3 版本的系统）
-<a href="https://www.nvidia.com/Download/driverResults.aspx/135161/en-us" target="_blank">
-见支持产品列表：</a> <br /><br />
-<center><a href="https://www.opensuse-community.org/nvidia_G03.ymp"><img src="images/oneclick/nvidia.png" alt="ymp" class="pic" /></a></center><br />
-
 
 之后重启您的电脑。<br /><br />
 
@@ -211,7 +219,12 @@ openSUSE官方的Nvidia显卡详细安装指南：<br />
 <a href="https://en.opensuse.org/SDB:NVIDIA_drivers" target="_blank">
 https://en.opensuse.org/SDB:NVIDIA_drivers
 </a>
-<br /><br />
+<br />
+<a href="https://opensuse.github.io/openSUSE-docs-revamped-temp/install_proprietary/" target="_blank">
+https://opensuse.github.io/openSUSE-docs-revamped-temp/install_proprietary/
+</a>
+<br />
+<br />
 
 <div class="heading3">15.1.2 终端命令行安装 Nvidia 驱动</div>
 
@@ -220,34 +233,19 @@ https://en.opensuse.org/SDB:NVIDIA_drivers
 <br /><br />
 
 首先添加如下软件源：
-<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/15.2 nvidia</div><br />
+<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/15.3 nvidia</div><br />
 
 然后执行如下智能安装命令：
-<div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/15.2</div><br />
+<div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/15.3</div><br />
 
 安装完之后重启。<br /><br />
 
-<div class="heading3">15.1.3 Optimus 与 Bumblebee</div>
+<div class="heading3">15.1.3 笔记本电脑双显卡Optimus</div>
 NVIDIA Optimus 是NVIDIA 公司2010年发布的独立显卡和集成显卡热切换技术，通常用于笔记本电脑，在游戏时双显卡同时工作，而平时图形计算负担轻时只使用Intel集成显卡，达到省电的效果。<br />
-在Optimus技术发布之初，Nvidia宣布Optimus技术不支持Linux平台。2012年Nvidia公司被Linus竖中指后，洗心革面，随后改口称将Optimus技术将会支持Linux平台，但是目前还未发布相应驱动包。<br />
-在当初Nvidia称Optimus技术不支持Linux平台之后，2011年开源项目“Bumblebee”启动，在Linux支持Optimus技术。当然，这是非官方的，也是不受Nvidia官方支持的。<br />
-如今 Bumblebee 项目已经比较成熟，最新版3.2.1，可以较好地支持Optimus技术。Bumblebee的官网：<br />
-<a href="https://bumblebee-project.org/" target="_blank">
-https://bumblebee-project.org/
-</a>
+详细的双显卡驱动安装指南见如下网页：
 <br />
-Bumblebee的维基页面：<br />
-<a href="https://github.com/Bumblebee-Project/Bumblebee/wiki" target="_blank">
-https://github.com/Bumblebee-Project/Bumblebee/wiki
-</a>
-<br />
-在OpenSUSE上的安装包和安装方法见：<br />
-<a href="https://software.opensuse.org/package/bumblebee" target="_blank">
-https://software.opensuse.org/package/bumblebee
-</a>
-<br />
-<a href="https://zh.opensuse.org/SDB:Bumblebee" target="_blank">
-https://zh.opensuse.org/SDB:Bumblebee
+<a href="https://opensuse.github.io/openSUSE-docs-revamped-temp/hybrid_graphics/" target="_blank">
+https://opensuse.github.io/openSUSE-docs-revamped-temp/hybrid_graphics/
 </a>
 <br />
 <br />
@@ -258,7 +256,9 @@ https://zh.opensuse.org/SDB:Bumblebee
 
 
 <div class="heading2">15.2 ATI(AMD)</div>
-操作系统自带的开源驱动能够很好地支持 AMD 显卡硬件，不需要安装闭源专有驱动。<br /><br />
+操作系统自带的开源驱动能够很好地支持 AMD 显卡硬件，大多数情况下不需要安装闭源专有驱动。
+对于一些非常新的显卡，您可能需要一个专有驱动，安装指南见如下网页：<br />
+<a href="https://en.opensuse.org/SDB:AMDGPU-PRO" target="_blank">https://en.opensuse.org/SDB:AMDGPU-PRO</a><br /><br />
 
 openSUSE官方的ATI(AMD)显卡详细安装指南：<br />
 <a href="https://en.opensuse.org/SDB:ATI_drivers" target="_blank">

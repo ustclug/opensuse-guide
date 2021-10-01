@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2020年8月13日</div>
+<div class="content-text">最后更新：2021年10月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -264,6 +264,10 @@ function googleTranslateElementInit() {
 更多关于 zypper 命令使用说明请参考：<br />
 <a href="https://en.opensuse.org/SDB%3aZypper_usage" target="_blank">
 https://en.opensuse.org/SDB%3aZypper_usage
+</a>
+<br />
+<a href="https://opensuse.github.io/openSUSE-docs-revamped-temp/zypper/" target="_blank">
+https://opensuse.github.io/openSUSE-docs-revamped-temp/zypper/
 </a>
 <br />
 <br />

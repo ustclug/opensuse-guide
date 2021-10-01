@@ -9,7 +9,7 @@
 
 <head>
 
-<title>1. 简介 - openSUSE Leap 15.2 / SUSE Linux 新手指南</title>
+<title>1. 简介 - openSUSE Leap 15.3 / SUSE Linux 新手指南</title>
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2020年8月13日</div>
+<div class="content-text">最后更新：2021年10月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -167,8 +167,7 @@ function googleTranslateElementInit() {
 openSUSE 项目</a>
 或
 <a href="http://www.suse.com" target="_blank">
-SUSE LINUX Products GmbH（SUSE LINUX 产品有限责任公司）</a>
-或 Micro Focus International
+SUSE Software Solutions Germany GmbH（SUSE 软件解决方案德国有限责任公司）</a>
 官方提供。正如标题中所言，这只是一份非官方指南。<br /><br />
 
 希望它能对您有所帮助！<br /><br />
@@ -199,7 +198,6 @@ https://github.com/cb400f/opensuse-guide.org</a><br /><br />
 
 <ul>
 <li><a href="https://victorhck.gitlab.io/guia_openSUSE/" target="_blank">西班牙语版本（victorhck）</a></li>
-<li><a href="https://opensuse-guide.linwin.su/15.1/" target="_blank">俄语版本（Sergey Mironov）</a></li>
 <li><a href="https://alionetasso.github.io/opensuse-guide-fr/introduction" target="_blank">法语版本（Sébastien "sogal" Poher）</a></li>
 </ul>
 

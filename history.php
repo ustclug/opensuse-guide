@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2020年8月13日</div>
+<div class="content-text">最后更新：2021年10月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -337,7 +337,7 @@ openSUSE为Novell企业版的GNU/Linux产品提供了基础——
 <br /><br />
 
 在2010年，Novell 被 Attachmate 收购。该交易是在2011年4月完成的，Attachmate 最先的一个动作就是将 SUSE 拆成一个独立于 Novell 的业务部门，并将 SUSE 
-总部迁回到德国纽伦堡。2014年 Micro Focus 并购了 Attachmate，不过这件事对 SUSE 和 openSUSE 项目都没影响。
+总部迁回到德国纽伦堡。2014年 Micro Focus 并购了 Attachmate，不过这件事对 SUSE 和 openSUSE 项目都没影响。2019 年 Micro Focus 出售 SUSE 公司给 瑞典私募股权投资机构殷拓集团（EQT Partners），出售事件对 openSUSE 项目依然没有影响。
 <br /><br />
 
 在2014年，开发版分支 openSUSE Factory 已经发展到足够稳定，变成了可日常使用的滚动升级发行版，即 openSUSE Tumbleweed。

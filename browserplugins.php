@@ -181,7 +181,7 @@ Flash被应用到大量网站的嵌入视频、动画、游戏，有时甚至是
 <br /><br />
 
 在终端命令行安装 Flash 需要两句命令：
-<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.2/ packman</div><br />
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.3/ packman</div><br />
 <div class="clroot">zypper install freshplayerplugin</div><br />
 <br />
 

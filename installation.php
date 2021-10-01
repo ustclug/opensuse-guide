@@ -47,7 +47,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2020年8月13日</div>
+<div class="content-text">最后更新：2021年10月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -179,12 +179,10 @@ function googleTranslateElementInit() {
 
 <div class="heading3">4.1.2b 制作Live U盘</div>
 ISO 文件也可以用于制作可安装的U盘，需要的仅仅只是一个普通的优盘。
-根据您所使用的操作系统，可以查看相应的制作教程：<br />
-<ul>
-<li> openSUSE 或其他 Linux: <a href="http://en.opensuse.org/SDB:Live_USB_stick" target="_blank">http://en.opensuse.org/SDB:Live_USB_stick</a></li>
-<li> Microsoft Windows: <a href="https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Windows" target="_blank">https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Windows</a></li>
-<li> Mac OSX: <a href="https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Mac_OS_x" target="_blank">https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Mac_OS_x</a></li>
-</ul>
+根据您所使用的操作系统，例如 MS Windows, Apple MacOS, openSUSE 以及其他 GNU/Linux，可以查看相应的制作教程：<br />
+
+<a href="https://en.opensuse.org/Create_installation_USB_stick" target="_blank">https://en.opensuse.org/Create_installation_USB_stick</a></li><br /> <br />
+
 
 
 
@@ -483,8 +481,8 @@ Live CD/USB 有两种不同的安装模式，可以选择从启动菜单中直�
 <div class="heading2">4.3 升级安装</div>
 如果原来有低版本的openSUSE Linux，可以选择在线升级安装。
 openSUSE官方有教程：<br />
-<a href="http://en.opensuse.org/Upgrade" target="_blank">
-<b>http://en.opensuse.org/Upgrade</b>
+<a href="https://en.opensuse.org/SDB:System_upgrade" target="_blank">
+<b>https://en.opensuse.org/SDB:System_upgrade</b>
 </a> <br />
 从旧的系统升级到新的，看文中第5节：Running the Upgrade。<br />
 升级时，如果加入了Nvidia或Ati的显卡驱动源，以及Packman源，

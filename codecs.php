@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2020年8月13日</div>
+<div class="content-text">最后更新：2021年10月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -205,8 +205,8 @@ function googleTranslateElementInit() {
 另外说明一下，Packman源上还有经典的音频视频播放器，如 Audacious、MPlayer、SMPlayer等，还有XVID、VLC、w32codec等很多很好的编解码器，可以一起安装。还有些游戏等，资源很丰富，建议多看看。
 <br />
 另外推荐Videolan官方源：<br />
-<a href="http://download.videolan.org/pub/vlc/SuSE/Leap_15.2/" target="_blank">
-    http://download.videolan.org/pub/vlc/SuSE/Leap_15.2/
+<a href="http://download.videolan.org/pub/vlc/SuSE/Leap_15.3/" target="_blank">
+    http://download.videolan.org/pub/vlc/SuSE/Leap_15.3/
 </a>
 
 <br/><br/>
@@ -227,15 +227,15 @@ function googleTranslateElementInit() {
 </div><br />
 
 1) 添加必需的软件源： 
-<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.2/ packman</div>
-<div class="clroot">zypper addrepo -f http://opensuse-guide.org/repo/openSUSE_Leap_15.2/ dvd</div>
+<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.3/ packman</div>
+<div class="clroot">zypper addrepo -f http://opensuse-guide.org/repo/openSUSE_Leap_15.3/ dvd</div>
 <br />
 
 2) 然后安装必需的软件包： 
 <div class="clroot">zypper install --allow-vendor-change ffmpeg-3 lame gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-plugins-ugly-orig-addon gstreamer-plugins-libav libavdevice58 libdvdcss2 vlc-codecs</div><br />
 
 3) 执行如下命令确保您的多媒体软件包都是来自 Packman 软件源：
-<div class="clroot">zypper dup --allow-vendor-change --from http://packman.inode.at/suse/openSUSE_Leap_15.2/</div>
+<div class="clroot">zypper dup --allow-vendor-change --from http://packman.inode.at/suse/openSUSE_Leap_15.3/</div>
 <br /><br />
 
 openSUSE社区的关于支持多媒体格式和常用一键安装的指南：<br />
