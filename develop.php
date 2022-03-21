@@ -409,9 +409,9 @@ Linux下常用的C/C++语言的图形库就数Qt、Gtk+和wxWidgets了。这些�
 
 本节介绍Qt和QtCreator、KDevelop。Qt最初是奇趣公司开发的跨平台图形库。后来整个公司被Nokia买了，Nokia本打算利用Qt开发新的智能手机操作系统Meego，Meego不幸夭折了。Qt也被Nokia出卖给芬兰IT服务公司Digia。虽然遭遇各种变故，Qt的活力不减当年。<br /><br />
 
-Qt是KDE桌面的基石，开发Qt程序可以用简单的文本编辑器，也可用各种复杂的集成开发环境。QtCreator算是后起之秀，现在做的界面和功能都不错，建议使用。Qt开发库和QtCreator安装命令：<br />
-<div class="clroot">zypper  in  libqt4-devel  qt-creator   libqt4-devel-doc </div><br />
-需要注意磁盘空间，最后一个文档包体积较大，当然所带的英文资料也够丰富。（在Yast软件管理中搜索 qt5 可以找到 qt5 的开发库和工具。）
+Qt是KDE桌面的基石，开发Qt程序可以用简单的文本编辑器，也可用各种复杂的集成开发环境。QtCreator算是后起之秀，现在做的界面和功能都不错，建议使用。Qt基础开发库和QtCreator安装命令：<br />
+<div class="clroot">zypper  in  libqt5-qtbase-devel  libqt5-creator   libqt5-qtdoc-devel </div><br />
+需要注意磁盘空间，最后一个文档包体积较大，当然所带的英文资料也够丰富。（在Yast软件管理中搜索 qt5 可以找到 qt5 相关的开发库和工具。）
 <br /><br />
 
 <!--
@@ -423,7 +423,7 @@ zypper in  qt-creator  libqt4-sql-mysql libqt4-sql-postgresql libqt4-sql-unixODB
 
 KDevelop是比较全面的集成开发环境，KDevelop支持多种不同语言，其中包括C、C++、Perl、Python、PHP、Java、Fortran、Ruby、Ada、Pascal、SQL和Bash脚本。支持各种图形库编程，支持的构建系统包括GNU（automake）、cmake、qmake和自定义项目的make（如果您想使用自己的Makefile，KDevelop不会破坏它们的）以及不需要Makefile的脚本项目。安装命令：<br />
 <div class="clroot">
-zypper  in  kdevelop4  libkde4-devel  kdevelop4-devel  kdevelop4-plugins-php  kdevelop4-doc
+zypper  in  kdevelop5  kdevelop5-pg-qt  kdevelop5-plugin-php
 </div><br />
 安装后运行KDevelop可能会提示Git插件被禁用，因为没装Git。Git等版本控制系统后面介绍，这里先不管。默认的项目模板不多，其他语言支持的应该需要具体配置，参看其文档和主页：<br />
 <a href="http://www.kdevelop.org/"  target="_blank">
@@ -487,15 +487,16 @@ http://www.codelite.org/</a>  <br />
 
 
 <div class="heading2">17.8 Android开发环境</div>
-Android是著名的开源智能手机操作系统，Android SDK是其开发环境，如果要为Android开发软件包，可以在官网下载全套的ADT (Android Developer Tools)：<br />
-<a href="http://developer.android.com/sdk/index.html"  target="_blank">
-http://developer.android.com/sdk/index.html </a>  <br />
-32位系统下载 adt-bundle-linux-x86-*.zip，64位系统下载 adt-bundle-linux-x86_64-*.zip 。<br /><br />
+Android是著名的开源智能手机操作系统，Android SDK是其开发环境，如果要为Android开发软件包，可以在官网下载 Android Studio：<br />
+<a href="https://developer.android.com/studio"  target="_blank">
+https://developer.android.com/studio </a>  <br />
+Android Studio 仅支持64位系统。<br /><br />
   比如下载的是adt-bundle-linux-x86_64-20130219.zip，直接解压缩到当前用户目录的bin文件夹里，如 /home/suse123/bin/ ,然后进入目录 /home/suse123/bin/adt-bundle-linux-x86_64-20130219/eclipse/ ，直接运行里面的eclipse即可。由于openSUSE默认就装了openjdk到系统路径，所以不需要配置，就可以使用Android开发平台。<br /><br />
 
 <center><a href="picdev/android.png" rel="thumbnail"><img src="picdev/androids.png" alt="android" class="pic" /></a></center>
 <br />
 
+<!--
 上面方法是最简单的安装方式，ADT (Android Developer Tools)包含了Eclipse IDE、Android开发库、模拟器，应有尽有。还有一个稍微麻烦的安装方式。
 如果系统里面已经有了现成的openJDK和Eclipse，希望通过插件方式集成Android SDK Tools也是可以的，需要连网下载Eclipse插件，具体配置方式参考：<br />
 <a href="http://developer.android.com/sdk/installing/index.html"  target="_blank">
@@ -504,6 +505,7 @@ http://developer.android.com/sdk/installing/index.html</a><br />
 http://www.cnblogs.com/pharen/archive/2011/09/13/2174592.html</a><br />
 
 新手当然推荐第一种最简单的ADT (Android Developer Tools)，不需要配置，直接使用。
+-->
 
 <br /><br />
 
