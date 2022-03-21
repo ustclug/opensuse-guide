@@ -202,6 +202,10 @@ function googleTranslateElementInit() {
 </div><br />
 
 <br />
+ 10、20、30 系列等更新的显卡，请参考
+ <a href="https://zh.opensuse.org/SDB:NVIDIA_%E9%A9%B1%E5%8A%A8#.E4.BB.8E_NVIDIA_.E8.BD.AF.E4.BB.B6.E6.BA.90.E5.AE.89.E8.A3.85" target="_blank">
+ SDB:NVIDIA 驱动</a>，从 NVIDIA 软件源直接安装。
+
  Geforce 600 系列以及之后的显卡，
  <a href="https://www.nvidia.com/Download/driverResults.aspx/145182/en-us" target="_blank">
 见支持产品列表：</a> <br /><br />
