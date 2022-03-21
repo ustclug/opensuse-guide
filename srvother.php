@@ -206,8 +206,8 @@ write_enable=NO    改成   write_enable=YES
 
 <br /><br />
 附上FTP服务器配置参考文档：<br />
-<a href="http://activedoc.opensuse.org/book/opensuse-reference/chapter-21-setting-up-an-ftp-server-with-yast">
-http://activedoc.opensuse.org/book/opensuse-reference/chapter-21-setting-up-an-ftp-server-with-yast
+<a href="https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-ftp.html">
+https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-ftp.html
 </a>
 <br /><br />
 <div class="heading2">20.2 SSH服务器</div>
@@ -261,11 +261,15 @@ zypper  in    bind   yast2-dns-server
 
 转发对象的意思是，自己解析不了的域名解析请求转发给谁，去请求外面别的服务器解析。
 通常就设置自己本省市或上级的DNS服务器地址。
-可以找本地联通电信服务商询问他们的DNS，
+可以找本地联通电信服务商询问他们的DNS。
+<!--
+  链接已失效
 也可以参照网络帖子各省DNS地址：<br />
 <a href="http://service.cngrain.com/dns.html" target="_blank">
 http://service.cngrain.com/dns.html
-</a><br />
+</a>
+-->
+<br />
 
 这里以202.38.64.1为例子添加，当然还可以添加多个转发DNS服务器。
 添加了转发服务器之后，点击“下一步”。<br />
@@ -388,8 +392,8 @@ Address:        127.0.0.1#53<br />
 
 最后在局域网里就可以把其他机器的DNS地址改成这个DNS服务器的IP，那么其他机器就可以使用我们自己配置的DNS服务器了。<br />
 附上DNS服务器配置参考文档：<br />
-<a href="http://activedoc.opensuse.org/book/opensuse-reference/chapter-15-the-domain-name-system" target="_blank">
-http://activedoc.opensuse.org/book/opensuse-reference/chapter-15-the-domain-name-system
+<a href="https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-dns.html" target="_blank">
+https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-dns.html
 </a><br />
 
 <br /><br />
@@ -446,8 +450,8 @@ vncserver   -kill   :3<br />
 ……<br />
 <br />
 附上VNC服务器配置参考：<br />
-<a href="http://activedoc.opensuse.org/book/opensuse-reference/chapter-5-remote-access-with-vnc" target="_blank">
-http://activedoc.opensuse.org/book/opensuse-reference/chapter-5-remote-access-with-vnc
+<a href="https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-vnc.html" target="_blank">
+https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-vnc.html
 </a>
 <br /><br />
 
@@ -514,18 +518,18 @@ iRedMail涉及安装配置的软件也很丰富，使用的主要软件包括：
 注：由于openSUSE自带的Yast工具总是自动修改邮件服务器的配置文件，而Yast配置得却又不完善，
 和iRedMail脚本格格不入，iRedMail作者生气不再支持openSUSE配置邮件服务器，不过其他Linux上还是可以很好使用的。
 <br /><br />
-iRedMail官网（如果上不了就用
+iRedMail官网<!--（如果上不了就用
 <a href="http://q8daili.com/" target="_blank">
 在线HTTP代理
 </a>
-）：<br />
+）-->：<br />
 <a href="http://www.iredmail.org/" target="_blank">
 http://www.iredmail.org/ 
 </a><br />
-在openSUSE下的安装见：<br />
+<!-- 在openSUSE下的安装见：<br />
 <a href="http://www.iredmail.org/install_iredmail_on_opensuse.html" target="_blank">
 http://www.iredmail.org/install_iredmail_on_opensuse.html 
-</a><br />
+</a><br /> -->
 在Ubuntu下的介绍见：<br />
 <a href="http://wiki.ubuntu.org.cn/IRedMail" target="_blank">
 http://wiki.ubuntu.org.cn/IRedMail 
@@ -536,13 +540,13 @@ http://wiki.ubuntu.org.cn/IRedMail
 <div class="heading2">20.6 其他类型服务器配置参考</div>
 这里搜集一些其他类型服务器的配置参考，方便查看：<br />
 DHCP服务器：<br />
-<a href="http://activedoc.opensuse.org/book/opensuse-reference/chapter-16-dhcp " target="_blank">
-http://activedoc.opensuse.org/book/opensuse-reference/chapter-16-dhcp 
+<a href="https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-dhcp.html" target="_blank">
+https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-dhcp.html
 </a><br />
 
 NFS服务器：<br />
-<a href="http://activedoc.opensuse.org/book/opensuse-reference/chapter-18-sharing-file-systems-with-nfs " target="_blank">
-http://activedoc.opensuse.org/book/opensuse-reference/chapter-18-sharing-file-systems-with-nfs 
+<a href="https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-nfs.html" target="_blank">
+https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-nfs.html
 </a><br />
 
 SVN服务器：<br />
