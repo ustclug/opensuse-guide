@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2021年10月1日</div>
+<div class="content-text">最后更新：2022年3月22日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -233,19 +233,25 @@ OpenSUSE 无线网卡安装
 </a>
 <br /><br />
 
+<!--
+  链接已失效
 华为数据卡(3G上网卡)驱动及其安装参考：<br/>
 <a href="http://wenzhang.baidu.com/page/view?key=c5890dc0b8fd2b69-1427034931" target="_blank">华为ET302/ET302s在Linux下连网——原生简单的方法
 </a>
 <br /><br />
-
+-->
 
 
 <div class="heading2">16.7 连接无线局域网（WiFi连接和WiFi共享）</div>
 配置好驱动以后，就可以使用网络管理器连接到无线网。
-连接无线网和配置Ad Hoc网的逐步图文教程可以参考：<br />
+配置Ad Hoc网（Wi-Fi 共享）的逐步图文教程可以参考：
+<!--
+  链接已失效
+<br />
 <a href="http://wenzhang.baidu.com/page/view?key=cf1a6d550778ba6f-1426982496" target="_blank">
 openSUSE Linux连接无线局域网
 </a>
+-->
 <br />
 <a href="http://forum.suse.org.cn/viewtopic.php?f=5&t=408" target="_blank">
 openSUSE新建配置AdHoc无线局域网
