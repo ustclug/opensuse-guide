@@ -205,8 +205,8 @@ function googleTranslateElementInit() {
 另外说明一下，Packman源上还有经典的音频视频播放器，如 Audacious、MPlayer、SMPlayer等，还有XVID、VLC、w32codec等很多很好的编解码器，可以一起安装。还有些游戏等，资源很丰富，建议多看看。
 <br />
 另外推荐Videolan官方源：<br />
-<a href="http://download.videolan.org/pub/vlc/SuSE/Leap_15.3/" target="_blank">
-    http://download.videolan.org/pub/vlc/SuSE/Leap_15.3/
+<a href="http://download.videolan.org/pub/vlc/SuSE/SLEap_15.3/" target="_blank">
+    http://download.videolan.org/pub/vlc/SuSE/SLEap_15.3/
 </a>
 
 <br/><br/>
