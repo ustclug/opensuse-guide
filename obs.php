@@ -372,8 +372,8 @@ rm -rf %buildroot<br />
 - Build for 1.0.<br />
 </div><br />
 这倒数第二段的注释深深地出卖了我，这是从一个打包qt的项目里弄来的spec模板。这个是最简单的模板，可以自己试着玩玩，但是正式的写法最好参考opensuse_zh项目上的软件包的spec文件写法。比如Dr.COM 包页面，打开页面里的drcom.spec文件就可以看到里面的内容了。<br />
-<a href="https://build.opensuse.org/package/show?package=Dr.COM&project=home%3Aopensuse_zh" target="_blank">
-https://build.opensuse.org/package/show?package=Dr.COM&amp;project=home%3Aopensuse_zh
+<a href="https://build.opensuse.org/package/show/home:opensuse_zh/Dr.COM" target="_blank">
+https://build.opensuse.org/package/show/home:opensuse_zh/Dr.COM
 </a><br />
 
 准备好源码包hellolq-1.0.tar.gz和spec文件hellolq.spec之后，就可以进入下一步了。
@@ -471,11 +471,11 @@ build34 finished "build hellolq.spec" at Wed Mar 27 04:47:49 UTC 2013.<br />
 打包成功后，就可以在自己的OBS个人页面看到打好的包：<br />
 <center><a href="picobs/obs04.png" rel="thumbnail"><img src="picobs/obs04s.png" alt="obs04" class="pic" /></a></center><br />
 也可以从属于自己的打包软件源下载软件，比如：<br />
-<a href="http://download.opensuse.org/repositories/home:/iloveliuqing/openSUSE_12.3/"  target="_blank">
-http://download.opensuse.org/repositories/home:/iloveliuqing/openSUSE_12.3/
+<a href="https://build.opensuse.org/package/show/home:iloveliuqing/hellolq"  target="_blank">
+https://build.opensuse.org/package/show/home:iloveliuqing/hellolq
 </a> <br />
 OBS个人空间<br />
-http://download.opensuse.org/repositories/home:/<b><i>username</i></b>/ <br />
+https://build.opensuse.org/package/show/home:<b><i>username</i></b>/ <br />
 就是自己专属的打包发布的地方。
 <br /><br />
 
@@ -528,30 +528,27 @@ openSUSE中文社区
 (二) OBS 常用命令：以创建一个包为例
 </a><br />
 
-不过玛噶学姐最厉害的是把打包过程做成优酷视频教程了，不喜欢看文字的同学有福了！视频空间：<br />
-<a href="http://u.youku.com/margueritesu" target="_blank">
-<b>http://u.youku.com/margueritesu</b>
-</a>
+不过玛噶学姐最厉害的是把打包过程做成优酷视频教程了，不喜欢看文字的同学有福了！视频见本节开头。
 
 <br /><br />
 
 山木的 Open Build Service 软件建包简要教程：<br />
-<a href="http://hillwoodhome.net/archives/76" target="_blank">
+<a href="https://hillwoodhome.net/2011/06/17/open-build-service-%e7%ae%80%e8%a6%81%e4%bd%bf%e7%94%a8%e6%8c%87%e5%8d%97%e4%b9%8b%e4%b8%80%e2%80%94%e2%80%94%e5%88%9b%e5%bb%baobs%e9%a1%b9%e7%9b%ae-2/" target="_blank">
 (一)创建OBS项目
 </a><br />
-<a href="http://hillwoodhome.net/archives/92" target="_blank">
+<a href="https://hillwoodhome.net/2011/07/03/open-build-service-%e8%bd%af%e4%bb%b6%e5%bb%ba%e5%8c%85%e7%ae%80%e8%a6%81%e6%8c%87%e5%8d%97%e4%b9%8b%e4%ba%8c%e2%80%94%e2%80%94%e4%bb%8eweb%e9%a1%b5%e9%9d%a2%e6%9e%84%e5%bb%ba%e5%8f%91%e8%a1%8c/" target="_blank">
 (二)从web页面构建发行版安装包
 </a><br />
-<a href="http://hillwoodhome.net/archives/102" target="_blank">
+<a href="https://hillwoodhome.net/2011/07/04/open-build-service-%e8%bd%af%e4%bb%b6%e5%bb%ba%e5%8c%85%e7%ae%80%e8%a6%81%e6%95%99%e7%a8%8b%e4%ba%8c%e2%80%94%e2%80%94%e5%88%a9%e7%94%a8osc%e5%b7%a5%e5%85%b7%e6%9e%84%e5%bb%ba%e5%8f%91%e8%a1%8c/" target="_blank">
 (三)利用osc工具构建发行版安装包
 </a><br />
-<a href="http://hillwoodhome.net/archives/109" target="_blank">
+<a href="https://hillwoodhome.net/2011/07/05/open-build-service-%e8%bd%af%e4%bb%b6%e5%bb%ba%e5%8c%85%e7%ae%80%e8%a6%81%e6%95%99%e7%a8%8b%e5%9b%9b%e2%80%94%e2%80%94%e4%bc%98%e5%8c%96spec%ef%bc%8c%e5%90%8c%e6%97%b6%e4%b8%ba%e5%a4%9a%e4%b8%aa/" target="_blank">
 (四)编写跨平台spec文件
 </a><br /><br />
 
-Fedora的RPM打包教程<br />
-<a href="http://fedoraproject.org/wiki/How_to_create_an_RPM_package" target="_blank">
-http://fedoraproject.org/wiki/How_to_create_an_RPM_package
+Redhat的RPM打包教程<br />
+<a href="https://www.redhat.com/sysadmin/create-rpm-package" target="_blank">
+https://www.redhat.com/sysadmin/create-rpm-package
 </a><br />
 
 openSUSE的OBS打包指南<br />
