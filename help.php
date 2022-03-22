@@ -207,9 +207,6 @@ http://zh.opensuse.org/
 <a href="https://linux.cn/" target="_blank">
 https://linux.cn/ （Linux.中国 开源社区）
 </a><br>
-<a href="http://www.linuxdiyf.com/" target="_blank">
-http://www.linuxdiyf.com/ （红联Linux门户）
-</a><br />
 <a href="http://linux.ubuntu.org.cn/" target="_blank">
 http://linux.ubuntu.org.cn/ （Linux网站导航）
 </a>

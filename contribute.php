@@ -207,7 +207,6 @@ openSUSE有自己的社交网络，以供社区成员们交流：
 <br />
 <a href="https://twitter.com/openSUSE" target="_blank">https://twitter.com/openSUSE</a><br /> 
 <a href="http://www.facebook.com/pages/openSUSE/45393742283" target="_blank">http://www.facebook.com/pages/openSUSE/45393742283</a><br />
-<a href="https://plus.google.com/110312141834246266844/" target="_blank">https://plus.google.com/110312141834246266844/</a><br />
 <a href="http://www.linkedin.com/groups?home=&amp;gid=61388&amp;trk=anet_ug_hm" target="_blank">http://www.linkedin.com/groups?home=&amp;gid=61388&amp;trk=anet_ug_hm</a><br /><br />
 
 

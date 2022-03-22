@@ -262,13 +262,6 @@ zypper  in    bind   yast2-dns-server
 转发对象的意思是，自己解析不了的域名解析请求转发给谁，去请求外面别的服务器解析。
 通常就设置自己本省市或上级的DNS服务器地址。
 可以找本地联通电信服务商询问他们的DNS。
-<!--
-  链接已失效
-也可以参照网络帖子各省DNS地址：<br />
-<a href="http://service.cngrain.com/dns.html" target="_blank">
-http://service.cngrain.com/dns.html
-</a>
--->
 <br />
 
 这里以202.38.64.1为例子添加，当然还可以添加多个转发DNS服务器。
@@ -500,8 +493,8 @@ http://www.novell.com/coolsolutions/feature/16264.html
 
 让邮件系统支持虚拟用户注册登录，只是搭建邮件服务器的开始而已。实用的邮件服务器还有更多的东西需要安装配置，比如SSL/TLS安全登录、反垃圾邮件、反病毒等。这些太复杂了，给出链接，喜欢折腾的去试试吧：<br />
 TLS/SSL + Anti-spam<br />
-<a href="http://johnny.chadda.se/article/mail-server-howto-postfix-and-dovecot-with-mysql-and-tlsssl-postgrey-and-dspam/" target="_blank">
-http://johnny.chadda.se/article/mail-server-howto-postfix-and-dovecot-with-mysql-and-tlsssl-postgrey-and-dspam/ 
+<a href="https://johnny.chadda.se/mail-server-howto-postfix-and-dovecot-with-mysql-and-tlsssl-postgrey-and-dspam/" target="_blank">
+https://johnny.chadda.se/mail-server-howto-postfix-and-dovecot-with-mysql-and-tlsssl-postgrey-and-dspam/ 
 </a><br />
 <a href="http://wiki.dovecot.org/HowTo/DovecotLDAPostfixAdminMySQL?action=show&redirect=DovecotLDAPostfixAdminMySQL" target="_blank">
 http://wiki.dovecot.org/HowTo/DovecotLDAPostfixAdminMySQL?action=show&amp;redirect=DovecotLDAPostfixAdminMySQL 
@@ -518,18 +511,10 @@ iRedMail涉及安装配置的软件也很丰富，使用的主要软件包括：
 注：由于openSUSE自带的Yast工具总是自动修改邮件服务器的配置文件，而Yast配置得却又不完善，
 和iRedMail脚本格格不入，iRedMail作者生气不再支持openSUSE配置邮件服务器，不过其他Linux上还是可以很好使用的。
 <br /><br />
-iRedMail官网<!--（如果上不了就用
-<a href="http://q8daili.com/" target="_blank">
-在线HTTP代理
-</a>
-）-->：<br />
+iRedMail官网：<br />
 <a href="http://www.iredmail.org/" target="_blank">
 http://www.iredmail.org/ 
 </a><br />
-<!-- 在openSUSE下的安装见：<br />
-<a href="http://www.iredmail.org/install_iredmail_on_opensuse.html" target="_blank">
-http://www.iredmail.org/install_iredmail_on_opensuse.html 
-</a><br /> -->
 在Ubuntu下的介绍见：<br />
 <a href="http://wiki.ubuntu.org.cn/IRedMail" target="_blank">
 http://wiki.ubuntu.org.cn/IRedMail 
@@ -572,13 +557,13 @@ http://wenku.baidu.com/view/5a6a79eb102de2bd96058863.html
 <a href="http://blog.chinaunix.net/uid-21868571-id-158930.html" target="_blank">
 http://blog.chinaunix.net/uid-21868571-id-158930.html
 </a><br />
-<a href="http://blog.licess.org/simplehttpserver/ " target="_blank">
-http://blog.licess.org/simplehttpserver/ 
+<a href="https://luy.li/2010/05/15/simplehttpserverwithupload/" target="_blank">
+https://luy.li/2010/05/15/simplehttpserverwithupload/
 </a><br />
 
 OpenStack安装体验：<br />
-<a href="https://opensuse-topics.googlecode.com/files/Install-Openstack-SLE11SP2-r7.pdf" target="_blank">
-安装openstack到SLE11SP2 
+<a href="archives/Install-Openstack-SLE11SP2-r7.pdf" target="_blank">
+安装openstack到SLE11SP2
 </a><br />
 <a href="http://en.opensuse.org/Portal:OpenStack " target="_blank">
 http://en.opensuse.org/Portal:OpenStack 
@@ -586,17 +571,12 @@ http://en.opensuse.org/Portal:OpenStack
 <a href="http://en.opensuse.org/SDB:Cloud_OpenStack_Quickstart " target="_blank">
 http://en.opensuse.org/SDB:Cloud_OpenStack_Quickstart 
 </a><br />
-<a href="http://os.51cto.com/art/201209/357583.htm " target="_blank">
-http://os.51cto.com/art/201209/357583.htm 
-</a><br /><br />
+<br />
 
 最后给几个神奇的链接：<br />
 服务器世界：<br />
 <a href="http://www.server-world.info/en/ " target="_blank">
 http://www.server-world.info/en/ 
-</a><br />
-<a href="http://www.linuxmail.info/ " target="_blank">
-http://www.linuxmail.info/ 
 </a><br />
 
 鸟哥私房菜：<br />

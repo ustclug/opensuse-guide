@@ -172,21 +172,6 @@ function googleTranslateElementInit() {
 </table>
 </div><br />
 
-<!-- 
-  移除 Flash 相关内容（现代浏览器已经不再支持 Flash），
-  并且 packman 的链接也有问题。
-<div class="heading2">14.1 Adobe Flash</div>
-Flash被应用到大量网站的嵌入视频、动画、游戏，有时甚至是网页导航中。
-<br />
-您需要手动添加 Packman 软件源，然后
-安装 <b>freshplayerplugin</b> 包。
-<br /><br />
-
-在终端命令行安装 Flash 需要两句命令：
-<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.3/ packman</div><br />
-<div class="clroot">zypper install freshplayerplugin</div><br />
-<br />
--->
 <div class="heading2">14.1 Java</div>
 Java的网页程序用于游戏、一些国家的网上银行和其他各种用途。
 <br /><br />
@@ -203,35 +188,6 @@ Java的网页程序用于游戏、一些国家的网上银行和其他各种用�
 
 在终端命令行安装多媒体插件：
 <div class="clroot">zypper install xine-browser-plugin</div><br />
-
-<!-- 
-  微软已经不再支持 Silverlight，
-  fds-team 的链接也变成了死链。
-<div class="heading2">14.3 Microsoft Silverlight</div>
-微软制造了叫Silverlight的东西去和Adobe Flash在网页需要的专用扩展方面竞争。
-<br /><br />
-
-您 <i>不能</i> 指望微软为 GNU/Linux 提供一个官方的插件，但是有个叫
-<a href="http://fds-team.de/cms/articles/2013-08/pipelight-using-silverlight-in-linux-browsers.html" target="_blank">
- Pipelight 
-</a>
-的软件可在 GNU/Linux 平台支持微软 Silverlight ，Pipelight 的软件包：
-<br />
-<a href="http://software.opensuse.org/package/pipelight" target="_blank">http://software.opensuse.org/package/pipelight</a><br /><br />
-
-Netflix 网站的视频可以直接在 Google Chrome 浏览器播放，而不需要微软 Silverlight。
-<br /><br />
--->
-
-<!--
-  现在 Google Meet 应该不再需要额外的插件了。
-<div class="heading2">14.3 谷歌语音和视频聊天</div>
-
-谷歌（Google）通过一个浏览器插件为 GNU/Linux 提供了语音和视频聊天服务。
-从这里下载适用于 openSUSE 的 RPM 文件：
-<br />
-<a href="http://www.google.com/chat/video" target="_blank">http://www.google.com/chat/video</a><br /><br />
--->
 
 
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">

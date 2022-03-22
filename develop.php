@@ -490,22 +490,12 @@ http://www.codelite.org/</a>  <br />
 Android是著名的开源智能手机操作系统，Android SDK是其开发环境，如果要为Android开发软件包，可以在官网下载 Android Studio：<br />
 <a href="https://developer.android.com/studio"  target="_blank">
 https://developer.android.com/studio </a>  <br />
-Android Studio 仅支持64位系统。<br /><br />
-  比如下载的是adt-bundle-linux-x86_64-20130219.zip，直接解压缩到当前用户目录的bin文件夹里，如 /home/suse123/bin/ ,然后进入目录 /home/suse123/bin/adt-bundle-linux-x86_64-20130219/eclipse/ ，直接运行里面的eclipse即可。由于openSUSE默认就装了openjdk到系统路径，所以不需要配置，就可以使用Android开发平台。<br /><br />
+Android Studio 仅支持64位系统。下载解压后运行 android-studio/bin/studio.sh 文件即可。<br /><br />
 
+<!-- TODO: 是否需要相关依赖？以及一张 Android Studio 运行在 openSUSE 下的截图
 <center><a href="picdev/android.png" rel="thumbnail"><img src="picdev/androids.png" alt="android" class="pic" /></a></center>
-<br />
-
-<!--
-上面方法是最简单的安装方式，ADT (Android Developer Tools)包含了Eclipse IDE、Android开发库、模拟器，应有尽有。还有一个稍微麻烦的安装方式。
-如果系统里面已经有了现成的openJDK和Eclipse，希望通过插件方式集成Android SDK Tools也是可以的，需要连网下载Eclipse插件，具体配置方式参考：<br />
-<a href="http://developer.android.com/sdk/installing/index.html"  target="_blank">
-http://developer.android.com/sdk/installing/index.html</a><br />
-<a href="http://www.cnblogs.com/pharen/archive/2011/09/13/2174592.html"  target="_blank">
-http://www.cnblogs.com/pharen/archive/2011/09/13/2174592.html</a><br />
-
-新手当然推荐第一种最简单的ADT (Android Developer Tools)，不需要配置，直接使用。
 -->
+<br />
 
 <br /><br />
 
