@@ -189,7 +189,6 @@ function googleTranslateElementInit() {
 <a href="http://forum.suse.org.cn/" target="_blank"><b>https://forum.suse.org.cn/(全新的中文社区)</b></a>
 <br />
 <a href="http://forums.opensuse.org" target="_blank">http://forums.opensuse.org</a> 
- (<a href="http://forums.opensuse.org/ae-ae-chinese/" target="_blank">中文版块</a>)
 <br />
 关于KDE工作空间和KDE应用程序的问题，您也许想尝试KDE官方论坛：
 <br />

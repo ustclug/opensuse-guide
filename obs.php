@@ -521,10 +521,10 @@ openSUSE中文社区
 或openSUSE官方论坛求助。推荐几个网址，可以多去学学。
 <br /><br />
 玛噶学姐的“带你学”系列：<br />
-<a href="https://forums.opensuse.org/aeae-chinese/aesaeoeeeaezaeaeoe/aa/470305-czazaaaaea-obs-ae-opensuse-build-service-aeaoeaezae.html" target="_blank">
+<a href="https://web.archive.org/web/20130629174248/https://forums.opensuse.org/aeae-chinese/aesaeoeeeaezaeaeoe/aa/470305-czazaaaaea-obs-ae-opensuse-build-service-aeaoeaezae.html" target="_blank">
 (一) openSUSE Build Service 注册与安装
 </a><br />
-<a href="https://forums.opensuse.org/aeae-chinese/aesaeoeeeaezaeaeoe/aa/470403-czazaaaaea-obs-aeoe-obs-acaaeisaeaaaeaeaoeaeae.html" target="_blank">
+<a href="https://web.archive.org/web/20120202113018/http://p.marguerite.su/" target="_blank">
 (二) OBS 常用命令：以创建一个包为例
 </a><br />
 

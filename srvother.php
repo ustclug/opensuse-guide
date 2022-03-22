@@ -585,10 +585,11 @@ http://linux.vbird.org/
 </a><br />
 
 openSUSE 最新官方文档：<br />
-<a href="http://activedoc.opensuse.org/book " target="_blank">
-http://activedoc.opensuse.org/book 
+<a href="https://doc.opensuse.org/" target="_blank">
+https://doc.opensuse.org/
 </a><br />
 
+<!-- aeae-chinese 变成了死链。
 opensuse中文文档计划 ：<br />
 <a href="http://forums.opensuse.org/aeae-chinese/aesaeoeeeaezaeaeoe/acaezaeaeoe/461804-opensuseaeaeaeaeea.html " target="_blank">
 http://forums.opensuse.org/aeae-chinese/aesaeoeeeaezaeaeoe/acaezaeaeoe/461804-opensuseaeaeaeaeea.html 
@@ -597,6 +598,11 @@ openSUSE12.2官方文档第一册（中文译本） <br />
 <a href="http://forums.opensuse.org/aeae-chinese/aesaeoeeeaezaeaeoe/acaezaeaeoe/480276-opensuse12-2aaeaeaecaeaoeiaeaeeaeoei.html " target="_blank">
 http://forums.opensuse.org/aeae-chinese/aesaeoeeeaezaeaeoe/acaezaeaeoe/480276-opensuse12-2aaeaeaecaeaoeiaeaeeaeoei.html 
 </a><br />
+-->
+
+openSUSE 组件与文档简中翻译情况：<br />
+<a href="https://l10n.opensuse.org/languages/zh_CN/" target="_blank">
+https://l10n.opensuse.org/languages/zh_CN/</a>
 
 <br /><br />
 
