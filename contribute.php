@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2021年10月1日</div>
+<div class="content-text">最后更新：2022年11月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -182,7 +182,7 @@ openSUSE开放开发的，任何人都可以加入——这意味着您可以帮
 阅读器里预配置好了，该阅读器已经默认安装，是Kontact个人信息管理套件的一部分：
 <br />
 <a href="http://news.opensuse.org" target="_blank">http://news.opensuse.org</a><br />
-<a href="http://planetsuse.org" target="_blank">http://planetsuse.org</a><br /><br />
+<a href="http://planet.opensuse.org/" target="_blank">http://planet.opensuse.org/</a><br /><br />
 
 
 <div class="heading3">F.1.2 邮件列表（用于发布信息和讨论）</div>
@@ -207,8 +207,8 @@ openSUSE有自己的社交网络，以供社区成员们交流：
 <br />
 <a href="https://twitter.com/openSUSE" target="_blank">https://twitter.com/openSUSE</a><br /> 
 <a href="http://www.facebook.com/pages/openSUSE/45393742283" target="_blank">http://www.facebook.com/pages/openSUSE/45393742283</a><br />
-<a href="http://www.linkedin.com/groups?home=&amp;gid=61388&amp;trk=anet_ug_hm" target="_blank">http://www.linkedin.com/groups?home=&amp;gid=61388&amp;trk=anet_ug_hm</a><br /><br />
-
+<a href="http://www.linkedin.com/groups?home=&amp;gid=61388&amp;trk=anet_ug_hm" target="_blank">http://www.linkedin.com/groups?home=&amp;gid=61388&amp;trk=anet_ug_hm</a><br />
+<a href="https://plus.google.com/110312141834246266844/" target="_blank">https://plus.google.com/110312141834246266844/</a><br /><br />
 
 <div class="heading3">F.1.5 会议和事件</div>
  openSUSE 社区在不同的大洲都有例行会议，

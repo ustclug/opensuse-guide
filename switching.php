@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2021年10月1日</div>
+<div class="content-text">最后更新：2022年11月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -291,7 +291,7 @@ GNU/Linux已经被形容为 "world wide team sport"，由全世界的优秀程�
 		<a href="http://www.libreoffice.org/" target="_blank">LibreOffice</a> (办公套件)<br />
 		<a href="http://www.scribus.net/" target="_blank">Scribus</a> (桌面排版)<br />
 		<a href="http://gnucash.org/" target="_blank">GnuCash</a> (个人/小型财务软件)<br />
-		<a href="http://code.google.com/p/ofetion/" target="_blank">OpenFetion</a>(飞信) <br />
+		<a href="http://docs.osgearth.org/" target="_blank">osgEarth</a>(地理空间SDK和地形引擎) <br />
 		<a href="https://www.qgis.org/" target="_blank">QGIS</a>(开源地理信息系统) <br />
 		<a href="http://www.openscenegraph.org/" target="_blank">OpenSceneGraph </a>(3D场景绘图仿真平台) <br />
 		</td>
@@ -328,7 +328,7 @@ GNU/Linux已经被形容为 "world wide team sport"，由全世界的优秀程�
 		<a href="http://www.3ds.com/products/draftsight/free-cad-software/" target="_blank">Draftsight</a> (CAD)<br />
 		<a href="http://www.real.com/realplayer" target="_blank">RealPlayer</a> (媒体播放)<br />
 		<a href="http://www.flashget.com/cn/product_Linux.html" target="_blank">网际快车</a>(下载工具)<br />
-        <a href="http://www.yozosoft.com/download/zmo.jsp" target="_blank">永中Office</a>(办公套件)<br />
+        <a href="http://www.yozosoft.com/index.html" target="_blank">永中Office</a>(办公套件)<br />
         <a href="http://linux.wps.cn/" target="_blank">WPS Office</a>(办公套件)<br />        
 	</td>
 	</tr>

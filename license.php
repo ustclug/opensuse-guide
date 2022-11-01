@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2021年10月1日</div>
+<div class="content-text">最后更新：2022年11月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -158,14 +158,14 @@ function googleTranslateElementInit() {
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 	<tr>
-		<td width="70%"><b>Copyright (c)  2021 Martin Schlander</b><br />
+		<td width="70%"><b>Copyright (c)  2014 Martin Schlander</b><br />
 		Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".		
 		</td>
 		<td><center><a href="http://www.gnu.org" target="_blank"><img style="border: 0px solid ; width: 148px; height: 140px;" alt="gnu" src="images/pics/gnu-head.jpg" /></a></center></td>
 	</tr>
 </table>
 <hr align="center" width="99%" />
-<b>中文译本版权 © 2021 Libitum Wang, Winland Yang</b> <br />
+<b>中文译本版权 © 2022 Libitum Wang, Winland Yang</b> <br />
 在GNU自由文档许可证1.3版本或自由软件基金会发布的后续版本的条款之下，
 授权复制、分发和/或修改本文档，不带恒常章节、前封面文字和后封面文字。
 许可证的副本已包含在题为“GNU自由文档许可证”（"GNU Free Documentation License"）的章节里。<br />

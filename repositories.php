@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2021年10月1日</div>
+<div class="content-text">最后更新：2022年11月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -253,9 +253,9 @@ function googleTranslateElementInit() {
 	<li><a href="http://mirrors.ustc.edu.cn/opensuse/" target="_blank">中国科学技术大学</a>
 	（<a href="https://lug.ustc.edu.cn/wiki/mirrors/help/opensuse" target="_blank">使用帮助</a>）
 	</li>
-	
+<!--
 	<li><a href="http://mirrors.hust.edu.cn/opensuse/" target="_blank">华中科技大学</a>（使用帮助同上）</li>
-	
+--> 
 	<li><a href="http://mirrors.opensuse.org/list/all.html" target="_blank">世界上的其他软件源镜像列表</a></li>
 
 </ul>
@@ -264,8 +264,8 @@ function googleTranslateElementInit() {
 <ul>
 
     <li>
-        <b><a href="http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_Leap_15.3/" target="_blank">
-        http://download.opensuse.org/repositories/home:/opensuse_zh/openSUSE_Leap_15.3/
+        <b><a href="http://download.opensuse.org/repositories/home:/opensuse_zh/15.4/" target="_blank">
+        http://download.opensuse.org/repositories/home:/opensuse_zh/15.4/
         </a></b>
     </li>
 
@@ -277,29 +277,30 @@ function googleTranslateElementInit() {
     </li>
 
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.3/" target="_blank">
-        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.3/
+        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.4/" target="_blank">
+        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.4/
         </a>
     </li>
 --> 
 <!--
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.3/" target="_blank">
-        http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.3/
+        <a href="http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.4/" target="_blank">
+        http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.4/
         </a>
     </li>
 -->
 
 
-    
+
     <li>
-        <a href="http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_15.3/" target="_blank">
-        http://mirrors.hust.edu.cn/packman/suse/openSUSE_Leap_15.3/
-        </a>（华中科技大学Packman源）
+        <a href="https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_15.4/" target="_blank">
+        https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_15.4/
+        </a>（阿里云Packman源）
     </li>
+
     <li>
-        <a href="http://download.videolan.org/pub/vlc/SuSE/Leap_15.3/" target="_blank">
-        http://download.videolan.org/pub/vlc/SuSE/Leap_15.3/
+        <a href="http://download.videolan.org/pub/vlc/SuSE/15.4/" target="_blank">
+        http://download.videolan.org/pub/vlc/SuSE/15.4/
         </a>（Videolan 官方源）
     </li>
 </ul>
@@ -341,13 +342,13 @@ function googleTranslateElementInit() {
 <br /><br />
 
 使用命令 <i>zypper addrepo -f [URL] [Alias]</i> （Alias是自己给这个源随便定义的英文名）添加软件源并开启自动刷新，如：
-<div class="clroot">zypper addrepo -f http://packman.inode.at/suse/openSUSE_Leap_15.3/  packman</div><br />
+<div class="clroot">zypper addrepo -f http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.4/  packman</div><br />
 
 使用命令 <i>zypper modifyrepo -d [URL或者Alias]</i> 禁用一个软件源，如：
 <div class="clroot">zypper modifyrepo -d Packman</div><br />
 
 使用命令 <i>zypper removerepo [URL或者Alias]</i> 删除一个软件源： 
-<div class="clroot">zypper removerepo http://packman.inode.at/suse/openSUSE_Leap_15.3/ </div><br />
+<div class="clroot">zypper removerepo http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.4/ </div><br />
 
 列出配置的软件源，显示详情（优先级、网址等等）：
 <div class="cl">zypper repos -d</div><br />
