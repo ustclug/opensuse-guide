@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2022年11月1日</div>
+<div class="content-text">最后更新：2025年6月4日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -186,7 +186,9 @@ function googleTranslateElementInit() {
 
 您可以从这些论坛寻求帮助（建议用 Firefox 浏览器打开网页链接）：
 <br />
-<a href="http://forum.suse.org.cn/" target="_blank"><b>https://forum.suse.org.cn/(全新的中文社区)</b></a>
+<a href="https://www.suse.org.cn/" target="_blank"><b>https://www.suse.org.cn/    (全新的中文社区)</b></a>
+<br />
+<a href="http://forum.suse.org.cn/" target="_blank"><b>https://forum.suse.org.cn/    (全新的中文论坛)</b></a>
 <br />
 <a href="http://forums.opensuse.org" target="_blank">http://forums.opensuse.org</a> 
 <br />
@@ -202,14 +204,22 @@ openSUSE官方中文站：<br />
 http://zh.opensuse.org/
 </a><br />
 
-国内其他站点：<br />
+其他参考站点：<br />
 <a href="https://linux.cn/" target="_blank">
-https://linux.cn/ （Linux.中国 开源社区）
-</a><br>
-<a href="http://linux.ubuntu.org.cn/" target="_blank">
-http://linux.ubuntu.org.cn/ （Linux网站导航）
-</a>
-<br /><br />
+https://linux.cn/ 
+</a>  （Linux.中国 开源社区） <br>
+<a href="https://linux.ubuntu.org.cn/category/1/" target="_blank">
+https://linux.ubuntu.org.cn/category/1/ 
+</a> （ Linux 网站导航）  <br>
+<a href="https://www.oschina.net/" target="_blank">
+https://www.oschina.net/ 
+</a>  （中文开源技术社区）<br>
+<a href="https://distrowatch.com/" target="_blank">
+https://distrowatch.com/ 
+</a>  （DistroWatch 各种Linux发行版动态网站）<br>
+
+
+<br />
 
 
 <div class="heading2">A.3 IRC（互联网中继聊天）</div>
@@ -230,10 +240,13 @@ http://linux.ubuntu.org.cn/ （Linux网站导航）
 <a href="http://en.opensuse.org/openSUSE:IRC_list" target="_blank">http://en.opensuse.org/openSUSE:IRC_list</a>
 <br /><br />
 
+<!--
 <b>openSUSE中文用户组地址：</b><br />
 <a href="https://connect.opensuse.org/pg/groups/13328/opensuse-/" target="_blank">
 https://connect.opensuse.org/pg/groups/13328/opensuse-/
 </a><br />
+-->
+
 如果您在安装和使用过程中有疑问或者困难也可以随时通过 IRC 频道参与即时讨论和交流。
 <br />
 <a href="http://webchat.freenode.net" target="_blank">

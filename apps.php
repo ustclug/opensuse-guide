@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2022年11月1日</div>
+<div class="content-text">最后更新：2025年6月4日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -243,7 +243,7 @@ osd-lyrics
 其他可选的：MPlayer，SMPlayer, 
 <a href="http://www.videolan.org/vlc/download-suse.html"  target="_blank">
 VLC官网版本</a>
-, UMPlayer, mpv, Kaffeine<br /><br />
+, UMPlayer, mpv, Kaffeine, Dragon<br /><br />
 
 
 <div class="heading2">6.5 使用GIMP编辑图片</div>
@@ -265,7 +265,7 @@ GIMP 可以作为单一窗口工作，简单点击菜单"窗口" (Windows) ，�
 </table>
 </div><br />
 
-其他可选的：Gwenview (只有基本的编辑功能 - 调整大小、 修剪、减轻红眼等)，Krita (主要用于绘图)<br /><br />
+其他可选的：Gwenview (只有基本的编辑功能 - 调整大小、 修剪、减轻红眼等)，Krita (主要用于绘图)，draw.io（各种流程图、拓扑图等绘制）<br /><br />
 
 
 

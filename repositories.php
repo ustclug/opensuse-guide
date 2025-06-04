@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2022年11月1日</div>
+<div class="content-text">最后更新：2025年6月4日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -246,7 +246,7 @@ function googleTranslateElementInit() {
 	<li><a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/" target="_blank">清华TUNA</a>（使用帮助同上）</li>	
 		
 	<li><a href="http://ftp.twaren.net/Linux/OpenSuSE/" target="_blank">
-	台湾openSUSE源
+	中国台湾省openSUSE源
 	</a>（使用帮助同上）
 	</li>
 	
@@ -256,7 +256,7 @@ function googleTranslateElementInit() {
 <!--
 	<li><a href="http://mirrors.hust.edu.cn/opensuse/" target="_blank">华中科技大学</a>（使用帮助同上）</li>
 --> 
-	<li><a href="http://mirrors.opensuse.org/list/all.html" target="_blank">世界上的其他软件源镜像列表</a></li>
+	<li><a href="https://mirrors.opensuse.org/" target="_blank">世界各地软件源镜像列表</a></li>
 
 </ul>
 
@@ -264,28 +264,28 @@ function googleTranslateElementInit() {
 <ul>
 
     <li>
-        <b><a href="http://download.opensuse.org/repositories/home:/opensuse_zh/15.4/" target="_blank">
-        http://download.opensuse.org/repositories/home:/opensuse_zh/15.4/
+        <b><a href="http://download.opensuse.org/repositories/home:/opensuse_zh/15.6/" target="_blank">
+        http://download.opensuse.org/repositories/home:/opensuse_zh/15.6/
         </a></b>
     </li>
 
 <!--
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/MargueriteSu/openSUSE_13.2/" target="_blank">
-        http://download.opensuse.org/repositories/home:/MargueriteSu/openSUSE_13.2/
+        <a href="http://download.opensuse.org/repositories/home:/MargueriteSu/15.6/" target="_blank">
+        http://download.opensuse.org/repositories/home:/MargueriteSu/15.6/
         </a>
     </li>
 
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.4/" target="_blank">
-        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.4/
+        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.6/" target="_blank">
+        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.6/
         </a>
     </li>
 --> 
 <!--
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.4/" target="_blank">
-        http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.4/
+        <a href="http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.6/" target="_blank">
+        http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.6/
         </a>
     </li>
 -->
@@ -293,14 +293,14 @@ function googleTranslateElementInit() {
 
 
     <li>
-        <a href="https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_15.4/" target="_blank">
-        https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_15.4/
+        <a href="https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_15.6/" target="_blank">
+        https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_15.6/
         </a>（阿里云Packman源）
     </li>
 
     <li>
-        <a href="http://download.videolan.org/pub/vlc/SuSE/15.4/" target="_blank">
-        http://download.videolan.org/pub/vlc/SuSE/15.4/
+        <a href="http://download.videolan.org/pub/vlc/SuSE/15.6/" target="_blank">
+        http://download.videolan.org/pub/vlc/SuSE/15.6/
         </a>（Videolan 官方源）
     </li>
 </ul>
@@ -313,16 +313,16 @@ function googleTranslateElementInit() {
 <tr>
 <td><img src="images/pics/tip.png" alt="tip" /></td>
 <td>还有软件找不到么？您可以搜索openSUSE Build Service上的软件包/源<br />
-    <a href="http://software.opensuse.org/search" target="_blank"> 
-     http://software.opensuse.org/search
+    <a href="http://software.opensuse.org/" target="_blank"> 
+     http://software.opensuse.org/
      </a><br />
     <a href="https://build.opensuse.org/search" target="_blank">
     https://build.opensuse.org/search
     </a> <br />
     
-    openSUSE Build Service（OBS）软件源的使用见：<br />
-    <a href="http://www.linuxidc.com/Linux/2011-12/48450.htm" target="_blank">
-    openSUSE Build Service更名为Open Build Service
+    openSUSE Build Service（OBS）新手入门教程：<br />
+    <a href="https://zh.opensuse.org/openSUSE:Build_Service_%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" target="_blank">
+    openSUSE:Build Service 新手入门
     </a>
     
 </td>
@@ -342,13 +342,13 @@ function googleTranslateElementInit() {
 <br /><br />
 
 使用命令 <i>zypper addrepo -f [URL] [Alias]</i> （Alias是自己给这个源随便定义的英文名）添加软件源并开启自动刷新，如：
-<div class="clroot">zypper addrepo -f http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.4/  packman</div><br />
+<div class="clroot">zypper addrepo -f http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.6/  packman</div><br />
 
 使用命令 <i>zypper modifyrepo -d [URL或者Alias]</i> 禁用一个软件源，如：
 <div class="clroot">zypper modifyrepo -d Packman</div><br />
 
 使用命令 <i>zypper removerepo [URL或者Alias]</i> 删除一个软件源： 
-<div class="clroot">zypper removerepo http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.4/ </div><br />
+<div class="clroot">zypper removerepo http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.6/ </div><br />
 
 列出配置的软件源，显示详情（优先级、网址等等）：
 <div class="cl">zypper repos -d</div><br />
@@ -362,10 +362,6 @@ function googleTranslateElementInit() {
 更多关于 zypper 命令使用说明请参考：<br />
 <a href="https://en.opensuse.org/SDB%3aZypper_usage" target="_blank">
 https://en.opensuse.org/SDB%3aZypper_usage
-</a>
-<br />
-<a href="https://opensuse.github.io/openSUSE-docs-revamped-temp/zypper/" target="_blank">
-https://opensuse.github.io/openSUSE-docs-revamped-temp/zypper/
 </a>
 <br />
 <br />

@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2022年11月1日</div>
+<div class="content-text">最后更新：2025年6月4日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -225,10 +225,6 @@ openSUSE官方的Nvidia显卡详细安装指南：<br />
 https://en.opensuse.org/SDB:NVIDIA_drivers
 </a>
 <br />
-<a href="https://opensuse.github.io/openSUSE-docs-revamped-temp/install_proprietary/" target="_blank">
-https://opensuse.github.io/openSUSE-docs-revamped-temp/install_proprietary/
-</a>
-<br />
 <br />
 
 <div class="heading3">15.1.2 终端命令行安装 Nvidia 驱动</div>
@@ -238,10 +234,10 @@ https://opensuse.github.io/openSUSE-docs-revamped-temp/install_proprietary/
 <br /><br />
 
 首先添加如下软件源：
-<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/15.4 nvidia</div><br />
+<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/15.6 nvidia</div><br />
 
 然后执行如下智能安装命令：
-<div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/15.4</div><br />
+<div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/15.6</div><br />
 
 安装完之后重启。<br /><br />
 
@@ -249,9 +245,17 @@ https://opensuse.github.io/openSUSE-docs-revamped-temp/install_proprietary/
 NVIDIA Optimus 是NVIDIA 公司2010年发布的独立显卡和集成显卡热切换技术，通常用于笔记本电脑，在游戏时双显卡同时工作，而平时图形计算负担轻时只使用Intel集成显卡，达到省电的效果。<br />
 详细的双显卡驱动安装指南见如下网页：
 <br />
-<a href="https://opensuse.github.io/openSUSE-docs-revamped-temp/hybrid_graphics/" target="_blank">
-https://opensuse.github.io/openSUSE-docs-revamped-temp/hybrid_graphics/
-</a>
+<a href="https://en.opensuse.org/SDB:NVIDIA_SUSE_Prime" target="_blank">
+https://en.opensuse.org/SDB:NVIDIA_SUSE_Prime
+</a> （优先推荐）
+<br />
+<a href="https://en.opensuse.org/SDB:NVIDIA_Bumblebee" target="_blank">
+https://en.opensuse.org/SDB:NVIDIA_Bumblebee
+</a> （已过时，不推荐）
+<br />
+<a href="https://www.bumblebee-project.org/" target="_blank">
+https://www.bumblebee-project.org/
+</a> （已过时，不推荐）
 <br />
 <br />
 

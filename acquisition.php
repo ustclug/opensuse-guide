@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2022年11月1日</div>
+<div class="content-text">最后更新：2025年6月4日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -146,9 +146,9 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="content-title">openSUSE 15.2 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 15.6 coming soon:</div><br />
 
-<center><a href="http://en.opensuse.org/Portal:15.2"><img src="http://counter.opensuse.org/15.4/small" border="0" alt="countdown" /></a></center><br />
+<center><a href="http://en.opensuse.org/Portal:15.6"><img src="http://counter.opensuse.org/15.6/small" border="0" alt="countdown" /></a></center><br />
 -->
 
 </div>
@@ -161,24 +161,24 @@ function googleTranslateElementInit() {
 
 <div class="heading2">3.1 下载</div>
 可以从 openSUSE 的网站上免费的下载 DVD iso 镜像文件，然后将其刻录到光盘上。<br />
-<a href="http://software.opensuse.org/" target="_blank">http://software.opensuse.org/</a><br /><br />
+<a href="https://get.opensuse.org/leap/" target="_blank">https://get.opensuse.org/leap/</a><br /><br />
 
 DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 因为它被测试得很完善而且包含基础安装所需的所有软件包，并包含各种语言的本地化包。您也可以不刻录成 DVD 光盘，ISO 文件可以写入到 U 盘中来安装系统（见下一章）。
 
 <br /><br /> 
 在国内可以通过网易、清华和中国科学技术大学的镜像下载：<br />
-<a href="http://mirrors.163.com/openSUSE/distribution/leap/15.4/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/15.4/iso/
+<a href="http://mirrors.163.com/openSUSE/distribution/leap/15.6/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/15.6/iso/
 </a><br />
 
-<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.4/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.4/iso/
+<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.6/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.6/iso/
 </a><br />
 
-<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.4/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.4/iso/
+<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.6/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.6/iso/
 </a><br />
 
 安装到硬盘或虚拟机的话，下载<br />
-<b>openSUSE-Leap-15.4-DVD-x86_64-Media.iso </b>。<br />
+<b>openSUSE-Leap-15.6-DVD-x86_64-Media.iso </b>。<br />
 其他所有的ISO文件基本可以无视，别下载错了哦！<br />
 注：因为最新的 openSUSE Leap 使用企业版内核，所以目前全部是 64 位的系统。
 <br /><br />
@@ -222,8 +222,8 @@ DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 <div class="heading2">3.5 源代码</div>
 从这可以找到openSUSE中的所有开源软件的源代码，均以 RPM 文件的形式提供：
 <br />
-<a href="http://download.opensuse.org/source/distribution/leap/15.4/repo/oss/src/" target="_blank">
-http://download.opensuse.org/source/distribution/leap/15.4/repo/oss/src/</a>
+<a href="http://download.opensuse.org/source/distribution/leap/15.6/repo/oss/src/" target="_blank">
+http://download.opensuse.org/source/distribution/leap/15.6/repo/oss/src/</a>
 
 
 <br /><br />
