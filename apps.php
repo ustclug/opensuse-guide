@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2025年6月4日</div>
+<div class="content-text">最后更新：2026年6月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -310,7 +310,7 @@ K3b 是一个功能强大的烧录软件，可以刻录各种CD和DVD。<br /><b
 
 <div class="heading2">6.7 gcc、make与开发环境</div>
 默认情况下 openSUSE 不会安装gcc和make等开发环境，所以需要编译代码和开发软件的话，
-必须自己安装。使用root权限，C/C++/Qt 开发环境安装执行命令：
+必须自己安装。使用root权限，C/C++/Qt4 开发环境安装执行命令：
 <div class="clroot">zypper install  bison ccache flex gcc gcc-c++ gcc-java   gcc-info  zlib-devel  nasm   boost-devel  gsl-devel  sqlite3-devel  libqt4-devel  libqt4-devel-doc  cmake cmake-gui  autoconf  autogen  automake  automoc4   make   qt-creator   git  mercurial </div><br />
  zypper 是 openSUSE 的统一软件管理命令行工具，
 与 Ubuntu 的 apt-get 、Fedora 的 yum 完全类似，很容易使用。

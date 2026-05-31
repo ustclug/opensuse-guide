@@ -9,7 +9,7 @@
 
 <head>
 
-<title>1. 简介 - openSUSE Leap 15.6 / SUSE Linux 新手指南</title>
+<title>1. 简介 - openSUSE Leap 16.0 / SUSE Linux 新手指南</title>
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2025年6月4日</div>
+<div class="content-text">最后更新：2026年6月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -186,6 +186,8 @@ openSUSE Leap 使用源自 SUSE Linux Enterprise 的内核系统，但带有最�
 对富有经验和喜欢冒险的 GNU/Linux 用户，如果想要他们的操作系统冒点风险并体验刀尖上的艺术，
 可以试用滚动发行的 openSUSE 版本，称为
  <a href="https://en.opensuse.org/Portal:Tumbleweed" target="_blank">openSUSE Tumbleweed</a>。<br /><br />
+对于普通用户，使用 openSUSE Leap 桌面版（Desktop）即可，一般不用服务器版（Server）和滚动更新版（Tumbleweed）。
+<br /><br />
 
 openSUSE Leap 是由社区志愿者和 SUSE 公司雇员一起公开、透明地开发的，openSUSE 这些系统对个人来说是完全免费的，包括使用和在线更新。<br /><br />
 

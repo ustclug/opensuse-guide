@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2025年6月4日</div>
+<div class="content-text">最后更新：2026年6月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -165,7 +165,7 @@ function googleTranslateElementInit() {
 	</tr>
 </table>
 <hr align="center" width="99%" />
-<b>中文译本版权 © 2025 Libitum Wang, Winland Yang</b> <br />
+<b>中文译本版权 © 2026 Libitum Wang, Winland Yang</b> <br />
 在GNU自由文档许可证1.3版本或自由软件基金会发布的后续版本的条款之下，
 授权复制、分发和/或修改本文档，不带恒常章节、前封面文字和后封面文字。
 许可证的副本已包含在题为“GNU自由文档许可证”（"GNU Free Documentation License"）的章节里。<br />

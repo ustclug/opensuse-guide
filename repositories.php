@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2025年6月4日</div>
+<div class="content-text">最后更新：2026年6月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -181,7 +181,7 @@ function googleTranslateElementInit() {
 <td><img src="images/pics/obs.png" alt="obs" /></td>
 <td>	添加软件源时要注意： 
 <ul>
-<li>非官方源可能包含一些试验中的不稳定的软件包</li>
+<li>非官方源可能包含一些测试中的不稳定的软件包</li>
 <li>不同的软件源之间并不一定是兼容的</li>
 <li>一个非官方软件源并不是永久稳定且可信的</li>
 <li>过多的软件源将会降低软件包管理器的速度</li>
@@ -193,7 +193,7 @@ function googleTranslateElementInit() {
 </div><br />
 
 
-最简单且最安全的添加软件软件源的方法是让 YaST 自动寻找并添加社区软件源。它会列出一些常用的并且安全的软件源供您选择：
+最简单且最安全的添加软件源的方法是让 YaST 自动寻找并添加社区软件源。它会列出一些常用的并且安全的软件源供您选择：
 <div class="path">YaST => Software（软件） => Software Repositories（软件源） => Click on "Add"（单击“添加”） => Select "Community Repositories" and click "Next"（选择“社区软件源”并点击“下一步”）</div><br />
 
 <center><video src="video/repos114.ogv" controls>  
@@ -264,28 +264,28 @@ function googleTranslateElementInit() {
 <ul>
 
     <li>
-        <b><a href="http://download.opensuse.org/repositories/home:/opensuse_zh/15.6/" target="_blank">
-        http://download.opensuse.org/repositories/home:/opensuse_zh/15.6/
+        <b><a href="http://download.opensuse.org/repositories/home:/opensuse_zh/16.0/" target="_blank">
+        http://download.opensuse.org/repositories/home:/opensuse_zh/16.0/
         </a></b>
     </li>
 
 <!--
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/MargueriteSu/15.6/" target="_blank">
-        http://download.opensuse.org/repositories/home:/MargueriteSu/15.6/
+        <a href="http://download.opensuse.org/repositories/home:/MargueriteSu/16.0/" target="_blank">
+        http://download.opensuse.org/repositories/home:/MargueriteSu/16.0/
         </a>
     </li>
 
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.6/" target="_blank">
-        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_15.6/
+        <a href="http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_16.0/" target="_blank">
+        http://download.opensuse.org/repositories/home:/hillwood/openSUSE_Leap_16.0/
         </a>
     </li>
 --> 
 <!--
     <li>
-        <a href="http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.6/" target="_blank">
-        http://download.opensuse.org/repositories/home:/stecue/openSUSE_15.6/
+        <a href="http://download.opensuse.org/repositories/home:/stecue/openSUSE_16.0/" target="_blank">
+        http://download.opensuse.org/repositories/home:/stecue/openSUSE_16.0/
         </a>
     </li>
 -->
@@ -293,14 +293,14 @@ function googleTranslateElementInit() {
 
 
     <li>
-        <a href="https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_15.6/" target="_blank">
-        https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_15.6/
+        <a href="https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_16.0/" target="_blank">
+        https://mirrors.aliyun.com/packman/suse/openSUSE_Leap_16.0/
         </a>（阿里云Packman源）
     </li>
 
     <li>
-        <a href="http://download.videolan.org/pub/vlc/SuSE/15.6/" target="_blank">
-        http://download.videolan.org/pub/vlc/SuSE/15.6/
+        <a href="http://download.videolan.org/pub/vlc/SuSE/16.0/" target="_blank">
+        http://download.videolan.org/pub/vlc/SuSE/16.0/
         </a>（Videolan 官方源）
     </li>
 </ul>
@@ -342,13 +342,13 @@ function googleTranslateElementInit() {
 <br /><br />
 
 使用命令 <i>zypper addrepo -f [URL] [Alias]</i> （Alias是自己给这个源随便定义的英文名）添加软件源并开启自动刷新，如：
-<div class="clroot">zypper addrepo -f http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.6/  packman</div><br />
+<div class="clroot">zypper addrepo -f http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_16.0/  packman</div><br />
 
 使用命令 <i>zypper modifyrepo -d [URL或者Alias]</i> 禁用一个软件源，如：
 <div class="clroot">zypper modifyrepo -d Packman</div><br />
 
 使用命令 <i>zypper removerepo [URL或者Alias]</i> 删除一个软件源： 
-<div class="clroot">zypper removerepo http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.6/ </div><br />
+<div class="clroot">zypper removerepo http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_16.0/ </div><br />
 
 列出配置的软件源，显示详情（优先级、网址等等）：
 <div class="cl">zypper repos -d</div><br />

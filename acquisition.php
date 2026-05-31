@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2025年6月4日</div>
+<div class="content-text">最后更新：2026年6月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -146,9 +146,9 @@ function googleTranslateElementInit() {
 
 <br /><br />
 
-<div align="center" class="content-title">openSUSE 15.6 coming soon:</div><br />
+<div align="center" class="content-title">openSUSE 16.0 coming soon:</div><br />
 
-<center><a href="http://en.opensuse.org/Portal:15.6"><img src="http://counter.opensuse.org/15.6/small" border="0" alt="countdown" /></a></center><br />
+<center><a href="http://en.opensuse.org/Portal:16.0"><img src="http://counter.opensuse.org/16.0/small" border="0" alt="countdown" /></a></center><br />
 -->
 
 </div>
@@ -168,19 +168,25 @@ DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 
 <br /><br /> 
 在国内可以通过网易、清华和中国科学技术大学的镜像下载：<br />
-<a href="http://mirrors.163.com/openSUSE/distribution/leap/15.6/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/15.6/iso/
+<a href="http://mirrors.163.com/openSUSE/distribution/leap/16.0/iso/" target="_blank">http://mirrors.163.com/openSUSE/distribution/leap/16.0/iso/
 </a><br />
 
-<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.6/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/15.6/iso/
+<a href="http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/16.0/iso/" target="_blank">http://mirrors.tuna.tsinghua.edu.cn/opensuse/distribution/leap/16.0/iso/
 </a><br />
 
-<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.6/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/15.6/iso/
+<a href="http://mirrors.ustc.edu.cn/opensuse/distribution/leap/16.0/iso/" target="_blank">http://mirrors.ustc.edu.cn/opensuse/distribution/leap/16.0/iso/
 </a><br />
 
 安装到硬盘或虚拟机的话，下载<br />
-<b>openSUSE-Leap-15.6-DVD-x86_64-Media.iso </b>。<br />
+<b>Leap-16.0-offline-installer-x86_64.install.iso </b>。<br />
 其他所有的ISO文件基本可以无视，别下载错了哦！<br />
 注：因为最新的 openSUSE Leap 使用企业版内核，所以目前全部是 64 位的系统。
+<br /><br />
+这里解释一下安装盘 ISO 文件命名规则，Leap-16.0 就是指 openSUSE Leap 16.0 版本；<br>
+offline 是指离线版大容量安装盘，如果是 online 就代表需要网络安装的较小 ISO 文件，一般直接下载离线版的大容量 ISO 文件；<br>
+x86_64 是指 Intel/AMD 等 x86_64 架构处理器，而 aarch64 代表高通、苹果、联发科等 ARM 64 位处理器。
+市面上大部分办公电脑都是 Intel/AMD 处理器，所以选择 x86_64 的安装盘 ISO 文件。
+
 <br /><br />
 
 <div class="heading2">3.2 购买便宜的非官方安装介质</div>
@@ -222,8 +228,8 @@ DVD 完全版（4.7GB）提供最流畅和最完整的用户体验，
 <div class="heading2">3.5 源代码</div>
 从这可以找到openSUSE中的所有开源软件的源代码，均以 RPM 文件的形式提供：
 <br />
-<a href="http://download.opensuse.org/source/distribution/leap/15.6/repo/oss/src/" target="_blank">
-http://download.opensuse.org/source/distribution/leap/15.6/repo/oss/src/</a>
+<a href="http://download.opensuse.org/source/distribution/leap/16.0/repo/oss/src/" target="_blank">
+http://download.opensuse.org/source/distribution/leap/16.0/repo/oss/src/</a>
 
 
 <br /><br />

@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2025年6月4日</div>
+<div class="content-text">最后更新：2026年6月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -173,8 +173,11 @@ openSUSE开放开发的，任何人都可以加入——这意味着您可以帮
 <div class="heading2">F.1 取得联系</div>
 
 参与的第一步是追随新闻和去了解社区。
+<br />
+<a href="https://www.suse.org.cn/" target="_blank"><b>https://www.suse.org.cn/    (全新的中文社区)</b></a>
+<br />
+<a href="http://forum.suse.org.cn/" target="_blank"><b>https://forum.suse.org.cn/    (全新的中文论坛)</b></a>
 <br /><br />
-
 
 <div class="heading3">F.1.1 新闻和博客</div>
 

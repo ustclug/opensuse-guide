@@ -46,7 +46,7 @@
 <tr>
 
 <td valign="top" style="padding-top: 5px" width="50%">
-<div class="content-text">最后更新：2025年6月4日</div>
+<div class="content-text">最后更新：2026年6月1日</div>
 </td>
 
 <td align="center" width="50%" valign="top">
@@ -234,10 +234,10 @@ https://en.opensuse.org/SDB:NVIDIA_drivers
 <br /><br />
 
 首先添加如下软件源：
-<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/15.6 nvidia</div><br />
+<div class="clroot">zypper addrepo -f https://download.nvidia.com/opensuse/leap/16.0 nvidia</div><br />
 
 然后执行如下智能安装命令：
-<div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/15.6</div><br />
+<div class="clroot">zypper install-new-recommends  --repo  https://download.nvidia.com/opensuse/leap/16.0</div><br />
 
 安装完之后重启。<br /><br />
 
